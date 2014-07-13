@@ -1,0 +1,107 @@
+---
+title: The Construction of Matter
+categories: Kant, Definition, MFNS, Notes
+...
+
+Kant [argues](skimmer:///Users/Roambot/Dropbox/PDFLibrary/kant2004.pdf?page=46)
+that the concept `<matter>` needs to be 'constructed' [*konstruiert*].
+It isn't all that clear what this means. Kant speaks of 'constructing'
+concepts in the mathematical case as well, and it is clear that here he
+means to link `<matter>` with mathematics. 
+
+>Now to cognize something a priori means to cognize it from its mere
+>possibility. But the possibility of determinate natural things cannot be
+>cognized from their mere concepts; for from these the possibility of the
+>thought (that it does not contradict itself) can certainly be cognized, but
+>not the possibility of the object, as a natural thing that can be given
+>outside the thought (as existing). Hence, in order to cognize the possibility
+>of determinate natural things, and thus to cognize them a priori, it is still
+>required that the intuition corresponding to the concept be given a priori,
+>that is, that the concept be constructed. Now rational cognition through
+>construction of concepts is mathematical. Hence, although a pure philosophy of
+>nature in general, that is, that which investigates only what constitutes the
+>concept of a nature in general, may indeed be possible even without
+>mathematics, a pure doctrine of nature concerning determinate natural things
+>(doctrine of body or doctrine of soul) is only possible by means of
+>mathematics. And, since in any doctrine of nature there is only as much proper
+>science as there is a priori knowledge therein, a doctrine of nature will
+>contain only as much proper science as there is mathematics capable of
+>application there. (4:470)
+
+\noindent But what is the significance of construction in the case of
+`<matter>` and how is it related to mathematical construction? And more
+basically, what is mathematical construction? In terms of the paper on
+definition, I won't pursue these questions exhaustively, but I should
+be sure to make clear the basic connection between the definition given
+in mathematics, and mathematical construction generally, if I am to
+make the necessary link between Kant's project for the pure part of
+physics and real definition as carried out in mathematics.
+
+# Definition in Mathematics #
+
+Concepts are composed of marks, so the most basic sense of 'constructing a
+concept' entails putting together a series of conceptual marks to make a
+complex concept. In the case of empirical concepts such as `<linden tree>` Kant
+seems to think we generate the concept through a complex series of mental acts
+involving comparison, reflection, and abstraction (JL 9:94). So
+construction of an empirical concept requires a series of empirical
+intuitions which are compared, similarities and differences noted, and
+abstracted to form a concept which then classifies some set of things
+accordingly.
+
+Mathematical concepts, in contrast, are constructed a priori. This
+means that no sensory experience is required, though Kant thinks that
+*intuition*---viz. pure intuition---is nevertheless still necessary.
+Here are what appear to be some fundamental characteristics of
+mathematical construction:
+
+1. A priori
+2. The content of the concept is elective [*willkürlich*]
+3. The content of the concept is exhaustively defined
+3. Construction proceeds via real definition
+4. The concept provides a 'recipe' for generating a corresponding object in
+   pure intuition
+5. The pure intuition proves the objective validity of the concept (its real
+   possiblity)
+6. The content of the concept distinguishes its object as being of a specific
+   kind (e.g. as *round* or *square*)
+7. The content of the concept *explains* why the object has the features that
+   it does
+
+
+# Interpretations #
+
+## Plaas 1966 ##
+
+[Plaass 1966]() construes metaphysical construction in terms of 
+
+## Förster 2000 ##
+
+Here’s a telling passage from [Förster 2000]():
+
+>The task of a construction of the concept ‘matter’ thus really has two sides
+>to it. The *Metaphysical Foundations* must first take the empirical concept of
+>matter in general and determine what a priori cognitions are possible with
+>regard to it. That is, it must analyze this concept and discern the
+>fundamental properties that belong to the possibility of matter in general
+>(4:472). It must then, second, demonstrate how the concept ‘matter’ can be
+>constructed from the elements thus gained. It must show, in other words, how
+>to exhibit a priori the intuition that corresponds to the concept.
+>(@forster2000, 62)
+
+Neither in this passage, nor in what follows, does he ever raise the question
+of how it might be that such an analysis and construction could be possible
+(actually, he does discuss the issue of construction, but not in a way relevant
+to the questions I’m raising). How could Kant hope to complete a project in
+which he articulates the ‘fundamental properties that belong to the possibility
+of matter in general’ when he denies that we could ever have knowledge of real
+definitions, which are exactly the kind of thing which articulates the
+fundamental features of the possibility of a thing!
+
+Perhaps the reply here is one which brings in the project of the TD. Certainly,
+that purports to show how an object must have a particular set of properties
+(e.g. be a substance standing in causal community with other substances, etc.).
+Isn’t the issue of the construction of `<matter>` just an more specific
+application of this strategy, and in response to just a slightly more specific
+version of the general question, how do subjective conditions of thinking
+become objective conditions of reality?
