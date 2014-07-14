@@ -1,0 +1,399 @@
+---
+title: Definition Outline
+categories: Kant, Definition, MFNS, Ground
+...
+
+
+# Kant on the Mathematical Method
+
+Kant notoriously denies that the mathematical method is of use to
+philosophy (citation?). Why?
+
+## Definition
+
+What is Kant’s theory of definition? Does it apply only to mathematical
+objects or can we give definitions of physical objects as well?
+
+### Nominal Definition
+
+A distinct concept that “suffices for differentiation of a thing from
+others” (24:919-20)
+
+#### Nominal Definition and Knowledge
+
+-   At JL §106 (9:143-4) Kant claims that nominal definitions either
+    specify the logical essence of a thing or articulate the marks
+    sufficient for distinguishing/differentiating that thing from
+    others. This is not sufficient to think of nominal definition in
+    terms of analytic truth (which I’ve been tempted to do).
+-   Could nominal definitions be used in a proper science? No – they
+    don’t provide the needed explanations (see “Essence and Proper
+    Science”)
+
+### Real Definition
+
+A distinct concept that “suffices for cognizing and deriving everything
+that belongs to the thing” (24:919-20; cf. 9:143-4)
+
+### Definition & Essence
+
+What is the connection for Kant between the definition of a thing and
+its essence? Why is knowledge of the essence of a thing important for
+Science?
+
+#### Essence and Proper Science
+
+A plausible explanation for the importance of essences to proper science
+is that such a science requires explanations from grounds and only real
+definitions offer the requisite grounds for explanation. Nominal
+definitions cannot provide the requisite explanations both because they
+are open to revision and because they cannot give logical derivations
+that - and this seems to be the important point - explain why the
+conclusion follows from the premises. They can at best be the basis of
+valid arguments where the conclusion does so follow.
+
+# Locke on Definition
+
+What is Locke’s theory of definition? Does it extend beyond mathematical
+objects?
+
+## Real Essence/Definition
+
+The real essence of a thing is that which makes the the thing what it
+is, and from which all of its other characteristics flow (or may be
+logically derived). In other words, there are necessary connections
+between the real essence and the other characteristics of the thing in
+question (perhaps excluding its accidents) and the real essence
+*explains* the presence of these other characteristics.
+
+> Essence may be taken for the being of any thing, whereby it is what it
+> is. And thus the real internal, but generally in Substances, unknown
+> Constitution of Things, whereon their discoverable Qualities depend,
+> may be called their Essence. This is the proper original signification
+> of the Word, as is evident from the formation of it; *Essentia*, in
+> its primary notation signifying properly *Being*. And in this sense it
+> is still used, when we speak of the *Essence* of particular things,
+> without giving them any Name. (E III.iii.15, p. 417)
+
+### Real essence and scientia
+
+“What would be required for scientia in natural philosophy? Since
+scientia generally concerns real essences, and since natural philosophy
+for Locke concerns material substances and their powers, scientia in
+natural philosophy would be knowledge of material substances’ real
+essences and their necessary connections to qualities flowing from
+them.” (@kochiras2013, 11)
+
+Knowledge of real essence would thus allow us to deduce a thing’s
+qualities without recourse to experience or experiment.
+
+> Had we such Ideas of Substances, as to know what real Constitutions
+> produce those sensible Qualities we find in them, and how those
+> Qualities flowed from thence, we could, by the specifick *Ideas* of
+> their real Essences in our own Minds, more certainly find out their
+> Properties, and discover what Qualities they had, or had not, than we
+> can now by our Senses: and to know the Properties of *Gold*, it would
+> be no more necessary, that *Gold* should exist, and that we should
+> make Experiments upon it, than it is necessary for the knowing the
+> Properties of a Triangle, that a Triangle should exist in any Matter,
+> the *Idea* in our Minds would serve for the one, as well as the other.
+> (E IV.vi.11, p. 585)
+
+#### Kant and Locke on natural science
+
+Note that given Locke’s position regarding the role real essence plays
+in natural science, it seems pretty clear that Kant’s articulation of
+the structure of matter in the MFNS conforms to Locke’s conditions for
+scientia.
+
+### Essence and mechanism
+
+There is extensive debate (see x-bdsk://kocrehiras2013) as to whether
+Locke endorses “pure mechanism”, and thus construes all qualities of
+matter as flowing from its real essence, understood in purely
+corpuscularian terms. The debate hinges around the apparent
+inconsistency between “Locke’s seeming acceptance of the corpuscular
+hypothesis, most notable in his apparent identification of a material
+substance’s real essence with the size, shape, and texture of its
+insensible parts, and his pessimism about the hypothesis’ explanatory
+power” (kochiras2013, 30), where issues concerning explanatory power
+often involve the question of sensation or other mental properties that
+God might superadd to matter.
+
+### Pessimism about knowledge of real essence
+
+Regardless of the debate concerning Locke’s position regarding real
+essence and the corpuscularian hypothesis, it seems that he successfully
+expressed skepticism concerning our knowledge of such essences,
+skepticism that reached Germany (as found, e.g. in Herz’s *Betrachtungen
+aus der Spekulativen Weltweisheit*).
+
+#### Sensitive knowledge
+
+Sensitive knowledge is what we have instead of proper scientific
+knowledge. Instead of the causal ground or basis of the properties
+perceived, we know only the effects of these grounds — viz., the
+perceived properties. And the fact that properties are found to
+regularly co-exist in observed cases does not tell us with any certainty
+that those properties will be found to co-exist in the next case.
+
+> For all the Qualities that are *co-existent* in any Subject, without
+> this dependence and evident connexion of their *Ideas* one with
+> another, we cannot know certainly any two to *co-exist* any farther,
+> than Experience, by our Senses, informs us. Thus though we see the
+> yellow Colour, and upon trial find the Weight, Malleableness,
+> Fusibility, and Fixedness, that are united in a piece of Gold; yet
+> because no one of these *Ideas* has any evident *dependence*, or
+> necessary connexion with the other, we cannot certainly know, that
+> where any four of these are, the fifth will be there also, how highly
+> probable soever it may be. (E IV.iii.14, p. 546)
+
+Yet our discoveries about co-existences of properties—though they are
+merely contingent particulars, or, insofar as they are applied beyond
+the particular cases we have actually observed, are mere probability—can
+yet qualify as real knowledge. (@kochiras2013, 16)
+
+(1) Criteria of sensitive knowledge
+
+These are described in kochiras2013. I don’t find the discusses
+especially compelling.
+
+(a) Co-existence in nature
+
+The complex ideas of substances that are the subject matter of the
+science must consist all and only of simple ideas which are found to
+coexist in nature.
+
+> Herein therefore is founded the reality of our Knowledge concerning
+> Substances, that all our complex Ideas of them must be such, and such
+> only, as are made up of such simple ones, as have been discovered to
+> co-exist in Nature. And our Ideas being thus true, though not,
+> perhaps, very exact Copies, are yet the Subjects of real (as far as we
+> have any) Knowledge of them. (E IV.iv.12, p. 568)
+
+(b) General claims
+
+”whatever have once had an union in Nature, may be united again.“ (E
+IV.iv.12, p. 568)
+
+I don’t see how this would be enough to justify moving from particular
+to general, especially given the admittance that there is no necessary
+connection between observed sensible properties.
+
+#### Herz and Locke
+
+Overtly Lockean worries are raised by Kant’s student Marcus Herz in the
+latter’s 1771 commentary on Kant’sDissertation. Herz says,“I believe,
+however, that I can maintain with great persuasiveness that there exists
+much too great a distance between the relations of things as we
+determine them in accordance with the laws of pure reason and what is
+true of these things independently from our cognition. I base this on
+nothing less than the nature of our cognition in general. Locke shows
+that it extends never further than to the qualities which these things
+have. Every part of our cognition is a judgment, in which we attribute
+some determination of predicates to a thing as subject. But what
+constitutes the substrate, on which all these qualities rest, cannot in
+and of itself be again a quality, because otherwise a subject must again
+be posited in which it [the quality] inheres. Instead it must be that we
+can only intuit qualities and can never cognize a subject through
+judgment” (Herz 1771/1990, p. 64).
+
+## Nominal Essence/Definition
+
+According to Kochiras, Locke understands nominal essence as “the set of
+observable qualities we use to classify a thing (which implies that the
+nominal essence could vary across time or communities)” (@kochiras2013,
+9).
+
+# The role of definition in MFNS
+
+Kant aims to provide a ‘construction’ of the concepts that constitute
+the concept <matter> which means that we need to (i) give a complete
+analysis of <matter> (cf. x-bdsk://watkins2009a, 10) and (ii) codify the
+boundaries of this analysis so that the concept’s structure isn’t open
+to future revision. Satisfaction of these two criteria is necessary if
+<matter> is to play its fundamental role in grounding physical knowledge
+apodictically.
+
+## The problem with definition in MFNS
+
+There are several prima facie problems with the strategy just outlined.
+
+i . Kant is explicit that empirical concepts cannot be defined, in part
+because they cannot be exhaustively analyzed and their boundaries
+definitively set (A727/B755).
+
+ii. Mathematical construction of a concept entails articulating a real
+    definition of the thing, and thus specifying its real essence. But
+    Kant denies the possibility of knowledge of the real essence of any
+    empirical object (JL §106 9:143-4; cf. A277/B333, Ref. 2995, 16:607,
+    Ref 2999, 16:609) — see
+    evernote:///view/1364029/s12/9fe57f3a-e62f-4f05-bd50-48125ebcc166/9fe57f3a-e62f-4f05-bd50-48125ebcc166/
+
+### The aims of the paper
+
+First, can we give an account of the strategy in MFNS such that it
+resolves the two issues raised above?
+
+Second, does the strategy Kant pursues in MFNS tell us anything more
+broadly about the critical philosophy and its aims? Perhaps, that it may
+profitably be understood as carving out, contra Locke, a form of
+scientia for the empirical world, while nevertheless retaining some of
+Locke’s humility?
+
+# The Standard Problematic of MFNS
+
+## What is a special metaphysics?
+
+what particular natures or kinds of things could be its object? And how
+precisely can an empirical concept of such things be given without
+compromising the necessity required of the pure part of natural science?
+(@watkins2009a)
+
+## The Argumentative structure of MFNS
+
+how is the special metaphysics provided by the Metaphysical Foundations
+supposed to be related to the transcendental part of the metaphysics of
+nature that was established in the Critique of Pure Reason? Does the
+former presuppose the principles of the latter or are they logically
+independent, but still related to each other in some other way?
+
+### The “Standard View”
+
+### The “Transcendental Deduction” View
+
+## The status of <matter> as empirical
+
+Here’s how Eric Watkins put the problem to me: “the issue is a difficult
+one that no one really has a satisfying resolution of. People come at it
+in different ways, but the basic problem is that the empirical concept
+of matter is empirical (and hence might not be instantiated), but Kant
+places the empirical concept of matter at the foundation of an a priori
+science of nature which seems to be established with certainty (and a
+priori). This sounds inconsistent, or is at least so problematic as to
+require some kind of explanation. (One can put the problem as you do, in
+terms of a distinction between explication and real definition, or in
+other ways, but these are then different aspects of what I take to be
+one fundamental problem.)”
+
+Here’s how he puts it in @watkins2009a: “If the concept of matter, most
+fundamentally, is simply the concept of any object of outer sense, then
+how is it still empirical in any genuine sense (and what has become of
+the structural difference Kant draws between the Critique of Pure Reason
+and the Metaphysical Foundations)? If, by contrast, impenetrability,
+extension, and movability are deemed the basic traits of the concept of
+matter, then how can one know a priori that any object we might
+encounter in outer sense must behave in accordance with the laws that
+would govern matter so defined?”
+
+### Strategies for resolving the role of <matter> in MFNS
+
+#### Plaass (1965) x-bdsk://plaass1994
+
+Plaass argues that the concept <matter> is empirical only in the sense
+that proof of the objective reality of the concept depends on
+experience. All other aspects of the concept, including its content (at
+least insofar as it is articulated in MFNS) is a priori. So the MFNS
+articulates the necessary and universal characteristics of matter *as
+such*, as well as the laws which govern it (presumably the laws as
+articulated by the Principles of *KrV*). matter considered only insofar
+as it can be an object ofthe external senses at all and nothing more
+specific. No properties of particular kinds of matter (particular
+objects of the senses) and/or particular content of the concept are to
+be taken into account that can be known only a posteriori. (cf.
+@plaass1994, 29)
+
+#### Schäfer (1966) x-bdsk://schafer1966
+
+#### Hoppe (1969) x-bdsk://hoppe1969
+
+#### Gloy (1976) x-bdsk://gloy1976
+
+#### Brittan (1978) x-bdsk://brittan1978
+
+#### Cramer (1985) x-bdsk://cramer1985
+
+#### Buchdahl (1969, 1986) x-bdsk://buchdahl1969 x-bdsk://buchdahl1986
+
+#### Friedman (1992, 2001, 2002) x-bdsk://friedman1992 x-bdsk://friedman2001a
+
+#### Falkenburg (2000) x-bdsk://falkenburg2000
+
+#### Pollok (2001) x-bdsk://pollok2001; x-bdsk://pollok2006
+
+Pollok argues that the concept <matter> cannot be empirical because
+“Experience cannot show that matter must be movable and that immovable
+material cannot exist.” (@pollok2006, 570). So the concept is
+articulated in a way other than that typical of empirical concepts (i.e
+via comparison, reflection, and abstraction), viz., “only the objective
+reality of the concept—“that such objects do exist” (10:285)—is actually
+observed; its content is demonstrated in “a complete analysis of the
+concept of a matter in general” (MFNS, 4724–5): the very task Kant
+undertakes in the Metaphysical Foundations.” (ibid)
+
+(1) Pollok’s Posiiton
+
+Pollok thus seems to take a position similar to Watkins (and perhaps
+Plaass) in that the main sense in which <matter> is empirical is the
+sense in which we need experience to demonstrate the objective validity
+of the concept: “Unlike transcendental a priori concepts, their
+[i.e. empirical concepts] objective reality cannot be demonstrated by
+referring to the conditions of possibility of objects of experience in
+general. While the content of the concept of motion can be constructed a
+priori (MFNS, 490~7~–495~26~), its reality presupposes the perception of
+something movable (MFNS, 4827–13), a material substance whose concept is
+itself determined by that of motion, or, more precisely, that of force
+or dynamical resistance.” (@pollok2006, 570).
+
+(2) Pollok’s Criticisms
+
+Pollok importantly criticizes Hoppe, Walker, and Dahlstrom for
+misunderstanding the strategy outlined in ¶15 of the Preface to
+MFNS—viz., that the ‘ground determination of something as an object of
+outer sense’ must be motion. Hoppe, Walker, and Dahlstrom all take the
+content as well as the instantiation [of the concept <motion> and thus
+<matter> as empirical, in the sense that they are’ dependent upon
+experience, specifically upon the contingent makeup of human
+sensibility’ (@pollok2006, 571) then they cannot account for how Kant
+could take the MFNS as a pure doctrine of motion or a pure part of
+natural science.
+
+#### Watkins (1994, 1998) x-bdsk://watkins1994 x-bdsk://watkins1998a
+
+The content of <matter> is determined and justified via a transcendental
+argument concerning the conditions of the possibility of experience of
+outer objects.
+
+## How to determine the content of <matter>?
+
+Watkins again: “what is the justification for each specific
+determination that is added when one thinks of matter as having a
+quantity, a quality, etc.? Also, what is the relationship between each
+new determination of matter and the various claims that Kant makes in
+each chapter of the Metaphysical Foundations? In particular, when Kant
+explicitly invokes principles for constructing concepts belonging to the
+possibility of matter, is his idea that these principles are required
+insofar as they make experience of the relevant “new determination” of
+matter possible (so that Kant would be developing a transcendental
+argument in the Metaphysical Foundations similar in many respects to the
+Critique of Pure Reason)?
+
+# Kant and Scholastic science
+
+Why does Kant have such a demanding conception of science? This question
+doesn’t seem to have been asked by much of the major literature. But it
+seems pretty clear that the answer is that he endorses, in many ways,
+the scholastic conception of a demonstrative and explanatory science.
+
+# Kant and mathematical construction
+
+It has never been totally clear to me why Kant thinks that there is only
+the possibility of proper science where there is the possibility of
+applying mathematics. It is clear that the demand on science relates to
+the issue of construction in pure intuition, but why *that* demand?
+
+Presumably the demand for construction depends on the demand for real
+definition. Since Kant seems to think that real definition is possible
+only in mathematics, there could be no science that is not founded on
+definitions made possible by mathematics. One would like to know more
+precisely why such definition is possible in mathematics.
