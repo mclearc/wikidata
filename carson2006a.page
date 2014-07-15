@@ -1,0 +1,271 @@
+---
+title: Carson 2006a - Comments
+categories: Kant, Locke, Mathematics, Definition
+...
+
+~~~~~{.bib}
+@incollection{carson2006a,
+	Author = {Carson, Emily},
+	Booktitle = {Intuition and the Axiomatic Method},
+	Chapter = {1},
+	Crossref = {carson2006},
+	Pages = {3--20},
+	Title = {Locke and Kant on Mathematical Knowledge},
+	Volume = {70},
+	Year = {2006}}
+~~~~~
+
+# Locke on Mathematical Knowledge #
+
+For Locke, mathematical knowledge is knowledge of ideas of modes (modes
+of what?) and thus consists in,
+
+>combinations of simple ideas which the mind puts together arbitrarily, of its
+>own choice, without reference to any “real existence”, and subject only to the
+>condition that the simple ideas be “consistent in the understanding”. Because
+>they have their existence “in the thoughts of men” rather than “in the reality
+>of things”, we can have perfect knowledge of them. On the other hand, ideas of
+>substance, the subject matter of natural philosophy, purport to refer to
+>things as they really exist, and to represent that constitution on which all
+>their properties depend. Thus we can never be sure that we have captured all
+>the various qualities belonging to the thing.[^125755]
+
+[^125755]: (@carson2006a, 6)
+
+Locke cashes this distinction out in terms of knowledge of
+essence. To illustrate the difference, Locke compares the idea of triangle with
+that of gold (cf. @carson2006a, 6):
+
+>. . . a Figure including a Space between three Lines, is the real, as well as
+>nominal *Essence* of a Triangle; it being not only the abstract *Idea* to
+>which the general Name is annexed, but the very *Essentia*, or Being, of the
+>thing itself, that Foundation from which all its Properties flow, and to which
+>they are all inseparably annexed.
+
+In the case of gold, however, the real essence is
+
+>. . . the real Constitution of its insensible Parts, on which depend all those
+>Properties of Colour, Weight, Fusibility, Fixedness, etc. which are to be
+>found in it. Which Constitution we know not; and so having no particular Idea
+>of, have no Name that is the Sign of it. But yet it is its Colour, Weight,
+>Fusibility, and Fixedness, etc. which makes it to be *Gold*, or gives it a
+>right to that Name, which is therefore its nominal Essence [3.3.18].
+
+So, as Carson concludes, we have here,
+
+>the key difference between ideas of modes and of substances which explains why
+>we have certain knowledge of the one, but not of the other. Because ideas of
+>modes are combinations of ideas which the mind puts together arbitrarily
+>without reference to any real existence outside it, the real essence just is
+>the nominal essence.[^125730]
+
+[^125730]: @carson2006a, 6
+
+I find this tremendously important for understanding Kant. But
+there are key differences, since for Kant, even those electively
+assembled empirical concepts do not provide for a coexistence of real
+and nominal essence. 
+
+## Locke's Ideality Thesis  ##
+
+According to Carson Locke holds that mathematical knowledge is *ideal*.
+Mathematics is, Locke says, “only of our own *Ideas*” (4.4.6). Discourses about
+morality are “about *Ideas* in the mind . . . having no external Beings for
+*Archetypes* which they . . . must correspond with” (3.11.17).[^182657]
+
+[^182657]: @carson2006a, 7.
+
+The ideality thesis makes two claims---viz. (1) the content of mathematical
+knowledge is fixed by relations between ideas, it makes no reference to the
+empirical world; (2) the certainty of mathematical knowledge stems from the
+fact that mathematical ideas are the 'Workmanship of the Understanding' and in
+virtue of that, transparent to us. Carson connects this to essences
+thusly,
+
+>Reformulated in terms of essences, the two important consequences of Locke’s thesis of the ideality of ideas of modes are (1) that the real essence is the same as the nominal essence, and (2) that the real essence is (therefore)
+knowable.[^183443]
+
+[^183443]: @carriero2006a, 7.
+
+Carson raises the question as to,
+
+>What makes our reasoning about squares and circles count as knowledge where
+>our reasoning about mere chimera like harpies and centaurs fails to count as
+>knowledge? How do we distinguish mathematical theories from mere fairy tales
+>about castles in the air? More to the point, how do we distinguish our
+>knowledge of triangles from our knowledge of two-sided rectilinear
+figures?[^18370]
+
+[^18370]: @carson2006a, 7-8.
+
+Put simply, Carson and Locke both (cf. 4.4.1) seem to think
+that knowledge must be constrained by how things are beyond relations
+between ideas. But Locke's account of how mathematics might be
+constrained (viz. by space) is in tension with his account of the
+certainty of mathematics (since that seems to depend on perceived
+relations between electively constructed ideas). 
+
+>In summary, then, Locke’s account of modes is supposed to capture what is
+>different between demonstrative sciences like mathematics and ethics on the
+>one hand, and natural philosophy on the other. Because mathematics and ethics
+>are only of our own ideas, we have certain demonstrative knowledge of them. I
+>have tried to suggest (i) that insofar as geometry is a body of
+>demonstratively certain instructive truths, as Locke describes it, its objects
+>are not arbitrary creations of the mind, and (ii) insofar as the objects of
+>ethics are arbitrary creations of the mind, it does not admit of demonstrative
+>certainty of instructive truths in the way that geometry does. The problem
+>here lies with Locke’s failure to account for the essential role of spatial
+>constructions in geometrical demonstration. More important than the failure of
+>Locke’s analogy between mathematics and ethics, however, is that his account
+>of mathematical knowledge is radically incomplete. The claim is supposed to be
+>that we have privileged knowledge of the properties of geometrical figures
+>because they are only in our minds, we know the real essences. The fact that
+>there are external ‘extra-mental’ constraints — that space, in effect, acts as
+>a background theory — shows that this cannot be the case. In failing to
+>integrate these constraints on the generation of geometrical ideas and our
+>knowledge of these constraints into his account of demonstrative certainty,
+>Locke has failed to explain how we come to have demonstrative certainty even
+>in mathematics.[^184432]
+
+[^184432]: @carson2006a, 10.
+
+# Kant's Account of Mathematics #
+
+Carson divides Kant's account into two periods---the Prize Essay of
+1763, and the CPR discussion in the Discipline. 
+
+## The Prize Essay - 1763
+
+Carson takes the content of the Prize Essay discussion to be largely in
+agreement with Locke. Our knowledge is certain because of the nature of its
+content---viz. it is the product of arbitrary assemblage of conceptual marks
+into sythetically constructed concepts (nominal and real definition coincide),
+rather than the analysis of given concepts, as in philosophy.
+
+>It seems, then, that Kant’s account of the certainty of mathematical knowledge
+>shares the essential features of Locke’s account. What is special about
+>mathematical concepts is that they are given by synthetic definitions — by the
+>arbitrary combination of concepts. Because I defined the concept, I am
+>conscious of each of the marks included in it; because the thing defined is
+>not a thing outside me, but is first given by the definition, then all the
+>marks which I include in the definition of the thing are all the marks that
+>belong to the thing. In other words, to explain the certainty of mathematics,
+>Kant, like Locke, appeals to what I called earlier the ‘ideality’ of
+>mathematical concepts: because we make the concepts of mathematics, we have
+>perfect insight into them.[^195934]
+
+[^195934]: @carson2006a, 12.
+
+So, according to Carson Kant endorses the ideality thesis as
+an explanation of mathematical knowledge. Kant makes a small advance
+over Locke by
+
+1. clearly articulating the difference between conceptual analysis and
+   mathematical demonstration
+2. Articulation of the mathematical method in terms of a formal axiomatic
+   system with 'indemonstrable propositions' regarded by mathematics as
+   'immediately certain' (2:281)
+
+Carson charges that this account of Kant's doesn't provide us with an
+account of the certainty of mathematics. 
+
+>Considering that his goal is to contrast the nature of mathematical and
+>philosophical certainty, it would seem that he owes us an account of why the
+>distinguishing features of mathematics are guarantees of the certainty of
+>mathematics. It seems then that the important task is to provide an
+>epistemological grounding for the mathematical method. He has to show that the
+>mathematical method of attaining certainty is in fact a method of attaining
+>certainty.[^203055]
+
+[^203055]: @carson2006a, 15
+
+
+## The Critical Period ##
+
+The main addition to Kant's account in the critical period is that of
+the doctrine of the ideality of space and time and the possession by
+cognitive subjects of forms of pure a priori intuition. Carson
+maintains that, for Kant, mathematical definition allow for the
+elective generation of a concept whose content is exhaustively
+articulated. Mathematical knowledge is certain and non-trivial because
+it allows for the a priori construction of an object corresponding to
+the concept. The objective validity of the concept is thus assured. 
+
+>Herein lies the reason why synthetic definitions are admissible in mathematics
+>and not in philosophy: the arbitrary combination of concepts in mathematics
+>admits of a priori construction, which assures us of the existence, or better,
+>the possibility of the objects. It is in this sense, then, that mathematical
+>definitions are also real definitions: a real definition, Kant says, “does not
+>merely substitute for the name of a thing other more intelligible words, but
+>contains a clear property by which the defined _object_ can always be known
+>with certainty” [A242n]. Thus, Kant says earlier in the _Critique_, a real
+>definition “makes clear not only the concept but also its _objective
+>reality_”. Because mathematical definitions present the object in intuition,
+>in conformity with the concept originally framed by the mind, they are real
+>definitions. Mathematical definitions _are_, Kant says, constructions of
+>concepts [A730/B758].[^21147]
+
+[^21147]: @carson2006a, 17.
+
+As Carson is conceiving of things, metaphysics fails where mathematics
+succeeds because the former must 
+
+1. Deal in concepts that are *given* not made
+    - content of concept cannot be given an exhaustive analysis
+    - 'boundaries' of concept are subject to change/revision
+2. Lack a priori means to demonstrate the real possibility of the concept's
+   object
+3. Because of (2), the concepts of metaphysics lack any a priori demonstration
+   of their objective validity
+
+It isn't clear to me that Carson is right about this. First, she seems
+to ignore the possibility of electively constructed empirical concepts,
+such as `<chronometer>`. Second, she focusses too much on the issue of
+demonstrating the real possibility of an object via demonstration of
+its 'existence', which seems wrong for mathematical concepts,
+especially given Kant's note in the Preface to the MFNS that 
+
+>Essence is the first inner principle of all that belongs to the possibility of
+>a thing. Therefore, one can attribute only an essence to geometrical figures,
+>but not a nature (since in their concept nothing is thought that would express
+>an existence). (4:467, note)
+
+Mathematical objects do not exist. So the demonstration of the real possibility
+of, e.g., a geometric object is not via advertance to the existence of it, but
+rather (I think) to some feature of *space*---viz. some limitation of it. It is
+the actuality of space that grounds the real possibility of figures in space
+and we recognize this in virtue of our capacity to have pure intuitions of
+space (and time, in the case of arithmetic). This objection may be misplaced as
+[carson1997](), 508 seems to be aware that the issue of *existence* isn't
+actually appropriate to mathematics. Here (@carson1997, 508) Carson agrees with
+Friedman (cf. [friedman1992]()) that construction in pure intuition does not
+prove the real possibililty of the related mathematical concept. Accordingly,
+it must be empirical intuition that provides the requisite proof.[^113850] 
+
+[^113850]: @carson1997, 506.
+
+Carson attempts to develop a [middle ground](skimmer:///Users/Roambot/Dropbox/PDFLibrary/carson1997.pdf?page=21)
+according to which construction does not, by itself establish the real
+possiblility of its object, but rather only in virtue of the proof in
+the Axioms of Intuition. 
+
+>Thus mathematical concepts earn their objective reality derivatively: in
+establishing that whatever geometry asserts of pure intuition is valid of
+empirical intuition, the objective reality of geometrical concepts which are
+constructible in pure intuition is thereby also established. As Kant says at
+A733/B761: 'the possibility of mathematics must itself be demonstrated in
+transcendental philosophy.' In other words, once the transcendental facts are
+given, and the objective validity of pure intuition is established, we can see
+that construction in pure intuition in turn confers objective reality on
+mathematical concepts. It is irrelevant whether or not the mathematician alone
+provides the complete demonstration. Indeed, there is thus a clear distinction
+between constructibility and existence: mathematicians are not concerned with
+real existence at all, the way philosophers are.[^11435]
+
+[^11435]: @carson1997, 508.
+
+Finally, I think her discussion completely ignores what may well be the most
+important part of Kant's view concerning real definition---viz. that the
+possession of a real definition allows one to derive in an explanatorily
+satisfactory way the features of an object from its essential features.
+
