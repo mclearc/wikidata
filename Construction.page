@@ -28,7 +28,7 @@ means to link `<matter>` with mathematics.
 >contain only as much proper science as there is mathematics capable of
 >application there. (4:470)
 
-\noindent But what is the significance of construction in the case of
+But what is the significance of construction in the case of
 `<matter>` and how is it related to mathematical construction? And more
 basically, what is mathematical construction? In terms of the paper on
 definition, I won't pursue these questions exhaustively, but I should
@@ -68,6 +68,38 @@ mathematical construction:
 7. The content of the concept *explains* why the object has the features that
    it does
 
+## Mathematical vs. Metaphysical Definition ##
+
+Kant thinks that there are important differences between the
+mathematical and philosophical spheres of inquiry such that the method
+of mathematics cannot be easily transported to
+philosophy---sepcifically, metaphysics. The difference centers on the
+issue of definition. As Kant says in his 1763 Prize Essay,
+
+>In mathematics I begin with the definition of my object, for example, of a
+>triangle or a circle, or whatever. In metaphysics I may never begin with a
+>definition. Far from being the first thing I know about the object, the
+>definition is nearly always the last thing I come to know. In mathematics,
+>namely, I have no concept of my object at all until it is furnished by the
+>definition. In metaphysics I have a concept which is already given to me
+>although it is a confused one. My task is to search for the distinct, complete
+>and determinate concept. (2:283)
+
+The concepts with which philosophy works are given to it.
+Thus its definitions are arrived at analytically (2:276). In contrast, the
+concepts with which mathematics works are *made*, and its concepts are
+arrived at synthetically, as a result of the definition articulated.
+For example, in the case of the concept `<cone>` Kant says that,
+
+>[w]hatever the concept of cone may ordinarily signify, in mathematics the
+>concept is the product of the arbitrary representation of a right-angled
+>triangle which is rotated on one of its sides (2:276).[^133042]
+
+[^133042]: Cf. @carson2006a, 10-11.
+
+So mathematical knowledge, as Kant envisions it, does not
+proceed from concepts concerning things we encounter in nature, but
+rather from definitions used to construct concepts a priori. 
 
 # Interpretations #
 
