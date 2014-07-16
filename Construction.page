@@ -116,11 +116,11 @@ concept, that its object is really possible.
 
 ## Plaas 1966 ##
 
-[Plaass 1966]() construes metaphysical construction in terms of 
+[plaass1966]() construes metaphysical construction in terms of 
 
 ## Förster 2000 ##
 
-Here’s a telling passage from [Förster 2000]():
+Here’s a telling passage from [forster2000]():
 
 >The task of a construction of the concept ‘matter’ thus really has two sides
 >to it. The *Metaphysical Foundations* must first take the empirical concept of
@@ -132,19 +132,25 @@ Here’s a telling passage from [Förster 2000]():
 >to exhibit a priori the intuition that corresponds to the concept.
 >(@forster2000, 62)
 
-Neither in this passage, nor in what follows, does he ever raise the question
-of how it might be that such an analysis and construction could be possible
-(actually, he does discuss the issue of construction, but not in a way relevant
-to the questions I’m raising). How could Kant hope to complete a project in
-which he articulates the ‘fundamental properties that belong to the possibility
-of matter in general’ when he denies that we could ever have knowledge of real
-definitions, which are exactly the kind of thing which articulates the
-fundamental features of the possibility of a thing!
+Förster argues that Kant *does* allow for the a priori construction of matter
+in the MFNS, but denies that this construction allows us to derive the
+characteristics of specific forms of matter because we lack a priori knowledge
+of particular natural laws. So the nature of matter as fluid, rigid, brittle,
+elastic, etc., is not something that can be derived from the a priori
+construction of `<matter>` in terms of `<motion>`, and specifically, as
+consisting of opposed forces of attraction and repulsion. Förster thus
+argues that it doesn't really matter to Kant's project in the MFNS what
+the specific law regarding repulsive force is, so long as it can be
+shown that *whatever the content of the law*, it is consistent with the
+conception of `<matter>` in terms of opposing forces.[^163348]
 
-Perhaps the reply here is one which brings in the project of the TD. Certainly,
-that purports to show how an object must have a particular set of properties
-(e.g. be a substance standing in causal community with other substances, etc.).
-Isn’t the issue of the construction of `<matter>` just an more specific
-application of this strategy, and in response to just a slightly more specific
-version of the general question, how do subjective conditions of thinking
-become objective conditions of reality?
+[^163348]: @forster2000, 65.
+
+Förster also argues against [friedman1992]()'s interpretation that the
+passage at 4:525 shows that Kant in fact *denies* the possibility of
+constructing `<matter>`. Förster notes, rightly I think, that Kant
+seems only to be denying the possibility of deriving all the specific
+varieties of matter from the general concept. See also the discussion
+of Friedman [below](#friedman-construction)
+
+## Friedman 1992 & 2013 ## {#friedman-construction}
