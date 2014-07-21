@@ -3,3 +3,249 @@ title: Kant on Explanatory Grounds
 categories: Kant, Definition, Ground, Matter
 ...
 
+# The Pre-Critical Kant on Explanatory Grounds
+
+In the *New Elucidation of the First Principles of Metaphysical Cognition*,
+from 1755, Kant presents a framework for understanding grounding explanations
+of the kind necessary for a proper science.[^7] Kant’s notion of a ‘ground’
+[*ratio*, *Grund*] is that of a relation between subject and predicate such
+that the subject is ‘determined’ [*determinatum*] to have a particular
+predicate, as opposed to its opposite (NE 1:391, 393). He distinguishes two
+kinds of ground or reason—viz. ‘antecedently’ [*antecedenter*] and
+‘consequently’ [*consequenter*] determining grounds.[^8]
+
+> That which determines a subject in respect of any of its predicates,
+> is called the *ground*. *Grounds* may be differentiated into those
+> which are antecedently determining and those which are consequentially
+> determining. An *antecedently* determining ground is one, the concept
+> of which precedes that which is determined, i.e. that in the absence
+> of which what is determined would not be intelligible. A
+> *consequentially* determining ground is one which would not be posited
+> [*poneretur*] unless the concept which is determined by it had not
+> already been posited from some other source. You can also call the
+> former the reason *why*, or the ground of being or becoming
+> [*rationem*cur\* scilicet essendi vel fiendi\*], while the latter can
+> be called the ground *that*, or the ground of knowing [*rationem* quod
+> *scilicet cognoscendi*] (NE 1:391-2)
+
+Kant articulates these notions of ground for epistemic purposes. His
+concern is with the basis upon which we assent or deny the truth of a
+particular proposition. Kant’s idea seems to be that, for any
+proposition, there must be some basis to which one can point that would
+allow one to decide between the truth of a proposition and its negation.
+If there were not, then we would have to suspend judgment concerning the
+proposition since each of its ‘two predicates [i.e. the predicate or its
+negation] remains possible, neither being established as true in respect
+of our knowledge’ (NE 1:392). 
+
+Two kinds of knowledge are then possible. Knowledge of the consequently
+determining ground is *knowledge that* one of these predicates is excluded in
+favor of the other (NE 1:393, 396). Knowledge of the antecedently
+determining ground provides not only knowledge that one predicate is
+excluded in favor of another, but also *why* this is the case. 
+
+One illustrative example Kant provides is that of the ground of evil in
+the world (NE 1:392). Our *consequently* determining ground for
+assenting to the proposition that there is evil in the world is our own
+experience of such evil. So, with regard to the question ‘is there
+evil?’ our experience provides us the basis for a positive answer. It is
+sufficient for us to decide between the propositions ‘there is evil’ and
+‘there is no evil’. But this only gives a reason for thinking *that*
+there is evil in the world, not *why* there is such evil.[^9] An
+*antecedently* determining ground would give us such a reason why by
+giving us not merely the fact of evil’s existence, but that in virtue of
+which it exists.
+
+Despite its epistemic emphasis, Kant’s notion of ground is also *ontological*.
+In the example of the ground of evil, Kant’s notion of the antecedently
+determining ground is not simply one which gives an answer to a why question,
+but rather does so *because* it is the metaphysical basis of the evil. As Kant
+puts it, the “determining ground is not only the criterion of truth; it is also
+its source.” (NE 1:392). This could be the case for one of two reasons. On the
+one hand, the ground could be a necessary condition of there being evil. Thus,
+a full explanation of why evil exists would have to include this ground. But,
+on the other hand, since all the necessary conditions of evil's existing could
+obtain and yet evil not exist, one must also ask after the sufficient
+conditions of this existence---i.e. after the *cause* of evil's
+existence.[^111453] Alternately put, an antecedently determining ground is a
+ground of ‘being or becoming’ [*essendi vel fiendi*], and it is precisely due
+to the generative status of the ground that it has its explanatory status (NE
+1:396-7, 398).
+<!-- NOTE: this isn't quite right since one could have merely knowledge that one thing causes another, without knowing *why* it does so. So what's missing? Presumably the fact that a determining ground *excludes* other predicates is significant, so the idea is that the ground tells us why this feature rather than another is predicated of the thing -->
+
+[^111453]:  There is a helpful discussion of the pre-critical Kant on
+grounds in [watkins2005](), 113 note 10, 119-29. Cf. [longuenesse2001]().
+
+Consider again the proposition 'there is evil in the world'. To have knowledge
+of a determining ground for this proposition is to have knowledge that excludes
+the proposition's negation. In the case of a consequently determining ground,
+such as one's experience of evil, the basis for 'excluding' the opposing
+proposition---viz. 'it is not the case that there is evil in the world'---is
+something that is a result or effect of the truth of the proposition in
+question---i.e of the fact that makes 'there is evil in the world' true. So
+one's ground for knowing the proposition 'there is evil in the world'---e.g.
+one's experience---is a *consequence* of there being a fact which obtains and
+makes that proposition true---viz. the fact that there is evil in the
+world.[^12586]
+
+[^12586]: This assumes that the knowledge is not transmitted by other
+means, e.g. testimony. 
+
+In the case of knowledge of antecedently determining grounds, one's
+knowledge is *not* a consequence of the fact which makes the proposition
+in question true, but rather knowledge of that which accounts for the
+existence of the fact in question. In this case, the ground for
+affirming the truth of 'there is evil in the world' is not a consequence
+of the existence of the proposition's truth-maker, but rather explains
+why that truth-maker exists. In the case of evil, this might be
+knowledge of god's motives or intentions. To put things another way, if
+the proposition in question were the consequent of a material
+conditional, then one's knowledge of an antecedently determining ground
+would be knowledge of the antecedent to that conditional. However, this
+is slightly misleading, since there is more than logical connection at
+work. Rather, the antecedent must also have explanatory priority. 
+
+We might better distinguish the central notions Kant is getting at by
+distinguishing between an *explanatory* ground and a *factual* ground.
+Both are ontological notions. They refer to object, states, events,
+properties, etc. Both are also epistemic in that they provide knowledge.
+An explanatory ground gives one reason for *both* holding that
+something is true and that gives knowledge of why. A factual ground
+merely gives reason for holding that something is true. 
+
+# Real vs. Logical Grounds #
+
+In the ramp-up to the critical period Kant makes a new distinction vis-a
+-vis grounds, between the logical and the real ground.[^16425] In the
+Herder Lecture notes Kant says,
+
+>A ground is thus something by which, having been posited, something else is
+>posited. Crusius describes the ground through which something is brought
+>about. The word bring about is much too composite: for not all effects are
+>consequences and not all powers [a] ground. Every ground is either logical, by
+>means of which the consequence that is identical to it is posited as a
+>predicate according to the rule of identity, or real, by means of which the
+>consequence that is not identical to it is not posited according to the rule
+>of identity. (28:11)
+
+[^16425]: See the discussion in @watkins2005, 162-5. [PDF](skimmer:///Users/Roambot/Dropbox/PDFLibrary/watkins2005.pdf?page=175)
+
+So to know the logical ground of a thing is to know what follows from
+the concept of it, in this case, that the predicate which is (covertly)
+contained in the subject (or identical with it) follows from the subject.
+Knowledge of a real ground is knowledge of a non-conceptual, non-logical
+necessitation relation, and thus is not one derivable by means of appeal
+to the principles of identity or non-contradiction. 
+
+Interestingly, Kant seems to deny the intelligibility of connections
+between real grounds. 
+
+>The connection between the logical ground and con- sequence is comprehensible,
+>but not that between the real ground, that when something is posited,
+>something else would be posited at the same time: example: God wills! – There
+>became the world!” (28:12)
+
+[Watkins](watkins2005) puts it this way,
+
+> we cannot rationally grasp the connection between a real ground and its
+> effect. That is, we cannot infer solely on the basis of reason or the
+> principle of contradiction that an effect necessarily follows from its real
+> ground.[^175725]
+
+[^175725]: @watkins2005, 163.
+
+Further quoted by Watkins, Kant seems to go even further by claiming that
+
+> every determination of things, however, that requires a real ground, is
+> posited by something else, and the connection of a real ground with the real
+> consequence is thus not comprehended [eingesehen] from the rule of identity,
+> also cannot be expressed by a judgment, but is rather a simple concept. . .
+> . Only through experience can we have insight [einsehen] into the connection
+> of the real ground, not logically (28:24).
+
+I think this has to be a position that Kant renounces in the critical
+period since it seems, at least in the case of mathematics, that we know
+the real ground of the objects of mathematics insofar as they admit of
+construction in pure intuition. 
+
+# Ground and the A Priori #
+
+Kant’s notion of an antecendently determining ground is one which
+provides properly scientific knowledge, in the sense that it does not
+merely provide one with true information, but in addition, with the
+reason or explanation why something is the case. Such knowledge, in the
+seventeenth and eighteenth centuries was typically regarded as a priori,
+not because (as in our contemporary usage) it could be known
+independently of experience, but rather because experience could only
+provide knowledge of consequently determining grounds—i.e. knowledge
+that something is the case.
+<!-- TODO: This paragraph might need to be radically expanded. Certainly it is going to be repetitive given what I say in the next subsection (which itself probably should be deleted). At the very least I should explain why experience can only provide such limited knowledge -->
+<!-- NOTE: See discussion by Crusius at skimmer:///Users/Roambot/Dropbox/PDFLibrary/watkins2009.pdf?page=159 -->
+<!-- TODO: incorporate discussion of Smit concerning insight vs. understanding: skimmer:///Users/Roambot/Dropbox/PDFLibrary/smit2009.pdf?page=19 and following -->
+
+A priori knowability in this (now archaic) sense of knowledge of that in virtue
+of which something is the case, and not merely that it is the case, was widely
+held in the seventeenth and eighteenth centuries to be the epistemic ideal
+towards which all doxastic states aim.[^10] The influential *Port Royal Logic*
+of Arnauld and Nicole includes a definition of the a priori in terms of the
+‘demonstration of effects by their causes.’[^11] Leibniz argued that there is
+“no true or existent fact, no true assertion, without there being a sufficient
+reason why it is thus and not otherwise.”[^12] Even closer to Kant, Wolff
+provides a general definition of ground in terms of ‘that through which one can
+understand why something [i.e. what is grounded] is the case.’[^13] Kant’s
+pre-critical conception of an antecedently determining ground seems to
+straightforwardly connect with these older notions.[^14]
+
+This conception of an explanatory ground 
+
+
+## Insight and the A Priori ##
+
+
+
+One would have available a demonstration (i.e. a syllogism) in which
+those characteristics which are fundamental or priori in the order of
+being are also fundmental or priori in the order of explanation. 
+
+[^7]: For helpful discussion of these matters see @longuenesse1998,
+    345-74; @longuenesse2001; @berg2014, ch. 2; @smit2009.
+
+[^8]: Though Kant here puts the notion of a determining ground in terms
+    of subject-predicate relations (and their corresponding
+    substance-accident relations), by the mid 1760s Kant is also clear
+    that the relation is one which can also hold between propositions.
+    In Herder’s metaphysics lecture notes from this period
+    (cf. 28:12-13, as well as Kant’s 1763 work on *Negative Magnitudes*
+    (2:202-4) we see Kant distinguishing ground and consequent in terms
+    of what is *inferred* (e.g. 2:203). By the critical period, Kant is
+    also interchangebly talking of antecedently and consequently
+    determining grounds with hypothetical modes of inference—viz. modus
+    ponens and modus tollens respectively (e.g. JL 9:52). Importantly,
+    only inferences of the modus ponens form are in a position to
+    provide knowledge *why* something is the case. See also
+    @longuenesse2001, 74-5. I discuss this issue further below.
+    <!-- NOTE: Should this be in the body of the paper rather than in a footnote? -->
+
+[^9]: @berg2014 construes consequently determining grounds in terms of
+    ‘subjective justification’ (27). This must be incorrect, at least as
+    a description of Kant’s position, since theoretical justification
+    cannot ever be *subjective*, though it requires subjective causes to
+    occur. As Kant puts it in the critical period, assent is “an
+    occurrence in our understanding that may rest on objective grounds,
+    but that also requires subjective causes [Ursachen] in the mind of
+    him who judges” (A820/B848; cf. LL 24:162, 851, 879).
+
+[^10]: See @pasnau2013b for discussion of a priori knowability as
+    epistemic ideal. This ideal was often pursued in terms of the
+    ‘*Regressus*’ theory of the Paduan Aristotelians. Cf. @randall1961 ;
+    @gaukroger2006a. <!-- TODO: I need
+    some further discussion here of why the regressus method is relevant. -->
+
+[^11]: @arnauld1996, 233. Cf. @adams1994, 109; @smit2009 ;@hogan2009,
+    53-4.
+
+[^12]: @leibniz1976, 646 (*Monadology* §32).
+
+[^13]: @wolff1751, §29.
+
+[^14]: Cf. @longuenesse2001, 69-70; @hogan2009, 53.
