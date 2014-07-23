@@ -1,6 +1,6 @@
 ---
 title: 1. Kant's Project
-categories: Kant, Teaching, A priori, Analyticity
+categories: Kant, Teaching, Apriori, Analyticity
 ...
 
 
@@ -131,7 +131,7 @@ experience in the sense that one need have *no* experience in order to
 have the knowledge. On the contrary, Kant thinks that *all* of our
 knowledge depends on our having experience of some kind or another,
 though he doesn’t think this dependence entails that all our judgments
-are ultimately *justified* by experience. This is way Kant says that
+are ultimately *justified* by experience. This is why Kant says that
 
 >  although all our cognition commences *with* experience, yet it does not on
 >  that account all arise *from* experience. For it could well be that even our
@@ -155,34 +155,35 @@ only mark or indicator that some bit of knowledge is a priori. In
 addition, Kant argues, any bit of knowledge that is necessary and/or
 universal in scope is itself a priori.
 
-> Necessity and strict universality, therefore, are secure indications
-> that an item of knowledge is a priori, and they always go together.
-> Sometimes one of them is easier to apply as a criterion, sometimes the
-> other… [but] each of them is an infallible test of apriority.
-> (Introduction, EMT 17-18)
+>Experience teaches us, to be sure, that something is constituted thus and so,
+but not that it could not be otherwise. **First**, then, if a proposition is
+thought along with its **necessity**, it is an *a priori* judgment; if it is,
+moreover, also not derived from any proposition except one that in turn is
+valid as a necessary proposition, then it is absolutely *a priori*. **Second**:
+Experience never gives its judgments true or strict but only assumed and
+comparative **universality** (through induction)...Necessity and strict
+universality are therefore secure indications of an *a priori* cognition (B3-4)
 
-Kant argues that the conception of a priori knowledge is presupposed in
-many empirical judgments as well as in particular sciences. He
-specifically points to mathematics (‘5+7=12’) and to physical judgments
-(‘every alteration has a cause’). One of Kant’s arguments (which he
-hints at on EMT 18) is that all of our empirical knowledge (even that
-knowledge which we think we have unproblematically) presupposed a priori
-knowledge.
+Kant argues that the conception of a priori knowledge is presupposed in many
+empirical judgments as well as in particular sciences. He specifically points
+to mathematics (‘5+7=12’) and to physical judgments (‘every alteration has a
+cause’). One of Kant’s arguments (which he hints at in §III of the
+Introduction) is that all of our empirical knowledge (even that knowledge which
+we think we have unproblematically) presupposed a priori knowledge.
 
-Kant thinks that there are many examples of judgments which we claim to
-know a priori, but he is interested primarily in a specific subset of
-those which constitute the subject matter of *metaphysics*—viz.
-judgments concerning God, the soul (or mind), and immortality. One of
-Kant’s primary aims is to determine whether metaphysical knowledge is
-possible, and if it is possible, what the extent and nature of that
-knowledge might be. Metaphysical knowledge is problematic, Kant argues,
-because unlike other forms of a priori knowledge, such as logic and
-mathematics, it is not at all obvious which metaphysical judgments are
-in fact correct and thus known, and which are merely thought to be so.
-This is exemplified, Kant thinks, by the contentious disputes in which
-philosophers have long been involved. Kant thus hopes that, by giving a
-critique of reason, he can demonstrate the extent to which metaphysics
-might count as a science, and thus rest on a secure set of claims.
+Kant thinks that there are many examples of judgments which we claim to know a
+priori, but he is interested primarily in a specific subset of those which
+constitute the subject matter of *metaphysics*—viz. judgments concerning God,
+the soul (or mind), and immortality. One of Kant’s primary aims is to determine
+whether metaphysical knowledge of such things is possible, and if it is
+possible, what the extent and nature of that knowledge might be. Metaphysical
+knowledge is problematic, Kant argues, because unlike other forms of a priori
+knowledge, such as logic and mathematics, it is not at all obvious which
+metaphysical judgments are in fact correct and thus known, and which are merely
+thought to be so. This is exemplified, Kant thinks, by the contentious disputes
+in which philosophers have long been involved. Kant thus hopes that, by giving
+a critique of reason, he can demonstrate the extent to which metaphysics might
+count as a science, and thus rest on a secure set of claims.
 
 ## The Analytic/Synthetic Distinction
 
@@ -193,18 +194,17 @@ addition to being classifiable as either a priori or a posteriori (or
 empirical), may also be classified as being either [analytic or
 synthetic](http://plato.stanford.edu/entries/analytic-synthetic/).
 
-An analytic judgment is one in which the predicate is ‘contained’ in the
-concept. One way of understanding this notion of ‘containment’ is via a
-claim about meaning. Accordingly, analytic judgments are those whose
-truth is known merely in virtue of knowing the means of the concepts
-constituting the judgment. For example, in the judgment ‘All bachelors
+An analytic judgment is, according to Kant, one in which the predicate is
+‘contained’ in the concept. One way of understanding this notion of
+‘containment’ is via a claim about meaning. Accordingly, analytic judgments are
+those whose truth is known merely in virtue of knowing the meanings of the
+concepts constituting the judgment. For example, in the judgment ‘All bachelors
 are unmarried’ the concept \<unmarried\> is part of the meaning of
 \<bachelor\> and so the truth of the judgment is grasped just by knowing
 the relevant meanings.
 
-Kant also introduces several other markers of analyticity. In total Kant
-provides us with four different marks of analyticity. He says that in an
-analytic judgment the predicate is
+Kant also introduces several other markers of analyticity, four in total. He
+says that in an analytic judgment the predicate is
 
 1.  ‘contained’ within the subject
 2.  ‘identical’ with the subject
@@ -238,16 +238,16 @@ posteriori do not exhaust the realm of possible judgments. There are
 also *synthetic a priori* judgments that are possible. Kant argues that
 causal judgments are a clear example.
 
-> Take the proposition ‘Every event has its cause’…the concept of
-> *cause* lies entirely outside the concept of *event*; it signifies
-> something different from the general concept of *event*, and isn’t in
-> any way contained in it. So how do I come to say of events in general
-> something quite different from that concept, and to learn that the
-> concept *cause* belongs to the concept *event*—indeed belongs to it
-> necessarily, although not by being contained in that concept? What is
-> the unknown something-or-other that the understanding is relying on
-> when it thinks it has found, outside the concept of A, a predicate B
-> that it believes to be connected with it? (EMT 21)
+> Take the proposition ‘Everything that happens has its cause’...the concept of
+> of a cause lies entirely outside [the concept of event] and indicates
+> something different than the concept of what happens in general, and is
+> therefore not contained in the latter representation at all. How then do I
+> come to say something quite different about that which happens in general,
+> and to cognize the concept of cause as belonging to it, indeed necessarily,
+> even though not contained in it? What is the unknown *=X* here on which the
+> understanding depends when it believes itself to discover beyond the concept
+> of *A* a predicate that is foreign to it yet which it nevertheless believes
+> to be connected with it? (A9/B13)
 
 Kant argues here that our judgments concerning events presuppose that
 they do not just *occur* but are *caused to occur*, that we know this to
@@ -259,12 +259,6 @@ concepts in a subject-predicate judgment such that the truth of the
 judgment holds necessarily and universally, while its nevertheless being
 true that the predicate is not contained in the subject of the judgment,
 and thus that the judgment is not analytic?
-
-> ·It is terrifically important that we solve this problem, identify the
-> something-or-other that makes synthetic a priori judgments possible.
-> Why? Because· the entire final aim of our speculative a priori
-> knowledge depends on such •synthetic principles, ones that •amplify.
-> (EMT 21)
 
 Kant argues that we need to explain how synthetic a priori judgments are
 possible, and that the explanation of the possibility of significant
@@ -282,11 +276,10 @@ the other marks of analyticity). Instead, Kant argues that mathematical
 knowledge must be *synthetic*, but since it is necessary and universal,
 also *a priori*.
 
-> Mathematical judgments are all synthetic. This proposition seems to
-> have escaped the notice of those who have worked on analysing human
-> reason, and indeed to be directly opposed to all their conjectures;
-> yet it is unquestionably true, and has very important consequences.
-> (EMT 22)
+> **Mathematical judgments are all synthetic**. This proposition seems to have
+> escaped the notice of the analysts of human reason until now, indeed to be
+> diametrically opposed to all of their conjectures, although it is
+> incontrovertibly certain and has very important consequences. (A10/B14)
 
 Kant uses two examples in his argument concerning mathematics. The first
 is the judgment ‘7+5=12’ and the second is the geometric judgment that
@@ -294,15 +287,17 @@ is the judgment ‘7+5=12’ and the second is the geometric judgment that
 both judgments are knowable a priori, Kant thinks that in neither of
 these two cases, can we explain the truth of the judgments analytically.
 
-> you might initially think that the proposition *7 + 5 = 12* is a
-> merely analytic proposition that follows, via the principle of
-> contradiction, from the concept of *sum of 7 and 5*. But if you look
-> at it more closely you’ll find that the concept of *sum of 7 and 5*
-> contains nothing more than *number in which 7 and 5 are united*—that
-> is all. When I have the thought of the sum of 5 and 7, I do *not*
-> thereby have the thought of 12; no matter how long I spend analysing
-> my concept of such a possible sum, I won’t find 12 in it. ·To arrive
-> at 12· we have to •go beyond these concepts (EMT 22)
+> one might initially think that the proposition "7 + 5 = 12" is a merely
+> analytic proposition that follows from the concept of a sum of seven and five
+> in accordance with the principle of contradiction. Yet if one considers it
+> more closely, one finds that the concept of the sum of 7 and 5 contains
+> nothing more than the unification of both numbers in a single one, through
+> which it is not at all thought what this single number is which comprehends
+> the two of them. The concept of twelve is by no means already thought merely
+> by my thinking of that unification of seven and five, and no matter how long
+> I analyze my concept of such a possible sum I will still not find twelve in
+> it. One must go beyond these concepts, seeking assistance in the intuition
+> that corresponds to one of the two... . (B15)
 
 Kant’s argument here is that while it might be analytically true that
 the sum of 7 and 5 is *a number* (and also that it must be a *natural
@@ -326,19 +321,18 @@ judgment isn’t analytically true.
 In a famous passage Kant compares his critical philosophy to the central
 contribution on Nicolas Copernicus.
 
-> Until now it has been assumed that all our knowledge must conform to
-> the objects ·that it is knowledge of·; but working on that basis we
-> have never succeeded in learning anything—never added anything to our
-> stock of knowledge—in an a priori way through concepts. So let us now
-> ·change our tack· and experiment with doing metaphysics on the basis
-> of the assumption that the objects must conform to our knowledge. That
-> would fit better with the upshot that we want, namely a priori
-> knowledge of the objects that will tell us something definite about
-> them before they are given to us. This would be like Copernicus’s
-> basic idea: having found that he wasn’t getting far with explaining
-> the movements of the heavenly bodies while assuming that the whole
-> flock of them was revolving around the observer, he tried making the
-> observer revolve and leaving the stars at rest. (Bxvi–xvii; EMT 9)
+> Up to now it has been assumed that all our cognition must conform to the
+objects; but all attempts to find out something about them a priori through
+concepts that would extend our cognition have, on this presupposition, come to
+nothing. Hence let us once try whether we do not get farther with the problems
+of metaphysics by assuming that the objects must conform to our cognition,
+which would agree better with the requested possibility of an a priori
+cognition of them, which is to establish something about objects before they
+are given to us. This would be just like the first thoughts of Copernicus ,
+who, when he did not make good progress in the explanation of the celestial
+motions if he assumed that the entire celestial host revolves around the
+observer, tried to see if he might not have greater success if he made the
+observer revolve and left the stars at rest. (Bxvi–xvii)
 
 So just as Copernicus sought to explain the apparent motions of objects
 in the heavens in terms of the movement of the earthbound observer, so
@@ -371,22 +365,19 @@ Second, in addition to the transcendental ideality of space and time, to
 which all experienced objects must conform, Kant argues that empirical
 reality is itself structured by a privileged set of a priori concepts.
 
-> That’s the first part of my proposed as-it-were-Copernican revolution;
-> now for the second part·…Any beliefs I reach about what an object is
-> like will involve me in using concepts of it—·if I come to think that
-> something is solid, say, I’ll have to bring my concept of solidity to
-> bear on it·. Now there are two ways in which my concepts might fit the
-> objects of my inquiries. One is this: •My concepts, which I employ in
-> my beliefs about what the object is like, conform to the objects. If
-> that is right, though, I am back in my old difficulty, namely that it
-> seems impossible for me to know anything a priori about the object.
-> The second alternative is this: •The objects conform to my concepts,
-> or—the same thing in different words–•The experience in which the
-> objects are known conforms to my concepts. ·The focus on experience is
-> legitimate, because· it is only in experience that the objects can be
-> known as things that are given. This second alternative offers a gleam
-> of hope: experience is a kind of knowledge in which the understanding
-> must be involved (Bxvii; EMT 10)
+>Yet because I cannot stop with these intuitions, if they are to become
+>cognitions, but must refer them as representations to something as their
+>object and determine this object through them, I can assume either that the
+>concepts through which I bring about this determination also conform to the
+>objects, and then I am once again in the same difficulty about how I could
+>know anything about them a priori, or else I assume that the objects, or what
+>is the same thing, the experience in which alone they can be cognized (as
+>given objects) conforms to those concepts, in which case I immediately see an
+>easier way out of the difficulty, since experience itself is a kind of
+>cognition requiring the understanding, whose rule I have to presuppose in
+>myself before any object is given to me, hence a priori, which rule is ex-
+>pressed in concepts a priori, to which all objects of experience must
+>therefore necessarily conform, and with which they must agree. (Bxvii-viii)
 
 Kant here argues that the object which appear to one in perceptual
 experience, or ‘intuition’ as he calls it, also must conform to our
