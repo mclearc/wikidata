@@ -1,6 +1,7 @@
 ---
 title: 
 categories: Kant, Matter, MFNS
+toc:no
 ...
 
 ~~~~~{.bib}
@@ -9,7 +10,7 @@ categories: Kant, Matter, MFNS
 	Journal = {Journal of the History of Philosophy},
 	Number = {4},
 	Pages = {567--593},
-	Title = {The Argumentative Structure of Kant's Metaphysical Foundations of Natural Science},
+	Title = {The Argumentative Structure of Kant's \emph{Metaphysical Foundations of Natural Science}},
 	Volume = {36},
 	Year = {1998}}
 ~~~~~
