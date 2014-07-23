@@ -1,0 +1,114 @@
+---
+title: 
+categories: Kant, Definition
+...
+
+It is important that we distinguish between the necessary conditions for
+X and the explanation of/for X. 
+
+# Existence vs. Possibility #
+
+We can distinguish between the conditions necessary for the existence of
+something and the conditions necessary for its possibility. The latter
+may or may not be sufficient for its existence. 
+
+[kreines2009]() argues that 
+
+>Kant’s view rather rests on the intuition that an explanation must provide
+information about an underlying condition on which an explanandum depends. To
+state a particular law of nature, then, is not just to summarize or describe a
+regularity in nature; it is to identify a kind on whose nature some regularity
+depends, in the sense that it is necessitated by the nature of that kind. I
+call this Kant’s ‘necessitation account’, and I call these laws
+‘necessitation-laws’ (@kreines2009, 528)
+
+This alludes to what Kreines calls the 'simple intuition' --- viz. the idea
+that 'an explanation must provide information about an underlying condition on
+which an explanandum really depends' (@kreines2009, 531). Clearly Kreines
+thinks there is an important connection between necessary conditions and
+explanation. Kreines seems to think that the assymmetry of dependence relations
+tracks explanatory relations. So the fact that the barometer level depends on
+atmospheric pressure means that its level is *explained by* atmospheric
+pressure.
+
+But clearly *any* necessatation won't do, at least for the Aristotelian
+tradition. Aristotle denies that mere logical realtions are sufficient
+for explanation, since we can present logical syllogisms in a manner
+which obscures the *explanans*. His example in the *Posterior Analytics*
+concerns the twinkling of the stars (I.13, 78a23-b3).
+
+1. The planets do not twinkle 
+2. What does not twinkle is near 
+3. $\therefore$ The planets are near
+
+vs. 
+
+1. The planets are near
+2. What is near does not twinkle 
+3. $\therefore$ The planets do not twinkle
+
+Though both are logically valid, only the second proof reasons from
+cause to effect. So, according to Aristotle, only the second proof gives
+a genuine explanation of its conclusion. 
+
+The [appendix](http://plato.stanford.edu/entries/analysis/s2.html#4) to the
+[SEP entry on Analysis](http://plato.stanford.edu/entries/analysis/index.html)
+by Michael Beaney helps make this clear.
+
+>On this conception, then, there could be a logic of discovery as well as a
+>logic of proof. In the first case above, we start with an effect (the planets
+>not twinkling) and determine its cause (the planets being near) by finding an
+>appropriate additional premise, and in the second case, having determined the
+>cause, we reverse the process to display the passage from cause to effect. The
+>first was understood as analysis, providing a method of discovery, and the
+>second as synthesis, providing a method of proof. Such a conception
+>presupposes that the steps are reversible (i.e., in this case, the
+>convertibility of ‘What does not twinkle is near’ and ‘What is near does not
+>twinkle’), but with this assumption, there is a nice symmetry between analysis
+>and synthesis. This conception of analysis and synthesis was to take center
+>stage in the Renaissance and early modern period. (@beaney2014)
+
+Similarly, Kant denies that *apogogic* proof is appropriate for
+generating proper scientific knowledge. He makes this clear in a number
+of passages in the logic lectures.
+
+>However popular it may be, then, one makes use of apagogical 234 proof only
+>_ad interim,_ etc. Proper, true insight is actually attained only through
+>direct, genetic proof. A cognition is proved _directe_ when its truth can be
+>shown from the relation to the grounds. But _indirecte,_ on the other hand,
+>when its truth flows from the relation to the consequences. Direct proofs are
+>actually genetic and are developed _per rationes essendi, non veto
+>cognoscenti_ [through grounds of being not through grounds of true
+>knowledge]._ _Indirect proofs, however, are developed _per rationes
+>cognoscendi, non essence._ [through grounds of knowledge not of being]. To
+>infer affirmatively from the consequences to the grounds is wrong, but instead
+>this must always happen negatively. (BL 24:233-4; cf. BL 24:99, 233-4; VL
+>24:893; DW 24:748-9)
+
+>The proofs on which any mediated or mediate certainty of a cognition rests are
+>either _direct_ proofs or _indirect,_ i.e., _apagogical_ ones. When I prove a
+>truth from its grounds I provide a direct proof for it, and when I infer the
+>truth of a proposition from the falsehood of its opposite I provide an
+>indirect one. If this latter is to have validity, however, the propositions
+>must be opposed _contradictorily_ or _diametraliter._ For two propositions
+>opposed only as contraries _(contrarie opposita)_ can both be false. A proof
+>that is the ground of mathematical certainty is called a _demonstration,_ and
+>that which is the ground of philosophical certainty is called an _acroamatic_
+>proof. The essential parts of any proof in general are its _matter_ and its
+>_form,_ or the _ground of proof_ and the _consequent._ (JL 9:71)
+
+>From the consequence, then, we may infer to a ground, but without being able
+>to determine this ground. Only from the complex of all consequences can one
+>infer _to a determinate ground,_ infer that it is the true ground. The former
+>mode of inference, according to which the consequence can only be a
+>_negatively_ and _indirectly_ sufficient criterion of the truth of a
+>cognition, is called in logic the _apagogic_ mode _(modus tollens)._ (JL 9:52)
+
+So Kant seems to require that scientific knowledge requires not only
+the existence of assymetric necessitation relations between ground an
+consequent, but also that such a relation proceed from what is more
+basic to what is derivative.[^15147]
+
+[^15147]: See also the discussion of Aristotle and scholastic notions of
+science in Chris Shield's [SEP entry](http://plato.stanford.edu/entries/aristotle/#Sci)
+and the wiki entry here on [The Medieval Background to Modern Philosophy]()
