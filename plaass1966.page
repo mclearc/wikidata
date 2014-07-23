@@ -1,4 +1,4 @@
-~~~~~{.bib}
+<!-- ~~~~~{.bib}
 @book{plaass1966,
     Author = {Plaass, Peter},
     Editor = {Miller, Alfred E. and Miller, Maria G. and Weizs{\"a}cker, Carl Friedrich Freiherr von},
@@ -6,7 +6,7 @@
     Title = {Kant's Theory of Natural Science},
     Year = {[1966] 1994}}
 ~~~~~
-
+ -->
 ---
 title: Plaass1966
 categories: Kant, MFNS, Definition
