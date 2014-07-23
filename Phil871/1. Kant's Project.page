@@ -103,18 +103,119 @@ epistemological framework and how that framework significantly
 revolutionized our understanding of the possible nature and extent of
 human knowledge.
 
-# Human Knowledge
+# Two Kinds of Knowledge #
 
-## The A Priori
+## Leibniz  ##
 
-<!-- TODO: Revise introduction and provide an overview of Hume's and
-Leibniz's conceptions of human knowledge -->
-We’ve seen several philosophers (e.g. Descartes, Leibniz, Hume) argue
-that there are kinds of knowledge that may be had just by thinking, or
-are universal and necessary in scope. Hume’s conception of knowledge
-made this especially clear. According to Hume, knowledge of necessary
-and universal truths must be a function purely of knowledge of the
-relations of ideas.
+[Gottfried Wilhelm Leibniz](http://plato.stanford.edu/entries/leibniz/)
+(1646-1716) was the most significant German philosopher of the seventeenth
+century. One of the central notions in Leibniz's philosophy is that the logical
+structure of our thought mirrors the real structure of reality. Leibniz thus
+thinks that there are close connections between the nature of truth and the
+nature of substance. For example:
+
+-   All truth is analytic truth by virtue of containment[^101]
+    -   in every true predication the concept of the predicate is
+        contained in the concept of the subject
+-   Substance is the ultimate subject of predication, and that which
+    cannot be predicated of anything else
+-   If x is a substance then there is a concept of x that contains all
+    true predications concerning x[^201]
+    -   finite beings grasp truths about substances via partial grasp of
+        their complete concept
+    -   God knows all truths about all substances via a perfect grasp of
+        their complete concepts
+
+[^101]: in every true affirmative proposition, whether necessary or
+    contingent, universal or particular, the notion of the predicate is
+    in some way included in that of the subject. *Praedicatum in est
+    subjecto*; otherwise I do not know what truth is. (G II 56; L 337)
+
+[^201]: it is the nature of an individual substance or complete being to
+    have a concept so complete that it is sufficient to make us
+    understand and deduce from it all the predicates of the subject to
+    which the concept is attributed. An accident, on the other hand, is
+    a being whose concept does not include everything that can be
+    attributed to the subject to which the concept is attributed (DM §8;
+    L 307)
+
+Take, for example, the historical figure [Julius Caesar](http://en.wikipedia.org/wiki/Julius_caesar). According to Leibniz, the statement 'Caesar crossed the Rubicon in 49 BC' is analytically true. An '*analytic truth*',
+for Leibniz, is a truth whose predicate does not, in some sense, go beyond what is given in stating the subject. There are obvious 'stutter' examples of this --- 'all red squares are red' is analytically true since the predicate is so clearly part of the subject. But the same phenomena can occur covertly. For example, the statement 'Bachelors are unmarried men' is analytically true because part of what it is to be (or for the word 'Bachelor' to mean) a bachelor is to be an unmarried man. 
+
+Leibniz thinks that *all* truth is analytic. So with our initial example statement 'Caesar crossed the Rubicon in 49 BC', Leibniz thinks that the relation between the subject ('Caesar') and the predicate ('crossed the Rubicon in 49 BC') is relevantly similar to the relation in the case of the 'bachelor' example. For any individual substance, Leibniz thinks there is a singular concept which picks it out and which 'contains' all the predicates of the substance (past, present, and future) in just the same way that 'bachelor' contains 'is an unmarried man'. 
+
+Thus, if the world is the totality of individual substances, God possesses a concept of each individual substance, and knows everything that is, has been, or will be true of that individual. This is discussed by Leibniz mostly clearly in his [*Discourse on Metaphysics*](http://www.earlymoderntexts.com/pdfs/leibniz1686d.pdf) (see §§8-16).
+
+## Hume
+
+[David Hume](http://plato.stanford.edu/entries/hume/) (1711-1776) was one of
+the major figures of the so-called 'Scottish Enlightenment', which centered
+around Edinburgh. Kant credits a reading of Hume around 1769 with awakening him
+from his 'dogmatic slumbers' and instigating him to develop the metaphysical
+and epistemological doctrines of the first *Critique*. It is likely that Kant's
+reading of Hume was based on excerpts from Hume's 1748 work, *An Enquiry
+Concerning Human Understanding*. Section 4 of the *Enquiry* introduces what is
+now known as 'Hume's Fork'. This is the division of all reasoning into two
+categories---viz. relations of ideas and matters of fact.[^1345] Hume argues
+that certainty, justification independent of experience, and knowledge of
+necessity cannot be had with respect to anything in the empirical world.
+
+[^1345]: The basic division of truths was quite widely held in the seventeenth
+century. [Antoine Arnauld](http://plato.stanford.edu/entries/arnauld/)
+(1612-1694) and [Pierre Nicole](http://en.wikipedia.org/wiki/Pierre_Nicole)
+(1625-1695) draw a similar distinction in their extremely influential work,
+*Logic, or the Art of Thinking* (also known as the *Port Royal Logic*) of 1662.
+The influential Cartesian, [Nicolas
+Malebranche](http://plato.stanford.edu/entries/malebranche/) (1638-1715),
+also makes a somewhat modified (because tripartite) version of the distinction
+in his 1674-5 masterwork *The Search After Truth*. Many of the arguments
+Malebranche gives there prefigure the empiricist epistemologies of Berkeley and
+Hume, and were likely disseminated in Britain by the 'English Malebranche',
+[John Norris](http://plato.stanford.edu/entries/john-norris/) (1657-1711).
+
+### Relations of Ideas ###
+
+Hume describes the knowledge we have by means of perceiving relations between
+ideas as such that it can be had 
+
+>by the mere operation of thought, without dependence on what is anywhere
+>existent in the universe. Though there never were a circle or triangle in
+>nature, the truths demonstrated by Euclid would for ever retain their
+>certainty and evidence. (E IV.i.1)
+
+Knowledge of relations between ideas is certain, necessary (its denial entails
+a contradiction), universal, and justified independently of any experience.
+Hume thinks that all our knowledge of mathematics and logic falls into this
+category. Importantly, according to Hume such knowledge gives us no insight
+into how things actually are in the empirical world. That is the cost of our
+being able to have such knowledge purely by thinking.
+
+Using Leibniz's terminology, Hume is arguing that knowledge of relations
+between ideas is *analytic* and *a priori*. Moreover, Hume is giving a
+*reductive* account of the a priori in terms of relations between ideas. His
+explanation of how it is that we can know the truth of some proposition a
+priori, is that the truth depends on a relation between the ideas constitutive
+of the proposition (e.g. All red things are red; All bachelors are unmarried),
+and that we can know the propositions are true simply in virtue of possessing
+the relevant ideas.
+
+However, Hume and Leibniz radically disagree concerning the *extent* of analytic truth and our a priori knowledge. Recall that Leibniz construes all truth as analytic, in the sense that all truth depends on the predicate's being 'contained' in the subject. So, for any true judgment, there is in principle an analysis of the subject concept in which it can be shown that the predicate of the judgment is part of (or 'contained in') the subject's complete concept. Hume, in contrast, has no robust theory truth (at least in a sense which Leibniz would recognize), and certainly does not attempt to explain all truth in terms of containment. The reason we have a priori knowledge of relation of ideas is because we (i) have privileged access to those ideas, and (ii) the knowledge we have of relations between ideas is parasitic on our knowledge of the meanings or content of the ideas, and not anything else. Hence one can know that *all triangles have three sides* is true and necessarily so, just in virtue of knowing what 'triangle' means. 
+
+### Matters of Fact ###
+
+In contrast to knowledge of relations between ideas, Hume argues that our knowledge of matters of fact is contingent (its denial is not a contradiction), local, uncertain, and dependent for its justification on empirical inquiry. Examples of knowledge of matters of fact include such propositions as the number of houses on one's street, the names of one's parents, the identity of the current President of the United States, and the atomic weight of gold. Knowledge of all of these propositions requires that we consult how things actually are in the world. In none of these cases can we earn the knowledge merely by thinking. 
+
+In the terminology of Leibniz and (after Hume) Kant, knowledge of matters of fact is *synthetic* and *a posteriori*. It is justified only by current or past experience and cannot be attained purely by any process of conceptual analysis. Hume is thus taking up a diametrically opposed position to that of Leibniz, who argued that knowledge of empirical matters of fact *can* be obtained via conceptual analysis of the complete concepts of the substances constituting the actual world. It may be the case that *we* cannot complete such an analysis, but one is in principle available (to God). 
+
+Hume's fork results in the position that there is no substantive knowledge of the empirical world that we can have via analysis of our ideas (i.e. our concepts) alone. All empirical knowledge including, e.g. knowledge in the physical sciences, is knowledge of matters of fact, and is thus contingent, local, and uncertain. Hume attempts to drive this conclusion home by arguing that the process of reasoning by means of cause/effect relationships has no ultimate rational basis, and thus cannot give us knowledge of how things are beyond our current or remembered experience. We'll turn to an examination of that argument now.
+
+# Kant on the A Priori
+
+We’ve seen that several philosophers argue that there are kinds of knowledge
+that may be had just by thinking, or are universal and necessary in scope.
+Hume’s conception of knowledge made this especially clear. According to Hume,
+knowledge of necessary and universal truths must be a function purely of
+knowledge of the relations of ideas.
 
 Kant agrees with Hume that a priori knowledge is independent of
 experience. In fact, he sees it as definitive of ‘pure’ a priori
@@ -400,7 +501,3 @@ one—viz. his argument that we can know with certainty that, in
 opposition to Hume, necessary causal connections really hold between
 distinct objects or events, and thus that lawful scientific knowledge of
 objects is possible.
-
-# References {#references .unnumbered}
-
-<!-- -->
