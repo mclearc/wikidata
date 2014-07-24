@@ -1,0 +1,48 @@
+---
+title: langton1998
+categories: Kant, Locke, Matter, Definition, Science, References
+...
+
+~~~~~{.bib}
+@book{langton1998,
+    Author = {Langton, Rae},
+    Publisher = {Oxford University Press},
+    Title = {Kantian Humility: Our Ignorance of Things in Themselves},
+    Year = {1998}}
+~~~~~
+
+# Intrinsic Properties and Derivation #
+
+Langton argues that Kant's position, both in his 1755 *Nova Dilucidatio*
+and his 1786 MFNS, is that nothing follows from the existence of a thing
+with its set of intrinsic properties concerning what powers or
+relational properties that thing will have. 
+
+>Kant said in 1755 that from [174] the mere existence of a thing, with its
+>intrinsic properties, no conclusions follow about how that thing will relate
+>to other things. Playing out this form of argument in the context of a theory
+>of matter yields a conclusion about the connection between primary and
+>tertiary qualities. It does not follow from the mere existence of a thing,
+>with its primary qualities, that the thing will have certain tertiary quality
+>powers of relating to other things. And in this particular application, it
+>does not follow from the mere existence of a 'solid' body, where solidity is
+>supposed to be an absolute or intrinsic property, that the body will be
+>impenetrable. Impenetrability does not follow logically from solidity. That is
+>the point of Kant's joke; *der Satz des Widerspruchs treibt keine Materie
+>zuruck*. The principle of contradiction doesn't drive matter back!
+>(@langton1998, 173-4)
+
+Langton thinks that Kant's argument against Lambert in MFNS 4:497-8 indicates
+this, as well as his discussion of determination in the ND of 1755. I think
+that Langton is mistaken, or at least too quick. Kant can hold that (as against
+Lambert) the principle of contradiction applied to the concept `<substance>` or
+`<solidity>` cannot yield the conclusion that some particular body will offer
+resistance without thereby accepting her claim, that the resistance which a
+body offers is made possible or explained by, or otherwise *grounded in*, its
+solidity. Kant's point is that we cannot *know* or otherwise *cognize*
+the relationship between matter, substance, and solidity than by seeing
+their actions in the course of experience. Put another way, Kant's
+denial that there is a secure logical ground by means of which we can
+make claims about particular bodies (as opposed to concepts which
+subsume them) does not entail his denial that there is some metaphysical
+grounding relationship between some of a body's features and others. 
