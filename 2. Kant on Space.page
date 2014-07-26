@@ -405,8 +405,9 @@ such different conclusions.
     Editor = {Zalta, Edward N.},
     Title = {Kant's Views on Space and Time},
     Year = {2012}}
+~~~~~
 
-
+~~~~~{.bib}
 @article{allais2009,
     Author = {Allais, Lucy},
     Journal = {Journal of the History of Philosophy},
@@ -415,7 +416,9 @@ such different conclusions.
     Title = {Kant, Non-Conceptual Content and the Representation of Space},
     Volume = {47},
     Year = {2009}}
+~~~~~
 
+~~~~~{.bib}
 @article{allais2010,
     Author = {Allais, Lucy},
     Journal = {Proceedings of the Aristotelian Society},
