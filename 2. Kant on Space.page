@@ -385,21 +385,28 @@ such different conclusions.
 
 # References {#references .unnumbered}
 
----
-references:
-- id: jauernig2008
-  title: Kant's Critique of the Leibnizian Philosophy : Contra the Leibnizians, but Pro Leibniz
-  author: 
-  - family: Jauernig
-    given: Anja
-  container-title: Kant and the Early Moderns
-  publisher: Princeton University Press
-  year: 2008
-  chapter: 3
-  pages: 41-63
-  address: Princeton, NJ
-...
+~~~~~{.bib}
 
+@incollection{jauernig2008,
+    Address = {Princeton, {NJ}},
+    Author = {Jauernig, Anja},
+    Booktitle = {Kant and the Early Moderns},
+    Chapter = {3},
+    Crossref = {garber2008},
+    Pages = {41--63},
+    Publisher = {Princeton University Press},
+    Title = {Kant's Critique of the Leibnizian Philosophy : Contra the Leibnizians, but Pro Leibniz},
+    Year = {2008}}
+
+@incollection{janiak2012,
+    Author = {Janiak, Andrew},
+    Booktitle = {The Stanford Encyclopedia of Philosophy},
+    Edition = {Winter 2012},
+    Editor = {Zalta, Edward N.},
+    Title = {Kant's Views on Space and Time},
+    Year = {2012}}
+
+~~~~~
 
 * * * * *
 
