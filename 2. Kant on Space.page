@@ -396,7 +396,8 @@ such different conclusions.
     Publisher = {Princeton University Press},
     Title = {Kant's Critique of the Leibnizian Philosophy : Contra the Leibnizians, but Pro Leibniz},
     Year = {2008}}
-
+~~~~~
+~~~~~{.bib}
 @incollection{janiak2012,
     Author = {Janiak, Andrew},
     Booktitle = {The Stanford Encyclopedia of Philosophy},
