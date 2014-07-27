@@ -1,0 +1,101 @@
+---
+title: Spinoza on Definition
+categories: Definition, Geometry
+...
+
+~~~~~{.bib}
+@book{spinoza2002,
+	Author = {Spinoza, Benedictus de},
+	Editor = {Morgan, Michael L.},
+	Publisher = {Hackett Publishing},
+	Title = {Complete Works},
+	Year = {2002}}
+~~~~~
+
+# Treatise on the Emendation of the Intellect (1661)
+
+Spinoza considers definition as requiring the explication of a thing in terms of its most fundamental properties, from which its other properties may be derived.
+
+>For a definition to be regarded as complete, it must explain the inmost
+>essence [95] of the thing, and must take care not to substitute for this any
+>of its *propria*. To explicate this, passing over other examples so as not to
+>appear bent on exposing the errors of others, I shall choose only the example
+>of an abstract thing where the manner of definition is unimportant, a circle,
+>say. If this is defined as a figure in which the lines drawn from the centre
+>to the circumference are equal, it is obvious that such a definition by no
+>means explains the essence of a circle, but only one of its properties. And
+>although, as I have said, this is a matter of little importance when it is a
+>question of figures and other mental constructs, it is nevertheless a matter
+>of prime importance when it is a question of physical and real beings. For the
+>properties of things are not understood as long as their essences are not
+>known; and if the latter are neglected, this is bound to distort the
+>interconnections made by our intellect which ought to reproduce the
+>interconnections of Nature, and we shall go far astray from our goal.[^143757]
+
+[^143757]: @spinoza2002, 25-6 (#94-5). The term 'propria' (propria being
+the characteristics derived from the attributes of a thing) is substituted
+for 'properties', otherwise the statement makes no sense. Cf.
+[freudenthal2006](), 57-8.
+
+Spinoza then provides the necessary and sufficient criteria for his
+preferred notion of definition.
+
+> 1. If the thing is created, the definition, as we have said, will have to
+>    include the proximate cause. E.g., according to this law, a circle would
+>    have to be defined as follows: it is the figure that is described by any
+>    line of which one end is fixed and the other movable. This definition
+>    clearly includes the proximate cause.
+
+>2. We require a concept, or definition, of the thing such that when it is
+>   considered alone, without any others conjoined, all the thing's properties
+>   can be deduced from it (as may be seen in this definition of the circle).
+>   For from it we clearly infer that all the lines drawn from the center to
+>   the circumference are equal.[^145057]
+
+[^145057]: @spinoza2002, 39-40 (# 96). 
+
+Spinoza was here apparently greatly influenced by Hobbes. Gideon
+Freudenthal cites the following sources:
+
+>See Hobbes, *De Corpore* I,i,5, and his *Examinatio et emendatio mathematicae
+>bodiernae*, second dialogue. On this conception of definition and its
+>dependence on Hobbes (including the example given) see Ernst Cassirer, *Das
+>Erkenntnisproblem* II, 90, 98ff; See also Cassirer's *Leibniz System*,
+>110-117. Leibniz emphasizes the importance of the constructive definition (in
+>contradistinction to a nominal definition) to ensure the "real possibility" of
+>the entity. See GP I, 384-385. See especially "On Universal Synthesis and
+>analysis, or the Art of discovery and Judgment", Loemker 229-233 (GP VII,
+>292-298). Leibniz uses there a property of a circle (proven in Euclid III, 20)
+>to argue that there are "paradoxical properties" (GP VII, 291, Loemker, 280)
+>of which we at first do not know whether they are real or not.
+
+There is also a very helpful discussion of these issues in [mancosu1999](),
+ch. 4.1. Mancosu points out that 
+
+>Hobbes and Spinoza emphasized the role of genetic definitions as the only
+>causal definitions, thereby excluding the nongenetic definitions from the
+>realm of science. This forced them, particularly Hobbes, to call for a
+>revisionist philosophy of geometry in which motion would play a pivotal role.
+>Indeed, Hobbes claimed to have been the first one to provide a foundation for
+>geometry. Replying to Wallis, who had objected to his use of motion in the
+>redefinition of many Euclidian concepts—proportion theory—Hobbes defiantly
+>asserted it was through the use of motion that he had made the grounds of
+>geometry coherent.[^151325]
+
+[^151325]: @mancosu1999, 99.
+
+In De Corpore Hobbes argued that the notion of science requires an appeal to genetic definitions:
+
+>To return, therefore, to definitions; the reason why I say that the cause and
+>generation of such things, as have any cause or generation, ought to enter
+>into their definitions, is this. The end of the science is the demonstration
+>of the causes and generations of things; which if they be not in the
+>definitions, they cannot be found in the conclusion of the first syllogism,
+>that is made from those definitions; and if they be not in the first
+>conclusion, they will not be found in any other conclusion deduced from that;
+>and, therefore, by proceeding in this manner, we shall never come to science;
+>which is against the scope and intention of demonstration.[^151434]
+
+[^151434]: cited in @mancuso1999, 99. [PDF](skimmer:///Users/Roambot/Dropbox/PDFLibrary/mancosu1999.pdf?page=109)
+
+Apparently, Gueroult argues for a direct influence of Hobbes on Spinoza and lists 'an impressive number of similarities' between their conceptions of geometry.
