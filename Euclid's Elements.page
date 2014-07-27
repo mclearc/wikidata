@@ -15,3 +15,37 @@ categories: Definition, Geometry, Mathematics
 
 # Euclid on Definition 
 
+**Introduction, ch.9, §7** [PDF](skimmer:///Users/Roambot/Dropbox/PDFLibrary/euclid1908.pdf?page=152)
+
+Euclid characterizes definition in Aristotelian terms. Definition does
+not concern the *existence* of a thing, but rather its *possibility*.
+Heath characterizes things this way,
+
+>It is an answer to the question *what* a thing is, and does not say *that* it
+is. The *existence* of the various things defined has to be proved, except in
+the case of a few primary things in each science, the existence of which is
+indemonstrable and must be assumed among the first principles of each science ;
+e.g. points and lines in geometry must be *assumed* to exist, but the existence
+of everything else must be proved.[^135248]
+
+[^135248]: @euclid1908, 143.
+
+Here's Euclid's definition of a circle (definition 15):
+
+>A circle is a plane figure contained by one line such that all the straight
+>lines falling upon it from one point among those lying within the figure are
+>equal to one another.[^13573]
+
+[^13573]: @euclid1908, 153. Definition 16 labels this point the '*centre*'.
+
+As Heath points out, the definition is not *genetic*, it does prove the
+existence of its figure or provide the means of constructing it. This is
+done only in the Third Postulate.
+
+>To describe a circle with any centre and distance.[^14832]
+
+[^14832]: @euclid1908, 154. The original Greek has the passive of the verb
+, so it literally reads, "a circle can be drawn with any centre and
+distance". Proclus modifies the Greek so that it has the active form of
+the verb in order to match the first two postulates. 
+
