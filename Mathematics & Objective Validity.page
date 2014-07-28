@@ -84,6 +84,63 @@ apply*.
 
 # Parsons #
 
+Parsons, in his [parsons1983a]() postscript to [parsons1969](),
+discusses the compatibility of his preferred interpretation with
+Thompson's point that Kant is not concerned with the *existence* of
+mathematical objects. Parsons, like Hintikka, assumes that intuitions,
+as singular representations, denote objects. Central parts of his
+discussion in §§V-VI of parsons1969 concern the existence of
+mathematical objects, so he takes Thompson's point as requiring some
+real modification of his own view. Parsons says of his view,
+
+>A picture common to us [viz. him and Hintikka] is of pure intuitions as
+analogous to *free variables*, with predicates attached to them representing
+the concepts they 'construct.' If we are not to import into Kant the
+'mathematical-objects picture,' then it seems we have to take the *range* of
+these variables to be *empirical* objects. Then a mathematical argument cannot,
+strictly speaking, establish existence. What plays the role of
+mathematical existence in Kant is constructibility. THe most plausible
+reconstruction of Kant would be, in my view, to take constructibility of
+a concept to be a kind of possible existence of a (nonabstract) object
+falling under the concept.[^111252]
+
+[^111252]: @parsons1983a, 148.
+
+Parsons then notes that the real difficulty is not with existence but
+possibility---viz. *real* possibility. Parsons then seems to deny (here
+I'm not entirely sure, his discussion is brief and unclear) that
+construction in pure intuition, *by itself*, is sufficient for proof of
+real possibility. His thought seems to be that more is needed from *
+experience*.
+
+>What makes the construction itself fall short of showing possibility is that
+possibility involves agreement with the formal conditions of experience with
+respect to intuition *and concepts*, that is, not only the forms of intuition
+but the categories. Thus in order to see the possibility of a triangle, we have
+to observe that space is a formal condition of outer experience and that 'the
+formative synthesis through which we construct a triangle in imagination is
+precisely the same as that which we exercise in the apprehension of an
+appearance, in making for ourselves an empirical concept of it' (A224/B271).
+This, of course, repeats the considerations advanced in the Axioms of
+Intuition. THe ' objective reality' in the full sense of mathematical concepts
+seems to be a proposition not of mathematics but of philosophy.[^111952]
+
+[^111952]: @parsons1983a, 149.
+
+I find this last sentence a bit perplexing. Does this mean the mathematician
+must rely on the philosopher to provide him with mathematical knowledge? That
+seems both wrong and in tension with Kant's position in the Discipline
+concerning the differences between mathematics and philosophy. One of Kant's
+central points there is that the mathematician *doesn't* need to wait around
+for an analysis of concepts but proceeds directly from the construction of the
+concept to providing it with an object in pure intuition.
+
+In appealing to the Axioms of Intuition I see some similarity between the
+position expressed by Parsons and Carson's position in [carson1997](). I had
+originally thought that a good middle way, but not I'm not so sure . Especially
+if it has the consequences that I take Parsons's expression of the view to
+have.
+
 # Friedman #
 
 # Carson #
