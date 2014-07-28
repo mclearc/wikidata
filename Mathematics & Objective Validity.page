@@ -1,0 +1,128 @@
+---
+title: Mathematics & Objective Validity
+categories: Kant, Mathematics, Intuition, Definition
+...
+
+A variety of people have denied that the objective validity of
+mathematical concepts may be demonstrated a priori.[^173125] I think
+these positions must be mistaken, but it is useful to see how and why.
+
+[^173125]:  @thompson1972, 338-9; @brittan1978, 64-5; @parsons1983a, 147-9
+; @friedman1992, 99-104. 
+
+# Thompson #
+
+Manley Thompson ([thompson1972]())
+[argues](skimmer:///Users/Roambot/Dropbox/PDFLibrary/thompson1972.pdf?page=26)
+that mathematics and mathematical proof, including geometrical
+construction, is not concerned with existence, but rather something like
+'mere' constructibility.
+
+>While mathematical constructions, whether ostensive or symbolic, provide
+>objects for mathematical concepts and thus answer existence questions *within*
+>mathematics, they do not answer existence questions absolutely. What appear
+>as existence questions in mathematics are really questions of constructibility
+>and not existence.[^17439]
+
+[^17439]: @thompson1972, 338. 
+
+Thompson makes this point primarily on the basis of the following text
+from the Discipline section of CPR.
+
+>There is, to be sure, a transcendental synthesis from concepts alone, with
+>which in turn only the philosopher can succeed, but which never concerns more
+>than a thing in general, with regard to the conditions under which its
+>perception could belong to possible experience. But in mathematical problems
+>the question is not about this nor about existence as such at all, but about
+>the properties of the objects in themselves, solely insofar as these are
+>combined with the concept of them. (A719/B747)
+
+Thompson thus concludes that *existence* (actuality or *wirklichkeit*)
+can only be given in perception (empirical intuition) and thus can't be
+the subject matter of mathematical construction in a priori pure intuition.
+Now, this point, so far as it goes seems correct. Kant makes a similar
+point in the initial footnote in the Preface to the MFNS where he says,
+
+>Essence is the first inner principle of everything that belongs to the
+possibility of a thing. Therefore one can only speak of the essence of
+geometric figures (in whose concept nothing may be thought that expresses
+existence [*Dasein*]), not of their nature. (4:468)
+
+But Thompson goes on to cite a passage from the B- deduction that makes a
+stronger claim---viz. that mathematical knowledge (or cognition) depends on the
+actual existence and application of the a priori forms of intuition in objects
+of experience. The full quote is as follows.
+
+>Through determination of the former we can acquire *a priori* cognitions of
+>objects (in mathematics), but only as far as their form is concerned, as
+>appearances; whether there can be things that must be intuited in this form is
+>still left unsettled. Consequently all mathematical concepts are not by
+>themselves cognitions, except insofar as one presupposes that there are things
+>that can be presented to us only in accordance with the form of that pure
+>sensible intuition. **Things in space** and **time**, however, are only given
+>insofar as they are perceptions (representations accompanied with sensation),
+>hence through empirical representation. The pure concepts of the
+>understanding, consequently, even if they are applied to *a priori* intuitions
+>(as in mathematics), provide cognition only insofar as these *a priori*
+>intuitions, and by means of them also the concepts of the understanding, can
+>be applied to empirical intuitions. (§22, B147)
+
+The key sentence here is, I think, the last. Kant lays down a condition
+on the status of the a priori concepts and intuitions as cognitions only
+if the '**can be applied to empirical intuitions**'. So Kant isn't
+claiming that we lack mathematical knowledge unless we have empirical
+intuitions of existing object to which we apply mathematical concepts.
+Indeed, it is completely compatible with the above text that no
+empirical objects exist. All that seems necessary for mathematical
+representation to attain the status of cognition is that the concepts
+involved (and their correlate constructions in pure intuitions) *could
+apply*. 
+
+
+
+# Brittan #
+
+# Parsons #
+
+# Friedman #
+
+# Carson #
+
+
+, Kant seems to
+clearly say so in a variety of places. 
+
+>Herr Eberhard wants to free himself from the demand, so trouble- some to all
+>dogmatists yet so unavoidable, that no concept be admitted to the rank of
+>cognitions if its objective reality is not made evident by the possibility of
+>the object's being exhibited in a corresponding intuition. He thus calls upon
+>the mathematicians, who are supposed not to have said a single word about the
+>reality of the objects of their concepts, and who nevertheless have succeeded
+>in designing entire sciences. He could hardly have hit upon a more unfortunate
+>example for his purpose. For the situation is exactly the opposite: the
+>mathematician cannot make the smallest assertion about any object whatsoever
+>without exhibiting it in intuition (or, if we are considering only quantities
+>without qualities, as in algebra, exhibiting the quantitative relationships
+>for which the symbols stand). (Letter to Karl Leonard Reinhold. May 19, 1789;
+11:41)
+
+>Mathematics is the most excellent model for all synthetic use of reason, just
+>because the intuitions _with which_ mathematics confers objective reality upon
+>its concepts are never lacking. In philosophy, however, and indeed, in
+>theoretical knowledge, this demand for intuitions is one with which we cannot
+>always sufficiently comply. When intuitions are lacking, we must be resigned
+>to forgo the claim that our concepts have the status of cognitions of objects.
+>(Letter to Karl Leonard Reinhold. May 19, 1789; 11:43)
+
+>The possibility of a circle is ... given in the definition of the circle,
+>since the circle is actually constructed by means of the definition, that is,
+>it is exhibited in intuition [...] For I may always draw a circle free hand on
+>the board and put a point in it, and I can demonstrate all the properties of a
+>circle just as well on it, presupposing the (so- called nominal) definition,
+>which is in fact a real definition, even if this circle is not at all like one
+>drawn by rotating a straight line attached to a point. I assume that the
+>points of the circumference are equidistant from the center point. The
+>proposition “to inscribe a circle” is a practical corollary of the definition
+>(or so-called postulate), which could not be demanded at all if the
+>possibility – yes, the very sort of possibility of the figure – were not
+>already given in the definition. (Letter to Herz, 26 May 1789; 11:53)
