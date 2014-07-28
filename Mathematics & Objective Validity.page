@@ -158,21 +158,81 @@ Friedman objects to this interpretation along several lines. First, he
 argues that 'Kant himself does not employ pure intuition to provide
 objects and objective reality for the concepts of mathematics, or indeed
 for any concepts'.[^115128] Proof of objective reality depends entirely
-on *empirical* intuition.[^115237]
+on *empirical* intuition.[^115237] Friedman thus seems to agree with
+Parsons that,
 
-[^115237]: For further discussion of this argument see my discussion of his
-views on the [construction of`<matter>`](MatterConstruction#friedman-construction).
+[^115237]: For further discussion of this argument see my discussion of
+Friedman's views on the [construction of `<matter>`](MatterConstruction#friedman-construction).
 
+[^115128]: @friedman1992, 101. [PDF](skimmer:///Users/Roambot/Dropbox/PDFLibrary/friedman1992.pdf?page=109).
 
-[^115128]: @friedman1992, 101.
+>pure intuition, at least by itself, can in no way demonstrate or exhibit the
+real possibility of mathematics. For Kant, such real possibility means that
+mathematics is applicable to empirical objects (objects of experience), and
+this cannot be shown except on the basis of transcendental philosophy itself:
+officially, at A165-166/B206-207.[^11579]
+
+[^11579]: @friedman1992, 101.
+
+This must be mistaken. Perhaps what is needed is some intermediate
+conception of real possibility. It seems that the real possibility of
+mathematical objects *is* presented in pure intuition, and thus that
+this possibility, though stronger than logical possibility, is different
+from the possibility of an actually *existing* empirical object. More on
+this issue below.
+
+Friedman's second objection is that it is altogether unclear how pure
+intuition could perform the kind of selection task that the prima facie
+attractive interpretation would suggest.
+
+>The underlying idea is that the real possibilities are a subclass of the much
+>wider class of logical possibilities: there are logically possible states of
+>affairs that are nonetheless not really possible. Pure intuition then selects
+>a narrower range of possibilities from the logical possibilities-it declares
+>that certain logically possible states of affairs are not really possible-and
+>thus generates the synthetic truths of mathematics. But how, on the present
+>conception, is pure intuition supposed to perform this selection; and how are
+>we supposed to have cognitive access to it?[^123951]
+
+[^123951]: @friedman1992, 102.
+
+Friedman takes the example of Euclidean and Non-Euclidean geometries. 
+
+>it is supposed to be logically possible that any particular triangle I
+construct or encounter should be Euclidean or non-Euclidean: the sum of its
+angles could (logically) be equal to 180˚ or could (logically) be equal to 180˚
+± .0000010˚, say. How is pure intuition  possibly able to distinguish these two
+cases?[^124819]
+
+[^124819]: @friedman1992, 103.
+
+Friedman thinks the problem is quite general and cites several other sources
+agreeing with him.[^124940] The basic assumption here, which does not seem
+obvious to me, is that there will be a phenomenal difference between the
+Euclidean and non-Euclidean intuition, and that this phenomenal difference
+would need to be discriminable by us if intuition were to ground one geometry
+over the other. But it isn't obvious to me that Kant makes either of these
+assumptions. First, it isn't clear that the grounding relation pure intuition
+plays in geometry is (entirely) phenomenal, and second, it isn't clear that
+even if it is a phenomenal basis, the grounding relation only has epistemic
+significance via our capacity to successfully discriminate phenomenal
+differences across cases. Maybe it just depends on our being able to have the
+requisite intuition, regardless of whether we can (or can always) discriminate
+between close cases.
+
+[^124940]: This question is raised by Parsons in "Infinity and Kant's Conception of the 'Possibility of Experience'" (1964), reprinted in
+@friedman1983; it is also discussed in @kitcher1975, §5.
 
 # Carson #
 
 
-, Kant seems to
-clearly say so in a variety of places. 
+# Kant on the Objective Reality of Mathematics #
 
->Herr Eberhard wants to free himself from the demand, so trouble- some to all
+Kant seems to clearly say, in a variety of places, that construction in
+pure intuition is sufficient to demonstrate both the real possibility
+and the objective reality of mathematical concepts.
+
+>Herr Eberhard wants to free himself from the demand, so troublesome to all
 >dogmatists yet so unavoidable, that no concept be admitted to the rank of
 >cognitions if its objective reality is not made evident by the possibility of
 >the object's being exhibited in a corresponding intuition. He thus calls upon
@@ -198,7 +258,7 @@ clearly say so in a variety of places.
 >since the circle is actually constructed by means of the definition, that is,
 >it is exhibited in intuition [...] For I may always draw a circle free hand on
 >the board and put a point in it, and I can demonstrate all the properties of a
->circle just as well on it, presupposing the (so- called nominal) definition,
+>circle just as well on it, presupposing the (so-called nominal) definition,
 >which is in fact a real definition, even if this circle is not at all like one
 >drawn by rotating a straight line attached to a point. I assume that the
 >points of the circumference are equidistant from the center point. The
