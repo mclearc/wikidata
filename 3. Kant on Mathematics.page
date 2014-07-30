@@ -8,6 +8,38 @@ geometry: 'letterpaper,centering,margin=1.75in'
 categories: Kant, Teaching
 ...
 
+In the seventeenth and eighteenth centuries mathematics, understood as
+being composed fundamentally by the study of discrete magnitudes (
+arithmetic) and continuous magnitudes (geometry), was considered a
+paradigm of science. The term 'science' (or *scientia*) denoted a
+systematically organized body of knowledge, consisting of some set of
+known fundamental concepts (definitions) and propositions derived from
+these concepts. A science articulated not only some set of facts
+concerning the subject matter of the relevant domain---what we might
+call 'knowledge *that*'---it also articulated explanations of the
+relevant subject matter---'knowlege *why*'.[^12557] 
+
+[^12557]: The model of science stems originally from Aristotle's *
+Posterior Analytics*. See @de-jong2010; @shabel2005. 
+
+Kant makes three significant claims concerning the prevailing view of
+mathematical knowledge. He argues that,
+
+1. Mathematical knowledge is a priori
+2. Mathematical knowledge is synthetic
+3. Mathematical method is unique
+
+Though (1) was not disputed by any of the major theoreticians of Kant's
+day, it stood in need of explanation, which Kant took his critical
+philosophy to be uniquely suited to supply. (2) was highly contested,
+and an original contribution of Kant's to the study of the foundations
+of mathematics. (3) was also quite controversial, and went against the
+predominant philosophies present in Germany and other areas of the
+European continent (Descartes and Spinoza being the most salient
+examples). We'll take these issues in turn, looking both at Kant's
+arguments and the historical context necessary for understanding those
+arguments.
+
 # Rationalist Philosophy of Mathematics #
 
 A dominant research program amongst philosophers in the seventeenth and
@@ -19,9 +51,33 @@ Wolff](http://plato.stanford.edu/entries/wolff-christian/) (1679-1754),
 articulated a theory of mathematical knowledge in which all mathematical
 (including geometrical) knowledge could be demonstrated in terms of explicit,
 step-by-step inferences from the contents of our mathematical concepts,
-which could be reconstructed in classical syllogistic form.
+which could be reconstructed in classical syllogistic form. 
+
+The rationalist conception of mathematical knowledge thus construed
+mathematical knowledge as a priori, insofar as the justification of
+mathematical judgment did not derive from particular experiences, but
+only from *concepts*, and their construction or analysis.[^132559]
+Mathematical knowledge was also construed as entirely *analytic*. All
+true mathematical judgments were simply explications of the content of a
+mathematical concept where the predicate of the concept was either
+explicitly or implicitly 'contained' in the subject.[^133710]
+
+[^133710]: See the discussion of containment analyticity in [1. Kant's
+Project](#containment-analyticity).
+
+[^132559]: This conception of mathematical justification is compatible with the
+*content* of the relevant mathematical concepts as itself derived from
+experience. However, many rationalists concerning mathematical justification
+were also nativists concerning mathematical concepts (e.g. Descartes, Spinoza ,
+and Leibniz), so they combine an a priori account of the justification of
+mathematical judgments with a nativist account of the acquisition of the
+relevant concepts composing the relevant mathematical propositions.
+These two doctrines were obviously mutually supporting. 
+
+
 
 # Kant against Logicism #
+
 
 ## Mathematics as Synthetic ##
 
