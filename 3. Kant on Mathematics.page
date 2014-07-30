@@ -8,6 +8,48 @@ geometry: 'letterpaper,centering,margin=1.75in'
 categories: Kant, Teaching
 ...
 
+# Rationalist Philosophy of Mathematics #
 
+A dominant research program amongst philosophers in the seventeenth and
+eighteenth centuries accounted for mathematical knowledge in terms of the
+possession and analysis of concepts. Kant's view is largely articulated in
+opposition to this broadly rationalist conception of mathematical knowledge.
+One of the most influential philosophers in Germany prior to Kant, [Christian
+Wolff](http://plato.stanford.edu/entries/wolff-christian/) (1679-1754),
+articulated a theory of mathematical knowledge in which all mathematical
+(including geometrical) knowledge could be demonstrated in terms of explicit,
+step-by-step inferences from the contents of our mathematical concepts,
+which could be reconstructed in classical syllogistic form.
 
 # Kant against Logicism #
+
+## Mathematics as Synthetic ##
+
+
+## Mathematics as A Priori ##
+
+
+# Philosophy and Mathematics #
+
+Kant is deeply critical of the prevailing view in Germany that philosophy and
+mathematics share similar aims and methods, and that philosophical questions
+may be pursued with the same tools that the mathematician uses in the course of
+giving mathematical proofs. This was true both of philosophers outside of
+Germany, such as Descartes and Spinoza, and philosophers inside Germany, such
+as Leibniz and Wolff. [Christian
+Wolff](http://plato.stanford.edu/entries/wolff-christian/) (1679-1754) is
+perhaps the figure Kant most clearly has in mind in his criticisms of
+philosophical practice modeled on mathematics. 
+
+# References {-}
+
+---
+nocite: |
+    @carson1997; @carson1999; @carson2006a; @friedman1985; @friedman1992;
+    @friedman2012; @heis201; @heis2014; @shabel2005; @shabel2006; @strawson1966
+    ; @van-cleve1999
+...
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+
+<!-- -->

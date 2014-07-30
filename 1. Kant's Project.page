@@ -1,10 +1,20 @@
 ---
 title: 1. Kant's Project
+author: Colin McLear
+date: July 29, 2014
+biblio-files: '/Users/Roambot/Dropbox/PDFLibrary/Master'
+csl: '/Users/Roambot/.pandoc/chicago-author-date.csl'
+geometry: 'letterpaper,centering,margin=1.75in'
 categories: Kant, Teaching, Apriori, Analyticity
 ...
 
+<!-- TODO: Make clear that Kant's conception of science is *proper*
+science -->
+<!-- TODO: Discuss the 'from-grounds' notion of the a priori -->
+
 
 <!--
+# TOC of B Introduction: #
 
 1.  The distinction between pure and empirical knowledge
 2.  We have some items of a priori knowledge, and even the common
