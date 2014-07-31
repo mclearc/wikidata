@@ -127,6 +127,10 @@ to the subject in a manner necessary for truth.[^235932]
 
 ### The Argument from Arithmetic ###
 
+In the B-Introduction to the CPR Kant argues that no analysis of
+concepts could ever suffice for an account of our knowledge of an
+arithmetical sum. 
+
 >To be sure, one might initially think that the proposition "7 + 5 = 12" is a
 >merely analytic proposition that follows from the concept of a sum of seven
 >and five in accordance with the principle of contradiction. Yet if one
@@ -140,6 +144,16 @@ to the subject in a manner necessary for truth.[^235932]
 >the intuition that corresponds to one of the two, one's five fingers, say, or
 >(as in Segner's arithmetic) five points, and one after another add the units
 >of the five given in the intuition to the concept of seven. (B15)
+
+More generally, his argument seems to be that for any arithmetical proposition,
+our knowledge of the meanings of the component numerical concepts and
+arithmetic operators could never suffice for knowledge of the result of the
+arithmetical operation. But is this a convincing argument? Should we really
+even call it an *argument* rather than merely a *challenge* to a rationalist
+theory?
+
+<!-- TODO: finish explication of argument, drawing on anderson2004 -->
+
 
 ### The Argument from Geometry ###
 
@@ -215,11 +229,8 @@ had a ready explanation for how it could be universal and certain. Since
 Kant has rejected the account of mathematical justification in terms of
 analyticity he needs to provide some other means of explaining the a
 priori status of mathematics. He does this through his account of
-mathematical construction in pure intuition, to which we'll now turn.
-
-## Construction in Pure Intuition ##
-
-
+mathematical construction in pure intuition. This account goes hand in
+hand with his argument for the uniqueness of mathematical methodology, to which we'll now turn.
 
 # Philosophy and Mathematics #
 
@@ -232,6 +243,20 @@ as Leibniz and Wolff. [Christian
 Wolff](http://plato.stanford.edu/entries/wolff-christian/) (1679-1754) is
 perhaps the figure Kant most clearly has in mind in his criticisms of
 philosophical practice modeled on mathematics. 
+
+There are two central differences between mathematics and philosophy
+according to Kant. The first concerns the availability and nature of the
+definitions of the concepts concerning their relevant subject matter.
+The second concerns the role of intuition in presenting the objects of
+these concepts. We'll take these in turn. 
+
+## Definition and Exposition ##
+
+
+
+## Construction and Intuition ##
+
+
 
 # References {-}
 
