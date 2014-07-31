@@ -107,13 +107,118 @@ Kant tries to show both that the rationalist programme cannot give a
 convincing answer to these questions and that his own transcendental
 idealism can.
 
-# Kant against Logicism #
+# Kant on Mathematical Knowledge #
 
+We'll look first at Kant's criticism of the rationalist's analyticity
+claim and then move to his defense of the a priori status of
+mathematical knowledge, despite its 'synthetic' basis. 
 
 ## Mathematics as Synthetic ##
 
+Kant rejects the idea that substantive mathematical knowledge may be
+derived from the mere analysis of concepts. This means that Kant must
+claim that mathematical knowledge is of propositions wherein the subject
+concept does not 'contain' the predicate, despite the latter's 'belonging'
+to the subject in a manner necessary for truth.[^235932] 
+
+
+[^235932]: Cf. @shabel2006, [98](skimmer:///Users/Roambot/Dropbox/PDFLibrary/shabel2006.pdf?page=5)
+
+
+### The Argument from Arithmetic ###
+
+>To be sure, one might initially think that the proposition "7 + 5 = 12" is a
+>merely analytic proposition that follows from the concept of a sum of seven
+>and five in accordance with the principle of contradiction. Yet if one
+>considers it more closely, one finds that the concept of the sum of 7 and 5
+>contains nothing more than the unification of both numbers in a single one,
+>through which it is not at all thought what this single number is which
+>comprehends the two of them. The concept of twelve is by no means already
+>thought merely by my thinking of that unification of seven and five, and no
+>matter how long I analyze my concept of such a possible sum I will still not
+>find twelve in it. One must go beyond these concepts, seeking assistance in
+>the intuition that corresponds to one of the two, one's five fingers, say, or
+>(as in Segner's arithmetic) five points, and one after another add the units
+>of the five given in the intuition to the concept of seven. (B15)
+
+### The Argument from Geometry ###
+
+>Geometry is a science that determines the properties of space synthetically
+>and yet *a priori*. What then must the representation of space be for such a
+>cognition of it to be possible? It must originally be intuition; for from a
+>mere concept no propositions can be drawn that go beyond the concept, which,
+>however, happens in geometry (Introduction V). But this intuition must be
+>encountered in us *a priori*, i.e., prior to all perception of an object, thus
+>it must be pure, not empirical intuition. For geometrical propositions are all
+>apodictic, i.e., combined with consciousness of their necessity, e.g., space
+>has only three dimensions; but such propositions cannot be empirical or
+>judgments of experience, nor inferred from them (Introduction II). (B41)
+
+### The Argument from Transcendental Realism ###
+
+>Those, however, who assert the absolute reality of space and time, whether
+>they assume it to be subsisting or only inhering, must themselves come into
+>conflict with the principles of experience. For if they decide in favor of the
+>first (which is generally the position of the mathematical investigators of
+>nature), then they must assume two eternal and infinite self-subsisting
+>non-entities (space and time), which exist (yet without there being anything
+>real) only in order to comprehend everything real within themselves. If they
+>adopt the second position (as do some metaphysicians of nature), and hold
+>space and time to be relations of appearances (next to or successive to one
+>another) that are abstracted from experience though confusedly represented in
+>this abstraction, then they must dispute the validity or at least the
+>apodictic certainty of *a priori* mathematical doctrines in regard to real
+>things (e.g., in space), since this certainty does not occur *a posteriori*,
+>and on this view the *a priori* concepts of space and time are only creatures
+>of the imagination, the origin of which must really be sought in experience,
+>out of whose abstracted relations imagination has made something that, to be
+>sure, contains what is general in them but that cannot occur without the
+>restrictions that nature has attached to them. The first succeed in opening
+>the field of appearances for mathematical assertions.a However, they
+>themselves become very confused through precisely these conditions if the
+>understanding would go beyond this field. The second succeed, to be sure, with
+>respect to the latter, in that the representations of space and time do not
+>stand in their way if they would judge of objects not as appearances but
+>merely in relation to the understanding; but they can neither offer any ground
+>for the possibility of *a priori* mathematical cognitions (since they lack a
+>true and objectively valid *a priori* intuition), nor can they bring the
+>propositions o f experience into necessary accord with those assertions. On
+>our theory of the true constitution of these two original forms of sensibility
+>both difficulties are remedied. (A39-41/B56-8)
 
 ## Mathematics as A Priori ##
+
+Kant gives a brief defense of the a priori status of mathematics in the
+B-Introduction.
+
+>Properly mathematical judgments are always *a priori* judgments and are never
+>empirical, because they carry necessity with them, which cannot be derived
+>from experience. But if one does not want to concede this, well then, I will
+>restrict my proposition to pure mathematics, the concept of which already
+>implies that it does not contain empirical but merely pure *a priori*
+>cognition. (B 14–15)
+
+This argument looks like so much table-pounding. If one were not already
+convinced of the universality and necessity of mathematical knowledge
+then it is difficult to see how this 'argument' would persuade. In Kant'
+s defense, the apriority claim was never in much doubt. Even Hume
+defended the claim that mathematical knowlege was a priori insofar as
+they were true
+
+>by the mere operation of thought, without dependence on what is anywhere
+>existent in the universe. Though there never were a circle or triangle in
+>nature, the truths demonstrated by Euclid would for ever retain their
+>certainty and evidence. (E IV.i.1)
+
+But Hume considered mathematical knowledge to be purely analytic. So he
+had a ready explanation for how it could be universal and certain. Since
+Kant has rejected the account of mathematical justification in terms of
+analyticity he needs to provide some other means of explaining the a
+priori status of mathematics. He does this through his account of
+mathematical construction in pure intuition, to which we'll now turn.
+
+## Construction in Pure Intuition ##
+
 
 
 # Philosophy and Mathematics #
