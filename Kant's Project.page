@@ -333,7 +333,93 @@ thinking of ‘atomic’ judgments of subject-predicate form.
 
 ### Containment Analyticity {#containment-analyticity}
 
-<!-- TODO: elaborate on the notion of containment -->
+Kant defines analyticity in terms of containment this way:
+
+>the predicate B belongs to the subject A as something that is (covertly)
+>contained in this concept A (A6/B10)
+
+Kant distinguishes two distinct notion of logical containment---viz. the
+"content" and the "extension" of a concept. These notions are 'intesional' they
+concern what is thought 'in' the concept and not what objects fall under the
+concept (this would be, for Kant, a non-logical notion of 'extension'). The
+*content* of a concept is the group of intensional concepts (marks) that it
+“contains in” itself as components, whereas the concept’s logical *extension*
+comprises the group of lower, or more specific, concepts it “contains under”
+itself (*Jäsche Logic*, 9:95–7, esp. §§ 8, 9, 11).[^133313] Kant
+conceives of concept individuation along the broadly Aristotelian lines
+of a logic of terms. Concepts (or terms) fall under some general *genus*
+and are distinguished from other concepts falling under the genus in
+terms of specific *differentia*. For example, the concept `<human>`
+falls under the genus `<animal>` and is distinguished from other animals
+by its differentia---viz. `<rational>`. 
+
+[^133313]: Cf. @anderson2004, [507-8](skimmer:///Users/Roambot/Dropbox/PDFLibrary/anderson2004.pdf?page=7); @anderson2005, [27](skimmer:///Users/Roambot/Dropbox/PDFLibrary/anderson2005.pdf?page=6).
+
+Divisions are exclusive and exhaustive disjunctions of everything that
+falls under the genus.[^134230] Thus two points apply:
+
+1. The division of a genus is *complete* --- the various species of a genus,
+   taken together, *exhaust* the genus.
+2. Membership in a species is *exclusive* --- no species may be predicated of
+   another.
+
+[^134230]: Port Royal formulates these rules in the chapter on classification
+(i.e., logical division); see @arnauld1996, 124-5. Kant treats logical division
+and its rules in his logic lectures at 24:273, 760-2, and 925-28, and in the
+*Jäsche Logic* at 9: 146-8; cf. Meier 1914 [1752], §5 285-91; 16:612-19. See
+also @de-jong1995; @anderson2004, 507-8; @anderson2005, 29.
+
+Content and extension are related to one another *reciprocally*. If we conceive
+of concepts as organized hierarchically, as on a [Porphyrian
+Tree](http://en.wikipedia.org/wiki/Porphyrian_tree), then the content of a
+concept A is everything *above* it in the concept hierarchy (i.e. every concept
+which constitutes A) and the extension of the concept is everything *below* it
+in the hierarchy (i.e. every concept which contains A as a proper part).
+
+Kant also holds that,
+
+>In regard to the logical extension of concepts, the following universal rules
+>hold 1. What belongs to or contradicts higher concepts also belongs to or
+>contradicts all lower concepts that are contained under those higher ones; and
+>2. conversely: What belongs to or contradicts all lower concepts also belongs
+>to or contradicts their higher concept. (*Jäsche Logic*, 9:981)
+
+This means that concept with the same logical extension must contain the same
+conceptual 'marks' as content. They also must exclude the very same marks that
+'contradict' the content or extension of the concept. Kant calls concepts that
+share the same content and extension in this way 'convertible' or 'reciprocal'
+concepts [*Wechselbegriffe*] (JL 9:98, also 24:261, 755, 912).[^13532]
+
+[^13532]: Cf. @anderson2004, [508](skimmer:///Users/Roambot/Dropbox/PDFLibrary/anderson2004.pdf?page=8).
+
+The rules of division thereby guarantee that the concepts constituting the
+content of a further concept are all completely distinct from one another (i.e.
+they occupy different points on a Porphyrian hierarchy). Thus, for one concept
+to 'contain' another is to have that concept as a member of its extension in a
+strict hierarchical ordering of genus/ species relationships where concepts are
+distinguished according to their (non-overlapping) differentia. Conceptual
+analysis then involves an explication of the conceptual marks constituting the
+content of a concept sufficient for locating it at a specific place in some
+such hierarchy. The rules of conceptual division are thus sufficient for
+guaranteeing that hierarchy encodes only analyticities. 
+
+Any attempt to build a science via conceptual analysis would thus be an attempt
+to construct a complete logical ordering of concepts according to the division
+rules explained above. Such a division would make the inferential relationships
+between concepts totally transparent, and thus provide a totally clear and
+demonstrative science of whatever subject matter was considered fit for
+analysis. So Kant's denial, in his critical philosophy, that conceptual
+analysis provides us with any substantive knowledge of reality is best
+understood as denying that the explication of conceptual hierarchies via
+logical division provides us with substantive knowledge. One of Kant's key
+insights was that at least some of our knowledge has an importantly
+*non-logical* basis. For example, as we will see, the traditional logic of
+concepts lacks the expressive power necessary to represent our knowledge of
+mathematics (arithmetic and geometry) and Kant took this fact as a significant
+reason in favor of his view that we must therefore have synthetic a priori
+knowledge.[^142051]
+
+[^142051]: For further discussion see [Kant on Mathematics]().
 
 ### Problems ###
 
