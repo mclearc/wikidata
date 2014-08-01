@@ -252,19 +252,620 @@ these concepts. We'll take these in turn.
 
 ## Definition and Exposition ##
 
+Kant thinks that there are important differences between the
+mathematical and philosophical spheres of inquiry such that the method
+of mathematics cannot be easily transported to
+philosophy---specifically, metaphysics. The difference centers on the
+issue of definition. As Kant says in his 1763 Prize Essay,
 
+>In mathematics I begin with the definition of my object, for example, of a
+>triangle or a circle, or whatever. In metaphysics I may never begin with a
+>definition. Far from being the first thing I know about the object, the
+>definition is nearly always the last thing I come to know. In mathematics,
+>namely, I have no concept of my object at all until it is furnished by the
+>definition. In metaphysics I have a concept which is already given to me
+>although it is a confused one. My task is to search for the distinct, complete
+>and determinate concept. (2:283)
+
+The concepts with which philosophy works are given to it.
+Thus its definitions are arrived at analytically (2:276). In contrast, the
+concepts with which mathematics works are *made*, and its concepts are
+arrived at synthetically, as a result of the definition articulated.
+For example, in the case of the concept `<cone>` Kant says that,
+
+>[w]hatever the concept of cone may ordinarily signify, in mathematics the
+>concept is the product of the arbitrary representation of a right-angled
+>triangle which is rotated on one of its sides (2:276).[^133042]
+
+[^133042]: Cf. @carson2006a, 10-11.
+
+So mathematical knowledge, as Kant envisions it, does not proceed from concepts
+concerning things we encounter in nature, but rather from definitions used to
+construct concepts a priori.
+
+Mathematical definition both exhaustively details the content of a
+concept and provides a method for constructing its object. But the
+concept itself does not prove the real possibility of its object. That
+requires intuition. So in the case of philosophical analysis, the
+problem isn't that the concept does not prove the real possibility of
+its object, but rather that the definition which specifies the concept
+(in this case, its logical essence) does not also give an a priori rule
+or method for constructing the concept. We have to go and look for the
+concept, and hence there is no apodeictic certainty built into the
+concept, that its object is really possible. 
+
+Kant elucidates the difference between definition and explication most
+clearly in the chapter of the first *Critique* entitled 'Discipline of Pure Reason in its Dogmatic Use'.
+
+> to **define** properly means just to exhibit originally the exhaustive
+> concept of a thing within its boundaries.\* Given such a requirement,
+> an **empirical** concept cannot be defined at all but only
+> **explicated** [*nur **explizirt** werden*].
+>
+> \* **Exhaustiveness** signifies the clarity of sufficiency of marks;
+> **boundaries**, the precision, that is, that there are no more of
+> these than are required for the exhaustive concept; **original**,
+> however, that this boundary-determination is not derived from anywhere
+> else and thus in need of a proof, which would make the supposed
+> definition incapable of standing at the head of all judgments about an
+> object. (A727/B755)
+
+Kant’s distinction immediately raises a number of issues. First, Kant denies
+that any empirical concept could be defined, at least in part because we could
+never firmly set the boundaries of the concept. So a central difference between
+genuine definition and exposition or explication is that definitions are
+exhaustive and fixed elaborations of the content of a concept, whereas
+expositions or explications are not. Empirical concepts are subject to revision
+in a way that concepts capable of definition are not. More generally, according
+to Kant the philosopher (as opposed to the mathematician) can never be certain
+of the exhaustiveness of their favored elaboration of a concept. Thus, though
+‘we can often infer much from some marks that we have drawn from an as of yet
+uncompleted analysis’ we can never certify their exhaustiveness, and thus that
+‘we have arrived at a complete exposition, i.e., a definition.’ (A730/B758).
+
+Second, and perhaps surprisingly, there are many a priori concepts that
+do not admit of definition either. So the issue of definition cuts
+across the boundaries between the a priori and a posteriori. For
+example, Kant says
+
+> strictly speaking no concept given a priori can be defined, e.g.,
+> substance, cause, right, equity, etc. For I can never be certain that
+> the distinct representation of a (still confused) given concept has
+> been exhaustively developed unless I know that it is adequate to the
+> object. But since the concept of the latter, as it is given, can
+> contain many obscure representations, which we pass by in our analysis
+> though we always use them in application, the exhaustiveness of the
+> analysis of my concept is always doubtful, and by many appropriate
+> examples can only be made **probably** but never **apodictically**
+> certain. Instead of the expression “definition” I would rather use
+> that of **exposition**…(A728-9/B756-7)
+
+So no *a priori* concept that is given, such as any of the categories or
+any of our fundamental moral concepts, can be defined. This point, along
+with Kant’s denial that empirical concepts are definable, results in the
+position that the only concepts capable of strict definition are those
+that are *constructed*.[^31]
+
+What concepts are constructible? Only those whose marks may be put
+together in an ‘arbitrary’ or ‘elective’ [*willkurlich*] fashion.[^32]
+
+> Since therefore neither empirical concepts nor concepts given a priori
+> can be defined, there re­main none but electively thought ones for
+> which one can attempt this trick. In such a case I can always define
+> my concept: for I must know what I wanted to think, since I
+> deliberately made it up, and it was not given to me either through the
+> nature of the understanding or through experience; but I cannot say
+> that I have thereby defined a true object. For if the concept depends
+> upon empirical conditions, e.g., a chro­nometer, then the object and
+> its possibility are not given through this elective concept; from the
+> concept I do not even know whether it has an object, and my
+> explanation could better be called a declaration (of my project) than
+> a definition of an object (A729/B757)
+
+Kant here admits that such elective concepts are possible in
+the empirical case, but cannot count as genuine definitions. His
+reasoning for this is not entirely obvious. He states first that the
+‘object and its possibility’ are not given by the concept. Presumably
+this is an indication that, while the empirical concept may be logically
+coherent, the empirical world could be such that no entity could ever
+instantiate it. In other words, the real possibility of the concept’s
+object is not given by the definition of the concept.[^33] But Kant goes
+on to gloss his denial in stronger terms—viz., that the concept does not
+bring with its application the knowledge that it *actually* has
+instantiations. But it is not at all clear why this would need to be the
+case for the concept to count as a definition. Surely an engineer might
+conceive of a chronometer and assiduously determine the feasibility of
+its being built—i.e. that it is really possible, and yet never build
+it.[^34]
+
+In addition to these difficulties, we should also note that Kant does
+seem to allow for a form of definition in the empirical case after all,
+what he calls ‘logical’ or ‘nominal’ definition. Kant give the clearest
+articulation of the notion of a nominal definition in the *Jäsche
+Logik*.
+
+> By mere *definitions of names*, or *nominal definitions*, are to be
+> understood those that contain the meaning that one wanted arbitrarily
+> to give to a certain name, and which therefore signify only the
+> logical essence of their object, or which serve merely for
+> distinguishing it from other objects. *Definitions of things*, or
+> *real definitions*, on the other hand, are ones that suffice for
+> cognition of the object according to its inner determinations, since
+> they present the possibility of the object from inner marks. (JL
+> 9:143; cf. LL 24:268-9; R2995, 16:607, R2999, 16:609 (c. 1770-1); C
+> 11:53 (Letter to Herz, 26 May 1789))
+
+So, if we want to provide a definition that allows us to
+distinguish one thing from others, as
+`<two-legged animal with broad nails>` might allow us to distinguish
+human beings from other animals, then Kant concedes that we are able to
+do so (cf. LL 24:270-1, 919-20). Thus when Kant denies that empirical
+concepts be given definitions, he must not be taken as denying the
+strong claim that no definition of an empirical concept is possible, but
+rather only the weaker claim that no *real defintition* of an empirical
+concept is possible.
+
+Real definition seems to require several things. First, real definitions
+are fixed, in virtue of detailing the essential properties of a thing.
+Kant makes this clear in a note to the above cited discussion in the
+*Jäsche Logik*
+
+> Note 2. Objects of experience allow only nominal explanations. Logical
+> nominal definitions of given concepts of the understanding are derived
+> from an attribute, real definitions, on the other hand, from the
+> essence of the thing, the first ground of possibility. Thus the latter
+> contain what always belongs to the thing – its real essence. (JL
+> 9:144)
+
+The real definition, in virtue of detailing the real essence
+of a thing, provides a fixed and unchanging articulation of the thing’s
+necessary properties, the properties necessary for that thing to be the
+kind of thing that it is.
+
+We also see an indication that derivability is an important distinction
+as well. Kant continues in the same note by saying,
+
+> Merely negative definitions cannot be called real definitions either,
+> because negative marks can serve just as well as affirmative ones for
+> distinguishing one thing from others, but not for cognition of the
+> thing according to its inner possibility. In matters of morals real
+> definitions must always be sought; all our striving must be directed
+> toward this. There are real definitions in mathematics, for the
+> definition of an arbitrary concept is always real. (JL 9:144)
+
+Kant denies here that thought of something via what it is
+*not* cannot provide the content of a real definition because it does
+not allow for ‘cognition of the thing according to its inner
+possibility’. I take this to mean that it does not allow for knowledge
+from a explanatory ground in the sense of Kant’s pre-critical notion of
+a antecedently determining ground. Negative definitions might tell us
+that something is the case, but a real definition tells us *why*.
+
+Kant states a similar position in a reflection:
+
+> Nominal definition is that which is sufficient to achieve cognition
+> through comparison. Real definition is that which [is sufficient for]
+> derivation. For example “The circle is a curved line, in which all
+> similar parts touch one another” is a nominal [definition], for it
+> does not allow for the derivation of characteristics from itself.
+> Accordingly, it is not sufficient to give the object. This also
+> includes merely negative definitions (e.g. concepts of the
+> understanding are those which are not sensory). The definition “God is
+> that absolutely necessary being” is nominal, insofar as I can cognize
+> nothing but negative characteristics therefrom. (R2916, 16:575 (either
+> 1764-8 or 1778-9))
+
+Here it seems that a real (as opposed to nominal) definition
+is one which has a certain kind of explanatory significance or
+status—viz., it exhibits the ground of the possibility of a thing. Kant
+emphasizes derivation, but not just any derivation will do, it must be
+one which, in line with his notion of an antecedently determining
+ground, which provides a derivation that is not only necessary but
+explanatory. In the case of mathematics, Kant seems
+to think that all the conditions necessary for providing real
+definitions are satisfied. Mathematical concepts are elective and
+constructed a priori.
+
+> there remain no other concepts that are fit for being defined than
+> those containing an elective [*willkürliche*] synthesis which can be
+> constructed a priori, and thus only mathematics has definitions. For
+> the object that it thinks it also exhibits [*stellt dar*] a priori in
+> intuition, and this can surely contain neither more nor less than the
+> concept, since through the explanation [*Erklärlung*] of the concept
+> the object is originally given, i.e., without the explanation being
+> derived from anywhere else. (A729-30/757-8)
+
+Kant here indicates two important features of a mathematical
+concept—viz. its a priori character and the ‘original’ [*ursprünglich*]
+derivation of its object. I’ll take these two points in turn.
+
+First, though both the empirical concept `<chronometer>` and the concept
+`<triangle>` are elective, in that their constituent marks are
+explicitly synthetically assembled or specified in the construction of
+the concept (JL 9:141), only the geometric concept allows for this
+specification a priori, via appeal to pure intuition.[^37] This is what
+Kant calls a ‘genetic’ definition, in which the object of the concept so
+defined can be “exhibited [*dargestellt*] *a priori in concreto*” (JL
+9:144).[^38] All mathematical concepts have this feature—viz. the
+ability to provide, coeval with the conceptual definition, an instance
+in pure intuition of the kind of object specified by the concept.[^39]
+Kant makes this clear in a 1789 letter to Reinhold,
+
+> the definition, as always in geometry, is *at the same time* the
+> construction of the concept. (C 11:42, 19 May, 1789)
+
+Kant also explicitly connects construction, definition, and a
+priori intuition in his reply to Eberhard.
+
+> In the most general sense one can call construction all exhibition of
+> a concept through the (spontaneous) production of a corresponding
+> intuition. If it occurs through the mere imagination in accordance
+> with an a priori concept, it is called pure construction. (These are
+> the constructions which the mathematician must make use of in all his
+> demonstrations.) (OD 8:192)
+
+So one cannot possess a mathematical concept without being
+able to generate a corresponding (pure) intuition of an object which
+satisfies this concept.[^40] This is obviously different from the
+empirical case, where the particular physical laws might be such that no
+object could actually instantiate all of the properties specified by the
+concept `<chronometer>`. In a Kantian phrase, we cannot know that the
+properties specified in the concept are not ‘really repugnant’
+(A264–5/B320–1<!-- TODO: more citations -->) until the object so
+specified has been made.[^41]
+<!-- NOTE: Say more about real repugnance here? --> So an important
+difference between the mathematical and empirical case is that only the
+mathematical case allows, independent of any experience, the
+presentation of an object satisfying the relevant concept.
+
+The difference between real and nominal definition is not, however, limited
+solely to a priori presentation of objects which satisfy the real definitions.
+There is a second and equally important difference—viz. the fact that real
+definitions provide explanatory grounds for all of the other feature of the
+object(s) designated via the conceptual definition.
+
+Real definitions articulates those features of an object which are
+fundamentally explanatory of all other features it may come to have. This was a
+view common amongst early modern thinkers. For example Spinoza argues in his
+*Treatise on the Emendation of the Intellect* that our knowledge of the
+metaphysical (i.e. ‘real’) possibility of a thing must proceed from a ‘true and
+legitimate definition’ of it.[^42] He goes on to say that,
+
+> The conception or definition of the thing must be such that all the
+> properties of the thing, when regarded by itself and not in
+> conjunction with other things, can be deduced from it, as can be seen
+> in the case of this definition of a circle. For from it we clearly
+> deduce that all the lines drawn from the centre to the circumference
+> are equal.[^43]
+
+Locke construes the explanatory significance of definition in
+similar terms.
+
+> The complex *Ideas* we have of Substances, are, as it has been shewn,
+> certain Collections of simple *ldeas*, that have been observed or
+> supposed constantly to exist together. But such a complex *Idea*
+> cannot be the real Essence of any Substance; for then the Properties
+> we discover in that Body would depend on that complex *Idea*, and be
+> deducible from it, and their necessary connexion with it be known; as
+> all Properties of a Triangle depend on, and as far as they are
+> discoverable, are deducible from the complex *ldea* of three Lines,
+> including a Space. (EHU II.xxxi.6; cf. III.xi.22).
+
+Locke famously denied that such knowledge, which he considers properly
+*scientific* knowledge, could be had in the case of the physical world. Only
+mathematics and ethics allow for the kind of scientific knowledge provided in
+the articulation of real definitions.[^44]
+
+Kant seems to endorse precisely this view. In the Blomberg logic lecture
+notes Kant explicitly differentiates nominal from real essence in terms
+of derivation.
+
+> The concept that water is a fluid element, without odor or taste, 14
+> times lighter than quicksilver, etc., is the logical essence of
+> water[;] for if I have mastered physical cognitions about something,
+> then I think of all this as soon as I mention the word water. From
+> this, of course, I cannot at all derive all the remaining properties
+> which are determined for water, and which belong to it or can belong
+> to it, and perhaps are not yet all discovered, although we do not
+> always think them in this connection[;] consequently it is not the
+> real essence. (24:118)
+
+This connection of real essence to an exhaustive derivation of
+its properties is repeated in other places, both published and
+unpublished. Unsurprisingly, it is typically in connection with a
+discussion of mathematical concepts. For example in the reflection
+previously cited above Kant distinguishes real from nominal definition
+insofar as the former is
+
+> that which [is sufficient for] derivation. For example “The circle is
+> a curved line, in which all similar parts touch one another” is a
+> nominal [definition], for it does not allow for the derivation of
+> characteristics from itself. Accordingly, it is not sufficient to give
+> the object. (R2916, 16:575 (either 1764-8 or 1778-9); cf. 9:58)
+
+Kant here distinguishes the nominal definition of a circle
+from a real definition in terms of absence of the proper derivation
+relations—viz. the nominal definition allows us to distinguish a circle
+from other kinds of geometric objects but it doesn’t explain why a
+circle has the various features that it has, nor what those features
+could be.[^45] We also see here again Kant’s insistence that a real
+definition, like an antecedently determining ground, provide a
+*positive* characterization of an object. In Kant’s preferred definition
+of a circle, we see his emphasis on the importance of derivation rather
+than mere recognition.
+
+> Thus the common explanation of the circle, that it is a **curved**
+> line every point of which is the same distance from a single one (the
+> center-point), contains the error of unnecessarily introducing the
+> determination **curved**. For it must be a particular theorem, which
+> can be deduced from the definition and easily proved, that every line
+> each point of which is equally distant from a single one is curved (no
+> part of it is straight). (A732/B760; C 11:53; 24:919).[^46]
+
+Kant’s point here is that from the basic concepts `<point>`,
+and `<line>` you can characterize the essential nature of a circle, and
+thus give a real definition of `<circle>`, without resorting to any to
+notion such as `<curved>`. Even the constructive procedure, according to
+which a circle is generates ‘by the movement of a straight line around a
+fixed point’ is merely a ‘practical corollary’ of the definition (C
+11:53).
+
+Thus, Kant’s repeated statements that real definitions provide cognition
+of something according to its inner determinations or its real essence
+(JL 9:143; cf. LL 24:920; R2999, 16:609
+(\~1770-1)<!-- TODO: other citations? -->) posit a requirement on real
+definition that it articulate the basic features of a thing, which
+determine all other possible features that it may have, and which allow
+for logical *cum* conceptual derivation.
+
+Kant’s ultimate position then appears to be largely in agreement with
+that of Locke insofar as both consider real definitions to be not only
+important for categorization but also for the explanation of an object’s
+features. Both also seemingly agree that real definitions are possible
+in mathematics but not in the case of empirical concepts, and thus not
+for empirical science. For Kant, even for an elective empirical concept,
+such as `<chronometer>`, no real definition can be provided because,
+even allowing that the definition is fixed, we cannot deduce from it all
+the features that a chronometer can possibly have because there must be
+other factors in play, such as the actual laws of nature. Hence, even if
+an empirical concept could be given a complete analysis, or in the case
+of an electively constructed concept, a totally explicit articulation,
+the content of the concept could never, according to Kant, sufficiently
+explain the totality of features characteristic of the concept’s
+objects. It could only provide a means of adequately distinguishing them
+from other things.
+
+Before we go on to look at some of the further details of Kant's view of
+mathematical construction I want to summarize what I take to be the main
+differences between philosophy and mathematics. 
+
+First, mathematics *constructs* its concepts while philosophy must
+analyze *given* concepts. This has corresponding ramifications for the
+definitions that are possible for each area of inquiry. In mathematics,
+the definitions by which concepts are constructed are *real*. They are
+exhaustive, complete, and fixed. They also present the marks of
+mathematical concepts in such a was as to make clear the explanatory
+hierarchy within which those marks are situated. This allows a possessor
+of the relevant concept to (i) articulate the features of the object
+necessary for distinguishing it from all other things (or types of
+things); (ii) properly appreciate how the properties of a
+mathematical object are determined, including the dependence relations
+between those properties. 
+
+Philosophy, in contrast, can only *explicate* its concepts. This means
+that any definition articulated in the course of a conceptual analysis
+is always in principle incomplete and uncertain. Philosophical
+explications at best deal in *nominal* definitions, which allow for the
+classification of the concept's objects, but not for any significant
+explanatory derivation. 
+
+[^31]: This seems to be the consensus view. Cf. @beck1956, 184-5;
+    @dunlop2012, 93-7; @heis2014. Moreover, the consensus has been that
+    only *mathematical* concepts may be constructed in a fashion which
+    admits of strict definition. Cf. @beck1956, 186; @dunlop2012, 96.
+    Mathematical concepts possess this special status, it has been
+    argued, because they are the only concepts which contain within
+    themselves the a priori rules for construction (in pure intuition)
+    of their instances. Cf. @beck1956, 186-7; @dunlop2012, 96-7;
+    @heis2014, 6-7. More on this below.
+
+[^32]: Here I prefer ‘elective’ rather than ‘arbitrary’ as a translation
+    fo ‘*willkurlich*’, particularly because the electively assembled
+    concept need not be assembled *at random*, as the use of ‘arbitrary’
+    might suggest. Cf. @beck1956, 186-7; @meerbote1982, 78; @dunlop2012,
+    note 28. Dunlop credits the idea of the choice of ‘elective’ in
+    translation to Daniel Sutherland.
+
+[^33]: @beck1956, 185-6 construes Kant’s meaning in this way. Beck goes
+    on to say that “the devising of the object is proof that the concept
+    has real objective possibility and is not chimerical.” So in
+    actually inventing a chronometer (to use Kant’s example), one proves
+    the possibility of the concept.
+
+[^34]: @dunlop2012 explains the issue as one of demonstrating the
+    “legitimacy of the concept’s use” by articulation of the definition;
+    @dunlop2012, 96. But this seems open to the objection mentioned
+    above. An engineer might well be able to assess the applicability of
+    the concept `<chronometer>` even if neither she, nor anyone else,
+    ever actually gets around to building one.
+
+[^35]: This was not an uncommon view. Arnauld and Nicole express a
+    similar view in their *Logic* (@arnauld1996, 25). Leibniz also seems
+    to endorse this view (cf. the discussion in @adams1994, 109). Lewis
+    White Beck (@beck1956, 183-4) seems to err here in his discussion of
+    Kant’s views on definition. He argues that the difference between
+    nominal and real definition ultimately comes down to derivability,
+    and uses R2916, cited above, as his evidence. As the discussion here
+    of negative marks and derivability makes clear, Kant’s distinction
+    is not one about derivation but rather explanation.
+
+[^36]: Cf. @longuenesse2001, 75.
+
+[^37]: See @parsons1969; @parsons1979; @parsons1992; @parsons1993;
+    @carson1997; @dunlop2012; @heis2014 for discussion of the notion of
+    pure intuition and its role in grounding a priori knowledge of
+    mathematical objects.
+
+[^38]: So all genetic definitions are real. It is possible however that
+    Kant considers the possibility of real definitions that are not
+    genetic. See R3000, R3002, 16:609.
+
+[^39]: There is some ambiguity as to whether Kant thinks the possession
+    condition of a mathematical concept, whose real definition we
+    articulate, entails merely the correlated possession of a *capacity*
+    for constructing the relevant object in pure intuition, or the
+    *actual* construction of that object in intuition. For example,
+    there is Kant’s (in)famous remark that “we cannot think a circle
+    without describing it in thought” (B154), which seemingly requires
+    that the mere *thought* of a circle entails a mental act of
+    (visually?) rotating a line segment around a fixed point on a plane.
+    Emily Carson distinguishes the capacity invovled in the possesion of
+    the concept from the actual constructive act in pure intuition. See
+    @carson1997, 505. @dunlop2012 and @heis2014 emphasize the importance
+    of the capacity, which makes sense given their identification of
+    concept possession in the mathematical case with the possession of
+    the relevant *recognitional capacity* or *capacities*. But as we’ll
+    see below, the importance of giving a real definition goes beyond
+    that of grounding a recognitional capacity, as it also provides a
+    particular kind of explanatory *derivability*.
+
+[^40]: Cf. @dunlop2012, 112-13; @heis2014. It is an interesting question
+    as to how exactly we should characterize the corresponding pure
+    intuition. Kant explicitly denies that we should take his notion of
+    construction in terms of e.g. compass and ruler constructions (OD
+    8:192). On the issue of such ‘empirical’ constructions see
+    @webb1987; @lachterman1989; @shabel1998, @shabel2003a. For an
+    extremely interesting discussion of the dispute between Maimon and
+    Kant on the relationship between mathematical construction,
+    definition, and intuition see @freudenthal2006. Kant also explicitly
+    denies that the significance of pure intuition in exhibiting the
+    objects of mathematical concepts lies in the presentation of
+    ‘images’ [*Bilder*]. See Kant’s response to Kästner, 20:412-13; cf.
+    @onof2014a, 288; @kant2014, 306-7. I will say relatively little
+    about this issue. But, as I emphasize below, the constructed objects
+    of pure intuition have to be such that their essence, articulated by
+    the real definition used in constructing them, grounds and explains
+    their other properties in a manner befitting their status as
+    antecedently determining grounds.
+    <!-- TODO: add citations of math literature (e.g. parsons vs friedman vs shabel & citation of my Intuition and Presence" paper) -->
+
+[^41]: There is an ever-growing literature on the issue of Kant’s modal
+    theory and its connection to his theory of cognition. See
+    @chignell2009; @stang2011; @leech2012; @abaci2013 ; @stang2014;
+    @chignell2014; @schafer2015; @stang2015 for discussion.
+
+[^42]: @spinoza2002, 25 (93).
+
+[^43]: @spinoza2002, 26 (96). See also the discussion in
+    @freudenthal2006, 57-60, and the sources cited therein at note 79.
+
+[^44]: For relevent discussion of these passages in Locke and their
+    relation to his conception of proper science see @downing1998,
+    399-405; @kochiras2013; @pasnau2013, chs. 9 & 27.7. This view of
+    Locke is contested; cf. @langton1998, 161 note; @langton2000.
+
+[^45]: Cf. @beck1956, 184. The emphasis which Kant places on the
+    presence, in real definition, of an explanatory ground from which
+    other properties can be securely inferred is missed when we, with
+    Dunlop and Heis, construe mathematical concepts primarily in terms
+    of capacities to recognize particular kinds of spatial
+    configurations. Such a recognitional capacity is already achieved in
+    the articulation of a nominal definition of the geometric concept,
+    and it isn’t enough to say (cf. @dunlop2012, ; @heis2014,
+    <!-- TODO: provide
+    citations! -->) that the capacity brings along with it knoweledge of
+    the real possibility of its object, for this misses (or at least
+    underemphasizes) the importance of the explanatory derivational
+    relation between the definition, the concept, and the constructed
+    object.
+
+[^46]: Kant’s preferred definition is contrary to that of Wolff, who
+    takes the real defintion to be articulated by the contruction
+    procedure of rotating a line around a fixed point; see @wolff1740,
+    143 (§191); @wolff1754, 148. Wolff takes Kant’s preferred definition
+    to be merely nominal. Cf. @heis2014, 14. Heis takes this dispute
+    between Wolff and Kant to indicate a difference in their views
+    concerning what it is to grasp a concept (@heis2014, 15). According
+    to Heis, Kant’s view of concept possession constitutively involves
+    an ‘ability to do certain things’ (15), which in this case consists
+    in the mental act of rotating a line around a fixed point. So,
+    according to Heis, Kant’s definition and Wolff’s coincide in virtue
+    of the fact that ‘to think of the points equidistant from a given
+    point is *ipso facto* to think of a straight line moved around the
+    given point’ (15), and thus the constructive ability presupposes the
+    abilities requisite to think of a line. However, I believe this
+    ‘pragmatic’ reading of Kant’s notion of concept possession lacks any
+    support in the text. Kant’s criticism seems based on the fact that
+    Wolff’s definition isn’t adequately explantorily basic, and
+    introduces a derivative notion, `<curved>`, where it is unnecessary.
 
 ## Construction and Intuition ##
 
+Mathematics, according to Kant, proceeds via the 'construction' of concepts.
+Concepts are composed of marks (which are themselves concepts), so the most
+basic sense of 'constructing a concept' entails putting together a series of
+conceptual marks to make a complex concept. In the case of empirical concepts
+such as `<linden tree>` Kant seems to think we generate the concept through a
+complex series of mental acts involving comparison, reflection, and abstraction
+(JL 9:94). So construction of an empirical concept requires a series of
+empirical intuitions which are compared, similarities and differences noted,
+and abstracted to form a concept which then classifies some set of things
+accordingly.
 
+Mathematical concepts, in contrast, are constructed a priori. This
+means that no sensory experience is required, though Kant thinks that
+*intuition*---viz. pure intuition---is nevertheless still necessary.
+Here are what appear to be some fundamental characteristics of
+mathematical construction:
+
+1. A priori
+2. The content of the concept is 'elective' [*willkürlich*]
+3. The content of the concept is exhaustively defined
+3. Construction proceeds via real definition
+4. The concept provides a 'recipe' for generating a corresponding object in
+   pure intuition
+5. The pure intuition proves the objective validity of the concept (i.e. that
+   its object is really possible)
+6. The content of the concept distinguishes its object as being of a specific
+   kind (e.g. as *round* or *square*)
+7. The content of the concept *explains* why the object has the features that
+   it does
+
+Given that mathematics is an area in which we can give *real* as opposed
+to merely *nominal* definitions, I take it that a mathematical concept
+is constructed by means of a definition which is sufficent both to
+(i) articulate the content of a distinct concept; (ii) provide the rule
+or 'recipe' by which one can 'construct' a corresponding figure in pure
+intuition. So the real definition both provides the concept and proves
+that the concept has an object. In Kant's terms, this means that the
+object is 'really possible' and that the concept has 'objective validity'.
+
+There are, however, several questions that remain here, and do not have
+any obvious answers. One might be tempted to think that pure intuition
+plays some evidentially decisive role in the articulation of
+mathematical definitions, since, to use one of Kant's favored examples, from a passage in the Postulates of Empirical Thought (A220-1/B268),
+
+>It is, indeed, a necessary logical condition that a concept of the possible
+>must not contain any contradiction; but this is not by any means sufficient to
+>determine the objective reality of the concept, that is, the possibility of
+>such an object as is thought through the concept. Thus there is no
+>contradiction in the concept of a figure which is enclosed within two straight
+>lines, since the concepts of two straight lines and of their coming together
+>contain no negation of a figure. The impossibility arises not from the concept
+>in itself, but in connection with its construction in space, that is, from the
+>conditions of space and of its determination.
+
+Pure intuition might be thought to offer decisive evidence against this
+logical possibility, by making manifest that two straight lines cannot
+really enclose a spatial expanse and form a plane figure. 
 
 # References {-}
 
 ---
 nocite: |
-    @carson1997; @carson1999; @carson2006a; @friedman1985; @friedman1992;
-    @friedman2012; @heis201; @heis2014; @shabel2005; @shabel2006; @strawson1966
-    ; @van-cleve1999
+    @brittan2006; @carson1997; @carson1999; @carson2006a; @friedman1985;
+        @friedman1992; @friedman2012; @heis201; @heis2014; @shabel2005;
+        @shabel2006; @strawson1966; @van-cleve1999
 ...
 
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
