@@ -154,8 +154,43 @@ arithmetical operation. But is this a convincing argument? Should we really
 even call it an *argument* rather than merely a *challenge* to a rationalist
 theory?
 
-<!-- TODO: finish explication of argument, drawing on anderson2004 -->
+First, and briefly, it seems clear that '7 + 5 = m - n' will be totally
+unobvious for any large number substituted for m and n, indeed, they may
+be numbers no one has ever thought of. So in such cases it seems clear
+that the thought of the predicate is not contained in thought of the
+subject, at least in terms of anything the subject might infer or be aware
+of.[^14278]
 
+[^14278]: @van-cleve1999, [22](skimmer:///Users/Roambot/Dropbox/PDFLibrary/van%20cleve1999.pdf?page=34)
+
+Second, and related to our previous discussion of 
+[containment analyticity](Kant's Project#containment-analyticity), 
+Kant's argument is that in the proposition '7 + 5 = 12' the concept `<7+5>`
+is not contained in `<12>` in the manner required by a conceptual division
+which would locate `<7+5>` on a conceptual hierarchy above `<12>` according
+to rules of logical division. For example the analysis of '7 + 5 = 12' might
+look something like the following:
+
+![](/Users/Roambot/Dropbox/Webpage/content/images/number.png "Analysis of '7 + 5 = 12'")
+
+According to Kant, the problem is that the point of the mathematical
+proposition '7 + 5 = 12' is to assert a specific relation amongst the three
+numbers. But the hierarchy above can represent no such relation. Worse, any
+attempt to assert a relation in the hierarchy between `<5>`, `<7>`, `<7+5>`,
+and `<12>` will result in an overlap of the extensions of `<5>`, `<7>`, `<7+5>`
+in the concept `<7+5>`, and thus a violation of the division rules guaranteeing
+analyticity. Consider this diagram:
+
+![](/Users/Roambot/Dropbox/Webpage/content/images/sum.png)
+
+`<5>` and `<7>` cannot be contained in `<7+5>` the way that `<12>` is, for then
+`<5>` and `<7>` would also be *sums* of `<7+5>`. But the hierarchy has no other
+way of relating the concepts. `<5>` and `<7>` must be contained in `<7+5>` in
+some other manner than that which the analytical hierarchy can
+represent.[^151317]
+
+[^151317]: For further discussion of what this 'other manner' might be see
+@anderson2004, [530-1](skimmer:///Users/Roambot/Dropbox/PDFLibrary/anderson2004.pdf?page=30).
 
 ### The Argument from Geometry ###
 
@@ -884,7 +919,8 @@ of imagination should be given such exalted epistemic significance.
 
 ---
 nocite: |
-    @brittan2006; @carson1997; @carson1999; @carson2006a; @dunlop2012; @friedman1985; @friedman1992; @friedman2012; @heis201; @heis2014; @shabel2005; @shabel2006; @strawson1966; @van-cleve1999
+    @anderson2004; @brittan2006; @carson1997; @carson1999; @carson2006a; @dunlop2012; @friedman1985; @friedman1992; @friedman2012; @heis201; @heis2014; @shabel2005; @shabel2006; @strawson1966; @sutherland2004;
+    @sutherland2004a; @van-cleve1999
 ...
 
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
