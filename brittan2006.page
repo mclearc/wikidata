@@ -14,6 +14,198 @@ categories: Kant, Mathematics, Geometry, Intuition, Space, References
 	Publisher = {Blackwell Publishing Ltd},
 	Title = {Kant's Philosophy of Mathematics},
 	Year = 2006}
-
 ~~~~~
+
+# Annotations: brittan2006.pdf  
+
+## Overview ##  
+
+This is an exceptionally interesting, rich, and mostly very clear discussion of
+how we should interpret Kant's philosophy of mathematics. Brittan distinguishes
+between an 'evidentialist' and an 'objectivist' interpretation. According to
+the former, intuitions provide evidence for the truth of mathematical
+statements. According to the latter, intuitions provide reference to the
+objects of mathematical propositions. I think the criticisms of the
+evidentialist position are extremely interesting and plausible, but I have to
+disagree with the objectivist reading. I do so for the same reason that I
+disagree with Allais' position that intuition is necessary for
+reference.[^201733] First, such a position entails that our concept of God, the
+soul, etc. do not refer, and that *we know they do not refer*. Second, the
+position depends on an assumption that knowledge of reference is necessary for
+the reference relation to exist, and I do not see this in Kant, and it cannot
+be assumed to be there without begging the question.
+
+[^201733]: Allais actually cites Brittan's position in [allais2010](), [61](skimmer:///Users/Roambot/Dropbox/PDFLibrary/allais2010.pdf?page=15) ([p.222][268r])  
+
+[268r]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#1
+
+## Summary Text ##  
+
+
+"Kant’s critics as well as his supporters have for the most part embraced what might broadly be called an “evidentialist” interpretation of his views. On this interpretation, intuitions provide indispensable evidence for the truths of mathematics. The critics try to show that this is not the case. The supporters, whose position I will emphasize in what follows, think to the contrary that there is something to it. In my view the “evidentialist” interpretation is itself mistaken. I want to develop it in more detail and show precisely how it is mistaken, and put a more adequate semantic, or “objectivist,” interpretation in its place. This will involve indicating the roles the notion of an intuition plays within his philosophy of mathematics and the philosophy of mathematics, in turn, plays within the context of his general philosophical position. Along the way I will have something to say about the synthetic and a priori character of mathematical propositions and the nature of mathematical proof." ([p.222][337t])  
+
+[337t]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#1
+
+"According to the two schools of interpretation, then, the establishment of the premises of mathematical inferences or of their conclusions requires “intuition,” in a sense of the word not yet made clear. According to the first, “logic,” the principle of contradiction and its corollaries proves too much: there are several systems of geometry which are consistent, and intuition is necessary to determine which one among them is true. According to the second, “logic,” monadic quantification theory, does not prove enough; intuition is necessary in order to obtain all the classical (Euclidean) geo- metrical results" ([p.223][318e])  
+
+[318e]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#2
+
+"Despite the fact that they underline different aspects of the synthetic character of mathematical propositions, the two interpretations are agreed that intuition plays an _evidential_ role in Kant’s conception of mathematics. Conceptual analysis alone does not suffice to establish mathematical truths; one must therefore appeal to intuition in order to verify and confirm both the premises of the inferences and the conclusions that result from them. Intuition furnishes us with the necessary evidence. As one of the most astute of contemporary commentators, Charles Parsons, has it, “a mathematical proposition cannot be _verified_ except on the basis of a proof or calculation, that which is, in fact, a construction in intuition” (1983: 138; my emphasis)." ([p.225][361v])  
+
+[361v]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#4
+
+"One cannot understand “intuition” as “evidence,” despite the great number of commentators who do so. The fundamental issue for Kant has little to do with “proof.” It is, rather, whether one can “determine” the object of singular reference in mathematics in a purely conceptual or descriptive fashion. That is to say that Kant’s motives are primarily semantic, even if they also entail some important epistemic consequences. On my interpretation of his position, singular reference, on which the objectivity and not the truth of mathematics depends, requires intuition. It is not a matter of “verifying” mathematical propositions, but of showing how they are “possible,” that is of providing an account of how their subject terms manage to refer." ([p.229][363c])  
+
+[363c]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#8
+
+"Kant’s view, as I understand it, is that purely descriptive theories of reference do not satisfy these conditions [viz. uniqueness and existence], from which it follows that intuition must also be invoked. General representations or concepts alone can never completely determine an object, or _guarantee_ reference. Only singular representations of objects, “intuitions,” can do so. So far as mathematics is concerned, we can “indicate” the object in a variety of ways, by drawing or imagining certain figures, for example, though what is crucial is not the existence of the object per se but of its formal properties (those implicit in the concept of the object under consideration). Moreover, that an object can be intuited in this way demonstrates that it can be given in, and conforms to, the “formal determinations” of space and time." ([p.230][346w])  
+
+[346w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#9
+
+"But there is a major difficulty with the evidential interpretation. Intuition _cannot_ constitute evidence. In falling back on intuition, we verify nothing. There are three things to note. First, whatever constitutes “evidence” is necessarily propositional. The notion of evidence is a relation, be it deductive or inductive, which holds between the propositions which compose an inference. But intuition is not propositional. Only by way of a concept is a proposition possible...Second, Kant insists on the concept/intuition distinction in order to illuminate and criticize the epistemological positions of his empiricist and rationalist predecessors." ([p.226][318a])  
+
+[318a]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#5
+
+"There is an additional difficulty in this connection with the idea that pure spatial intuition is evidence for, or “grounds,” the propositions of Euclidean geometry. It is that the pure intuition of space, as Kant characterizes it in that section of the first Critique entitled the Metaphysical Foundations of the Concept of Space, has only some very general topological properties. There is not enough there to induce any sort of metric, a “determinate” space, let alone a specifically Euclidean distance function, a point on which Kant insists in §38 of the Prolegomena: “Space is something so uniform and so indeterminate with respect to all specific properties that certainly no one will look for a stock of natural laws within it.” In fact, “the metricization” of space comes only much later, in the Analytic, with the application of the principles of understanding. It is not “given” in the pure intuition of space...Further, Kant rejects totally the idea that mathematics needs a foundation, a “verification.” As he tells us in the (A) Preface of the Critique: mathematics “merits its old reputation for solidity.” His problem has to do with metaphysics, which was for the most part denigrated. The search for a foundation for empirical and mathematical knowledge is untoward. Still less could intuition furnish it, in regard to either the premises of our mathematical inferences or the procedures invoked to demonstrate the truth of mathematical propositions." ([p.227][395y])  
+
+[395y]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#6
+
+
+## Text Notes ##  
+
+
+**The parallel between philosophy and mathematics in the B-Introduction: :** It isn't clear to me that the requisite parallel between math and philosophy has anything more to it than that Kant wants to show how even metaphysics can have the status of a science. This needn't entail that metaphysics has its status in just the same way that metaphysics does --- viz. via verification in intuition.  ([p.228][275r])  
+
+[275r]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#7
+
+**Intuitions necessary for reference:** The claim that intuitions are necessary to refer to objects seems forced. Certainly, the idea that however detailed one's concepts, it is always possible that two objects equally satisfy them is resoundingly criticized by Strawson. But this criticism only works on a 'satisfactional' model of conceptual/propositional content. What if the model of conceptual content and application were causal? Would intuition still be necessary? What is doing the work in the case of intuition? Is it the phenomenal 'showing up' of the object? Or is the causal connection? If the causal connection is doing all the work then the non-satisfactional model of concepts is immune to this type of criticism. If the phenomeal character of what is presented in intuition is doing the work then Kant still has a valid criticism of the Leibnizian position.  ([p.231][258n])  
+
+[258n]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#10
+
+## Important Text ##  
+
+
+**Important:**    
+"On one (see Brittan 1978: chs. 2 and 3), our attention is drawn to the premises of mathematical inferences – the axioms, basic propositions, or principles of arithmetic or geometry. This interpretation has its source in reflection on the position of Frege (1950), who maintains that arithmetic is “analytic” in the sense that one can derive all of its truths in a logically rigorous fashion from the definitions of “zero” and “is the successor of” and the basic laws of logic, here taken to include the axioms of set theory. According to the first line of interpretation, Frege was wrong in taking these axioms as analytic; they can be denied without contradiction, as can the postulates of Euclidean geometry. It follows that conceptual analysis alone cannot establish their truth. An appeal to “intuition” must also be made." ([p.223][566p])  
+
+[566p]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#2
+
+**Important:**    
+"On the other line of interpretation, we are to concentrate not on the premises of mathematical inferences, but on the proof procedures used to demonstrate their conclusions (see Friedman 1992: chs. 1 and 2; and Friedman 2000). This second line of interpretation has its source in Russell (1919: 145). Those who follow him maintain that the proof procedures furnished by monadic quantification theory (Aristotle’s theory of the syllogism) which were available in Kant’s time are not capable of establishing all of the conclusions demanded by mathematics, and in particular those having to do with infinite series and the notion of continuity. It was for this reason that Kant was able to make reference to “extralogical” or “intuitive” considerations in mathematics, although the development of a more adequate conception of logic, in a general quantification theory, and of infinite series has since shown how such reference can be avoided." ([p.223][548v])  
+
+[548v]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#2
+
+**Important:**    
+"One problem [with evidentialist readings of the B-Introduction] concerns the passage which comes soon after that which I have just cited [viz. B15], at B 16: "To be sure, a few principles that the geometers presuppose are actually analytic and rest on the principle of contradiction; But . . . they only serve for the chain of method and not as principles, for instance a = a, the whole is equal to itself, or (a + b) ≥ a, the whole is greater than the part. And yet even these, although they are valid in accordance with mere concepts, are admitted in mathematics only because they can be exhibited in intuition." It is not possible that intuition plays an evidential role here; we already know that the propositions are “valid” on the basis of an analysis of their concepts alone. There is thus no question of “verifying” them. If one assumes that intuition plays the same role throughout the Introduction, then it is not able to play an evidential role in the preceding paragraphs either." ([p.228][586x])  
+
+[586x]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#7
+
+**Important:**    
+"If we were to schematize Kant’s general position, it could be seen to turn on three crucial claims: there is no objectivity without objects, there are no objects without reference, there is no reference without intuition. Since he thinks that mathematical propositions are in the intended sense “objective,” it follows for him that that reference of the singular terms in these propositions requires intuition." ([p.229][512b])  
+
+[512b]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#8
+
+
+
+## Highlighted Text ##  
+
+
+**Interesting:**    
+"Some of the axioms, or “postulates” in Euclid’s sense, necessary in order to establish the conclu- sions of geometry and arithmetic are “existential” in character (“At least two points exist,” for example; or “There exist a denumerable number of objects”). According to Kant, one cannot demonstrate the existence of an object by way of an analysis of its concept. This is one of the principal points in his rejection of the ontological proof for the existence of God. One can always deny an existential judgment, even insofar as it concerns God, without any contradiction. But if one cannot demonstrate the existence of objects required by mathematical theories by way of an analysis of their concepts, one must, once again, appeal to intuition." ([p.224][523c])  
+
+[523c]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#3
+
+**Interesting:**    
+"With its essentially finite character monadic quantification theory does not have the resources to represent, still less to demonstrate, all of the classical mathematical theorems of which polyadic quantification is capable. In identifying conceptual determination with monadic provability, Kant was conscious of the fact that the proof of many theorems demanded “intuition,” calculations which take time, often depend on representations of objects in space, and are irreducible to the laws of logic (as he understood it)." ([p.225][566w])  
+
+[566w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#4
+
+**Interesting:**    
+"In distinguishing sharply between con- cept and intuition, Kant wants to expose and avoid this confusion. Yes, something is given immediately to our senses, but that which is given has no logical consequences." ([p.226][568p])  
+
+[568p]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#5
+
+
+
+**Disagree:**    
+"It is clear in the Introduction that Kant wants to establish a rather close parallel between metaphysics and mathematics. It is one cornerstone of his critique of Hume. But if this parallel is close, and if mathematics is synthetic in virtue of the fact that intuition must be used to establish or verify its several truths, it follows that metaphysics too will need intuition to verify its own propositions. But intuition does not verify a single metaphysical proposition. One must conclude, I think, either that the parallel between mathematics and metaphysics isn’t very close, in which case Kant’s use of the former to support his claim that the latter is both synthetic and a priori has little force, or that the role played by intuition in the Introduction is not “evidential.”" ([p.228][553o])  
+
+[553o]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#7
+
+
+
+**Interesting:**    
+"What we have to say, I think, is that for Kant an analytic proposition if true is necessarily true, that is, if its terms refer to objects then the truth of the proposition can be determined by inspection." ([p.230][589q])  
+
+[589q]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#9
+
+**Disagree:**    
+"what Kant mainly wants to show is not that mathematical propositions are certain, that is, derivable from self-evident premises us- ing rigorous modes of proof, but that they are objective." ([p.230][582z])  
+
+[582z]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#9
+
+**Quote:**    
+"the objects of reference [must] be independent of my conception of them. It is necessary that the same object be conceivable or representable in different ways. I will call this the “uniqueness condition.”" ([p.230][537d])  
+
+[537d]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#9
+
+**Quote:**    
+"A second condition on objective reference is that the objects to which reference is made are distinct from my perception of them. We could call this in what is perhaps a somewhat misleading way the “existence condition.”" ([p.230][585w])  
+
+[585w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#9
+
+**Interesting:**    
+"semantics surpasses syntax, with us if not also with God. However extensive our description of the object, it is always possible that this descrip- tion refers to distinct individuals, which differ one from another with respect to a property which has not yet been mentioned, or, in the case of “incongruent counter- parts,” which are distinct even if all of their intrinsic properties are in common. We must pass from concept to intuition – show, exhibit, point to the object – if our reference to the object is to be objective. In this sense of the word, our reference must be demonstrative." ([p.231][565s])  
+
+[565s]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#10
+
+**Interesting:**    
+"The majority of commentators on Kant’s philosophy of mathematics give intuition specific, more restricted, evidential roles to play. We have already looked at some of their suggestions. But the great variety of these suggestions itself makes clear that there is no one special evidential role that it plays, there is no one criterion with regard to which figures or numbers are or are not “constructible,” over and above the fact that their exemplification makes “genuine” singular reference possible, and with it the complete determination of every mathematical object." ([p.232][528t])  
+
+[528t]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#11
+
+**Interesting:**    
+"when Kant claims in his letter to K. L. Reinhold of May 19, 1789, that “the mathematician can make no claim about an object without first pointing it out in intuition,” the point is that the mathematician must first assure himself of the reference of his concepts by showing (constructing) them in intuition. The specific content of the intuition remains open. Kant’s goal is always the same, to show that Leibniz is mistaken about the possibility of guaranteeing the reference of singular terms (especially when the concepts at stake are a priori) using conceptual methods alone." ([p.232][539t])  
+
+[539t]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#11
+
+**Interesting:**    
+"First, Kant says that a proposition is synthetic just in case its predicate “cannot be derived from its subject by way of the principle of contradic- tion” (B 16). This suggests that in a synthetic proposition the predicate is derived from the subject by way of an intuition. But as we have seen, nothing can be “derived from” or with the help of an intuition. The role of intuition, rather, is to fix the reference of the subject and in the process to provide a semantic tie to its predicate. In other words, the role of intuition is to establish the “objective reality” of propositions. Mathematics is unique in this respect, that its concepts furnish us with rules for their construction, that is, for the production of intuitions, or ostensible objects in a very wide sense of the word “object,” corresponding to them. Which is to say that the intuitions establishing the objective reality of mathematics are invariably a priori." ([p.233][587t])  
+
+[587t]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#12
+
+**Interesting:**    
+"Second, Kant is clear that while non-Euclidean figures are “thinkable,” that is, their concepts are consistent, they cannot be “constructed,” that is, they cannot be given a priori in intuition. It is precisely at this point that the evidentialist interpretation is often invoked, to the effect that, for Kant, only Euclidean figures can be “visualized” or otherwise congruent with the data given to the senses." ([p.233][549n])  
+
+[549n]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#12
+
+**Interesting:**    
+"There are three points I would emphasize in connection with this example. First, Kant simply follows Lambert’s lead here. He assumes that the latter has shown the impossibility of the figure; it remains to draw some philosophical consequences...Second, it is not the case that Lambert’s proof turns on any “intuitive” considerations, concerning what we visualize in connection with the concept of a “straight” line, for example. If there are difficulties with the proof, they have little to do with appeals to what is “given” to the senses. Third, Kant makes explicit at the end of his discussion at B 268 that the point has to do with the “objective reality” of geometrical figures, and not with their “necessity.” While there is the suggestion that only Euclidean figures are “objectively real,” there is nothing to indicate that intuition provides the evidence on the basis of which the pro- positions describing them can be known to be true." ([p.234][582f])  
+
+[582f]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#13
+
+**Definition:**    
+"A new light broke upon the first person who demonstrated the isosceles triangle. For he found that what he had to do was not to trace what he saw in this figure, or even trace its mere concept, and read off, as it were, from the properties of the figure; but rather that he had to produce the latter from what he himself thought into the object and presented (through construction) according to a priori concepts, and that in order to know something securely a priori he had to ascribe to the thing nothing except what followed necessarily from what he himself had put into it in accordance with its concept. (B xi–xii)" ([p.227][538z])  
+
+[538z]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#6
+
+**Definition:**    
+"The concept of twelve is by no means already thought merely by my thinking of that unification of seven and five; and no matter how long I analyze my concept of such a possible sum I will not find twelve in it. One must go beyond these concepts, seeking assistance in the intuition that corresponds to one of the two, one’s five fingers, say, or, five points, and one after another add the units of the five given in intuition to the concept of seven. For I take first the number 7, and, as I take the fingers of my hand as an intuition for assistance with the concept of 5, to that image of mine I now add the units that I have previously taken together in order to constitute the number 5 one after another to the number 7, and thus see the number 12 arise. (B 15)" ([p.228][523w])  
+
+[523w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#7
+
+**Definition:**    
+"Kant says, for example, that the truth of analytic judgments “must always be able to be cognized sufficiently in accordance with the principle of contradiction” (B 190). But this saying does not cohere very well with Kant’s views that “truth . . . is the agreement of cognition with its object” (B 82), and that an analytic [ judgment] takes the understanding no further, and since it is occupied only with that which is already thought in the concept, it leaves it undecided whether the concept even has any relation to objects . . . what the concept might pertain to is indifferent. (B 190)" ([p.229][574a])  
+
+[574a]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#8
+
+**Definition:**    
+"Kant goes on to equate “objectivity” (in his chosen vocabulary, “objective validity”) with meaningfulness: If a cognition is to have objective reality, i.e., to be related to an object, and is to have significance and sense in that object, the object must be able to be given in some way. Without that, the concepts are empty, and through them one has, to be sure, thought but not cognized anything through this thinking, but merely played with representation. (B 194)" ([p.230][552o])  
+
+[552o]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#9
+
+**Definition:**    
+"A second letter, this time to A. W. Rehberg (before September 25, 1790), supports and clarifies my position. Rehberg asks Kant the following question: “Given that the understanding can create numbers at will, why is it not capable of thinking √2 in numbers”!" ([p.232][512l])  
+
+[512l]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/brittan2006.pdf#11
 
