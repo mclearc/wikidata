@@ -1,0 +1,392 @@
+---
+author: 'Class notes (4/22) – do not cite or circulate'
+biblio-files: '/Users/Roambot/Dropbox/PDFLibrary/Master'
+bibliography: '/Users/Roambot/Dropbox/PDFLibrary/Master.bib'
+csl: '/Users/Roambot/.pandoc/chicago-author-date.csl'
+nocite: |
+    @anderson2005; @beck1955; @de-jong1995; @jong2010; @hanna2001;
+    @proops2005; @van-cleve1999; @gardner1999
+title: 'Kant on the Synthetic A Priori'
+...
+
+<!--
+
+1.  The distinction between pure and empirical knowledge
+2.  We have some items of a priori knowledge, and even the common
+    understanding is never without them
+3.  Philosophy needs a science to show that there can be a priori
+    knowledge, and to establish its principles and its scope
+4.  The difference between analytic and synthetic judgments
+5.  All theoretical sciences of reason contain synthetic a priori
+    judgments as principles
+6.  The general problem of pure reason
+7.  The idea and division of a special science called ‘critique of pure
+    reason’
+-->
+
+[Immanuel Kant](http://plato.stanford.edu/entries/kant/) (1724–1804) was
+the most significant German philosopher of the eighteenth century, and
+was a key figure in the
+[Enlightenment](http://plato.stanford.edu/entries/kant/). He wrote most
+of his most famous philosophical works relatively late in his
+professional life, having only achieved a position as full professor in
+1770, at the age of forty-six. From 1781 to 1798 Kant published a series
+of tremendously influential philosophical works, including the *Critique
+of Pure Reason* (1781/7), the *Groundwork of the Metaphysics of Morals*
+(1785), the *Metaphysical Foundations of Natural Science* (1786), the
+*Critique of Practical Reason* (1788), and the *Critique of the Power of
+Judgment* (1790).
+
+We’ll be primarily focusing on Kant’s project in the *Critique of Pure
+Reason*. There are certain aspects of Kant’s project there, which should
+be very familiar. For example, Kant, like Locke and Hume, wishes to
+articulate the nature and extent of human knowledge, and to do so in a
+manner which proceeds from an analysis of the nature of human cognitive
+capacities. Kant believes that human reason requires a ‘critique’ or
+examination as to whether it is fit to provide us with knowledge. Kant
+ultimately argues that human reason is not fit to provide us with
+knowledge of a mind-independent reality transcending human experience.
+In this sense Kant is deeply sympathetic with ‘empiricist’ critiques by
+Locke, Berkeley, and Hume of ‘rationalist’ philosophers such as
+Descartes and Leibniz.
+
+However, Kant also argues that we have much deeper and more extensive
+knowledge of the world we experience (or could possibly experience) than
+his empiricist predecessors would allow. For example, Kant argues that
+we have knowledge of necessary truths concerning aspects of the
+empirical world (such as that every event in the empirical world has a
+cause), as well as truths which are universal in extent. Thus Kant
+articulates a view that is directly opposed to the kinds of skeptical
+arguments Hume discusses in his *Treatise* and first *Enquiry*.
+
+Kant thus thinks that we have knowledge of the empirical world governed
+by necessary and universal laws, while nevertheless being almost wholly
+ignorant of the fundamental reality which underlies or grounds the
+existence of the empirical world. In this way Kant combines various
+aspects of both the traditional rationalist and empiricist positions.
+Like Locke and Hume, Kant thinks we must realize that the boundaries of
+human knowledge stop at experience, and thus that we must be
+extraordinarily circumspect concerning any claim made about how reality
+is like independent of all human experience. But, like Descartes and
+Leibniz, Kant thinks that central parts of human knowledge nevertheless
+exhibit characteristics of necessity and universality, and that,
+contrary to Hume’s skeptical arguments, we can have good reason to think
+that they do.
+
+Kant thus critiques pure reason in order to show its nature and limits,
+and thereby curb the pretensions of various metaphysical systems
+articulated on the basis of a firm faith that reason alone allows us to
+scrutinize the very depths of reality. But Kant also argues that the
+legitimate domain of reason is more extensive and more substantive than
+previous empiricist critiques had allowed. In this way Kant salvages
+much of the prevailing Enlightenment conception of reason as an organ
+for knowledge of the world.
+
+Below I characterize some of the central aspects of Kant’s
+epistemological framework and how that framework significantly
+revolutionized our understanding of the possible nature and extent of
+human knowledge.
+
+# Human Knowledge
+
+## The A Priori
+
+We’ve seen several philosophers (e.g. Descartes, Leibniz, Hume) argue
+that there are kinds of knowledge that may be had just by thinking, or
+are universal and necessary in scope. Hume’s conception of knowledge
+made this especially clear. According to Hume, knowledge of necessary
+and universal truths must be a function purely of knowledge of the
+relations of ideas.
+
+Kant agrees with Hume that a priori knowledge is independent of
+experience. In fact, he sees it as definitive of ‘pure’ a priori
+knowledge that it be completely independent of experience. He contrasts
+such knowledge with ‘empirical’ knowledge or knowledge a posteriori. A
+priori knowledge may be more or less ‘pure’ according to whether or not
+the concepts which make it up are themselves a priori knowable. Kant
+uses the example ‘ever alteration has a cause’ as an example of *impure*
+a priori knowledge, since the concept \<alteration\> is empirical.
+
+One important point about Kant’s use of ‘independence’ in describing the
+a priori. Kant does not think that a priori knowledge is independent of
+experience in the sense that one need have *no* experience in order to
+have the knowledge. On the contrary, Kant thinks that *all* of our
+knowledge depends on our having experience of some kind or another,
+though he doesn’t think this dependence entails that all our judgments
+are ultimately *justified* by experience. This is way Kant says that
+
+> although all our knowledge begins with experience, that doesn’t mean
+> that it all comes from experience. (EMT 17)
+
+There seems to be two reasons for Kant’s thinking this. First, we need
+experience in order for our cognitive faculties to function and develop.
+Second, we may need particular experiences in order to acquire certain
+concepts (e.g. red experiences in order to acquire the concept \<red\>).
+This is what distinguishes pure from impure a priori judgments. Impure a
+priori judgments are partially constituted by concepts which themselves
+must come from experience.
+
+If a priori knowledge is, for Kant, knowledge that is (in some sense to
+be further specified) independent of experience, that fact is not the
+only mark or indicator that some bit of knowledge is a priori. In
+addition, Kant argues, any bit of knowledge that is necessary and/or
+universal in scope is itself a priori.
+
+> Necessity and strict universality, therefore, are secure indications
+> that an item of knowledge is a priori, and they always go together.
+> Sometimes one of them is easier to apply as a criterion, sometimes the
+> other… [but] each of them is an infallible test of apriority.
+> (Introduction, EMT 17-18)
+
+Kant argues that the conception of a priori knowledge is presupposed in
+many empirical judgments as well as in particular sciences. He
+specifically points to mathematics (‘5+7=12’) and to physical judgments
+(‘every alteration has a cause’). One of Kant’s arguments (which he
+hints at on EMT 18) is that all of our empirical knowledge (even that
+knowledge which we think we have unproblematically) presupposed a priori
+knowledge.
+
+Kant thinks that there are many examples of judgments which we claim to
+know a priori, but he is interested primarily in a specific subset of
+those which constitute the subject matter of *metaphysics*—viz.
+judgments concerning God, the soul (or mind), and immortality. One of
+Kant’s primary aims is to determine whether metaphysical knowledge is
+possible, and if it is possible, what the extent and nature of that
+knowledge might be. Metaphysical knowledge is problematic, Kant argues,
+because unlike other forms of a priori knowledge, such as logic and
+mathematics, it is not at all obvious which metaphysical judgments are
+in fact correct and thus known, and which are merely thought to be so.
+This is exemplified, Kant thinks, by the contentious disputes in which
+philosophers have long been involved. Kant thus hopes that, by giving a
+critique of reason, he can demonstrate the extent to which metaphysics
+might count as a science, and thus rest on a secure set of claims.
+
+## The Analytic/Synthetic Distinction
+
+A judgment is known (or knowable) a priori if it is known independently
+of experience. Kant thinks that this is not the only dimension according
+to which one can analyze a judgment. Kant argues that all judgments, in
+addition to being classifiable as either a priori or a posteriori (or
+empirical), may also be classified as being either [analytic or
+synthetic](http://plato.stanford.edu/entries/analytic-synthetic/).
+
+An analytic judgment is one in which the predicate is ‘contained’ in the
+concept. One way of understanding this notion of ‘containment’ is via a
+claim about meaning. Accordingly, analytic judgments are those whose
+truth is known merely in virtue of knowing the means of the concepts
+constituting the judgment. For example, in the judgment ‘All bachelors
+are unmarried’ the concept \<unmarried\> is part of the meaning of
+\<bachelor\> and so the truth of the judgment is grasped just by knowing
+the relevant meanings.
+
+Kant also introduces several other markers of analyticity. In total Kant
+provides us with four different marks of analyticity. He says that in an
+analytic judgment the predicate is
+
+1.  ‘contained’ within the subject
+2.  ‘identical’ with the subject
+3.  analytic judgments are ones which are ‘explicative’ rather than
+    ‘ampliative’
+4.  analytic judgments are those knowable by means of application of the
+    principle of non-contradiction
+
+Which, if any of these markers is best thought of as the main
+characteristic of an analytic judgment? This is a disputed issue (cf.
+@anderson2005; @proops2005), though certainly, in all cases Kant is
+thinking of ‘atomic’ judgments of subject-predicate form.
+
+## The Synthetic A Priori
+
+Kant argues, in ways similar to Locke, Hume, and Leibniz, that analytic
+judgments are knowable a priori. Staying with the ‘containment’
+metaphor, since the predicate is contained in the subject of an analytic
+judgment, there is no need to look beyond the judgment to the world (so
+to speak) in order to determine the truth value of the judgment. In this
+Kant is obviously in agreement with Locke, Hume, and Leibniz. Kant
+agrees with his empiricist predecessors in claiming that all a
+posteriori judgments are synthetic. Since the predicate is adding
+something new to the subject we must look beyond the judgment to the
+world—what we can experience—in order that we might determine the
+relevant judgments truth or falsity.
+
+Kant’s main innovation to the a priori/posteriori and analytic/synthetic
+schemas is to note that the analytic a priori and the synthetic a
+posteriori do not exhaust the realm of possible judgments. There are
+also *synthetic a priori* judgments that are possible. Kant argues that
+causal judgments are a clear example.
+
+> Take the proposition ‘Every event has its cause’…the concept of
+> *cause* lies entirely outside the concept of *event*; it signifies
+> something different from the general concept of *event*, and isn’t in
+> any way contained in it. So how do I come to say of events in general
+> something quite different from that concept, and to learn that the
+> concept *cause* belongs to the concept *event*—indeed belongs to it
+> necessarily, although not by being contained in that concept? What is
+> the unknown something-or-other that the understanding is relying on
+> when it thinks it has found, outside the concept of A, a predicate B
+> that it believes to be connected with it? (EMT 21)
+
+Kant argues here that our judgments concerning events presuppose that
+they do not just *occur* but are *caused to occur*, that we know this to
+be true necessarily and universally, and that we have no explanation of
+this fact unless the judgments we make in such cases are synthetic a
+priori judgments. The question remains, however, just how such synthetic
+a priori judgments could be possible. What is it that could link the
+concepts in a subject-predicate judgment such that the truth of the
+judgment holds necessarily and universally, while its nevertheless being
+true that the predicate is not contained in the subject of the judgment,
+and thus that the judgment is not analytic?
+
+> ·It is terrifically important that we solve this problem, identify the
+> something-or-other that makes synthetic a priori judgments possible.
+> Why? Because· the entire final aim of our speculative a priori
+> knowledge depends on such •synthetic principles, ones that •amplify.
+> (EMT 21)
+
+Kant argues that we need to explain how synthetic a priori judgments are
+possible, and that the explanation of the possibility of significant
+portions of our knowledge rests on this, including mathematics and
+natural science, as well as the very possibility of metaphysics.
+
+## Mathematics and the Synthetic A Priori
+
+Recall that for Hume, mathematical knowledge was a function merely of
+knowledge of relations of ideas, in other words, that math is analytic
+and a priori. Kant disputes this. Our mathematical knowledge is
+certainly a priori, he thinks, but it is not explained in terms of
+relations of ideas or concepts (i.e. in terms of containment or any of
+the other marks of analyticity). Instead, Kant argues that mathematical
+knowledge must be *synthetic*, but since it is necessary and universal,
+also *a priori*.
+
+> Mathematical judgments are all synthetic. This proposition seems to
+> have escaped the notice of those who have worked on analysing human
+> reason, and indeed to be directly opposed to all their conjectures;
+> yet it is unquestionably true, and has very important consequences.
+> (EMT 22)
+
+Kant uses two examples in his argument concerning mathematics. The first
+is the judgment ‘7+5=12’ and the second is the geometric judgment that
+‘the shortest distance between two points is a straight line’. Though
+both judgments are knowable a priori, Kant thinks that in neither of
+these two cases, can we explain the truth of the judgments analytically.
+
+> you might initially think that the proposition *7 + 5 = 12* is a
+> merely analytic proposition that follows, via the principle of
+> contradiction, from the concept of *sum of 7 and 5*. But if you look
+> at it more closely you’ll find that the concept of *sum of 7 and 5*
+> contains nothing more than *number in which 7 and 5 are united*—that
+> is all. When I have the thought of the sum of 5 and 7, I do *not*
+> thereby have the thought of 12; no matter how long I spend analysing
+> my concept of such a possible sum, I won’t find 12 in it. ·To arrive
+> at 12· we have to •go beyond these concepts (EMT 22)
+
+Kant’s argument here is that while it might be analytically true that
+the sum of 7 and 5 is *a number* (and also that it must be a *natural
+number*), it is not clear from analysis alone that the sum is equal to
+12, or any other pair of natural numbers which might sum to 12.
+
+Kant seems to think that to the extent one finds the answer twelve
+*obvious* one is adverting, either explicitly or implicitly, to some
+particular experience of adding units, such as counting on one’s
+fingers, or adding up objects (e.g. apples, chairs, blocks, etc.).
+
+Also, if ‘7+5=12’ is known analytically, then in thinking it one is
+equivalently thinking of any or all the numbers which are equal to 12,
+including *very large* numbers (e.g. any numbers *m* and *n* which might
+yield 12). This certainly doesn’t reflect our experience when
+calculating such sums, which may yield further evidence that the
+judgment isn’t analytically true.
+
+# Kant’s ‘Copernican Revolution’
+
+In a famous passage Kant compares his critical philosophy to the central
+contribution on Nicolas Copernicus.
+
+> Until now it has been assumed that all our knowledge must conform to
+> the objects ·that it is knowledge of·; but working on that basis we
+> have never succeeded in learning anything—never added anything to our
+> stock of knowledge—in an a priori way through concepts. So let us now
+> ·change our tack· and experiment with doing metaphysics on the basis
+> of the assumption that the objects must conform to our knowledge. That
+> would fit better with the upshot that we want, namely a priori
+> knowledge of the objects that will tell us something definite about
+> them before they are given to us. This would be like Copernicus’s
+> basic idea: having found that he wasn’t getting far with explaining
+> the movements of the heavenly bodies while assuming that the whole
+> flock of them was revolving around the observer, he tried making the
+> observer revolve and leaving the stars at rest. (Bxvi–xvii; EMT 9)
+
+So just as Copernicus sought to explain the apparent motions of objects
+in the heavens in terms of the movement of the earthbound observer, so
+too Kant attempts to account for the apparently characteristics of
+objects in terms of our cognitive faculties and the cognitive conditions
+under which we know the objective world. In Kantian phrase, instead of
+assuming that our knowledge of the object must conform it *it*, we
+assume that it conforms to *our knowledge*.
+
+## Transcendental Idealism
+
+Kant’s name for the position he articulates according to which objects
+must conform to our way of knowing them ‘Transcendental Idealism’.
+Though the exact meaning of Transcendental Idealism is much disputed by
+Kant’s interpreters, it is clear that he intends at least two things by
+it.
+
+First, according to Transcendental Idealism, space and time are neither
+independent subsisting entities (as was suggested by Newton), nor
+object-dependent orders of relations between entities (as was argued by
+Leibniz). Instead, they are mind-dependent ‘forms of intuition’. They
+are the characteristic ways in which we experience things rather than
+independent things that we experience, or relations between things that
+we experience. Space and time are ‘empirically real’ — they are
+fundamental features of the empirical world that we experience. But they
+are not real ‘in themselves’. They have no ultimate reality apart from
+subjective experience.
+
+Second, in addition to the transcendental ideality of space and time, to
+which all experienced objects must conform, Kant argues that empirical
+reality is itself structured by a privileged set of a priori concepts.
+
+> That’s the first part of my proposed as-it-were-Copernican revolution;
+> now for the second part·…Any beliefs I reach about what an object is
+> like will involve me in using concepts of it—·if I come to think that
+> something is solid, say, I’ll have to bring my concept of solidity to
+> bear on it·. Now there are two ways in which my concepts might fit the
+> objects of my inquiries. One is this: •My concepts, which I employ in
+> my beliefs about what the object is like, conform to the objects. If
+> that is right, though, I am back in my old difficulty, namely that it
+> seems impossible for me to know anything a priori about the object.
+> The second alternative is this: •The objects conform to my concepts,
+> or—the same thing in different words–•The experience in which the
+> objects are known conforms to my concepts. ·The focus on experience is
+> legitimate, because· it is only in experience that the objects can be
+> known as things that are given. This second alternative offers a gleam
+> of hope: experience is a kind of knowledge in which the understanding
+> must be involved (Bxvii; EMT 10)
+
+Kant here argues that the object which appear to one in perceptual
+experience, or ‘intuition’ as he calls it, also must conform to our
+basic conceptual scheme. He explains what he means here in the last
+sentence: objects must conform to our conceptual scheme because that
+scheme makes possible the experience of them.
+
+We’ll discuss Kant’s ‘Copernican’ strategy here in another class.
+However, the basic idea is that Kant will show that what makes synthetic
+a priori knowledge possible is the structure of our cognitive faculties
+including the pure forms of intuition and a privileged set of a priori
+concepts. These forms and concepts jointly make experience possible and
+allow us to draw inferences that hold with necessity and universality
+concerning objects encountered in experience. What’s more, Kant argues
+that because a priori concepts are necessary for experience in general,
+we can know that those concepts are applied legitimately, since he is
+taking it as obvious that we have experience. While we won’t have time
+to explore all of Kant’s arguments for this position, we will explore
+one—viz. his argument that we can know with certainty that, in
+opposition to Hume, necessary causal connections really hold between
+distinct objects or events, and thus that lawful scientific knowledge of
+objects is possible.
+
+# References {#references .unnumbered}
+
+<!-- -->
