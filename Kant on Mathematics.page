@@ -6,6 +6,7 @@ biblio-files: '/Users/Roambot/Dropbox/PDFLibrary/Master'
 csl: '/Users/Roambot/.pandoc/chicago-author-date.csl'
 geometry: 'letterpaper,centering,margin=1.75in'
 categories: Kant, Teaching
+number-sections: true
 ...
 
 In the seventeenth and eighteenth centuries mathematics, understood as
@@ -171,7 +172,7 @@ which would locate `<7+5>` on a conceptual hierarchy above `<12>` according
 to rules of logical division. For example the analysis of '7 + 5 = 12' might
 look something like the following:
 
-![](/home/ubuntu/Dropbox/Work/Wiki/static/img/number.png "Analysis of '7 + 5 = 12'")
+![](/Users/Roambot/Dropbox/Work/Wiki/static/img/number.png "Analysis of '7 + 5 = 12'")
 
 According to Kant, the problem is that the point of the mathematical
 proposition '7 + 5 = 12' is to assert a specific relation amongst the three
@@ -194,6 +195,9 @@ represent.[^151317]
 
 ### The Argument from Geometry ###
 
+In the Aesthetic Kant advances an argument concerning the relationship between
+geometry as the science of spatial magnitudes and our pure intuition of space.
+
 >Geometry is a science that determines the properties of space synthetically
 >and yet *a priori*. What then must the representation of space be for such a
 >cognition of it to be possible? It must originally be intuition; for from a
@@ -204,6 +208,20 @@ represent.[^151317]
 >apodictic, i.e., combined with consciousness of their necessity, e.g., space
 >has only three dimensions; but such propositions cannot be empirical or
 >judgments of experience, nor inferred from them (Introduction II). (B41)
+
+It is not altogether clear what Kant is arguing here. He is commonly
+interpreted along the following lines.[^20657]
+
+[^20657]: @shabel2004, [201](skimmer:///Users/Roambot/Dropbox/PDFLibrary/shabel2004.pdf?page=7). Various proponents of the following interpretation include @russell1903, 456; @strawson1966, 57; @broad1978, 45ff.
+
+1. We have synthetic a priori cognition of Euclidean geometry Or: Euclidean
+   geometry is necessarily true
+2. Such cognition is possible only if space is a pure intuition Or: pure
+   intuition of space is a necessary condition of our synthetic a priori
+   cognition of geometry
+3. Therefore, space is a pure intuition.
+
+
 
 ### The Argument from Transcendental Realism ###
 
