@@ -5,8 +5,7 @@ date: July 28, 2014
 biblio-files: '/Users/Roambot/Dropbox/PDFLibrary/Master'
 csl: '/Users/Roambot/.pandoc/chicago-author-date.csl'
 geometry: 'letterpaper,centering,margin=1.75in'
-categories: Kant, Teaching
-number-sections: true
+categories: Kant, Mathematics, Geometry, Intuition, Teaching
 ...
 
 In the seventeenth and eighteenth centuries mathematics, understood as
