@@ -149,6 +149,123 @@ infinite task, which we would obviously be unable to accomplish. Since
 Kant thinks we clearly do represent space as an infinite expanse, we
 must be doing so *non-conceptually*.
 
+## The Transcendental Exposition of Space ##
+
+The central argument of the TE, the so-called 'argument from geometry' was
+originally part of the ME, located between the two pairs of arguments discussed
+above. Kant moves this argument to its own section in the B-edition. It is not
+clear, however, what the significance of the argument actually is. Is it an
+argument concerning the status of the representation of space as ultimately an
+a priori intuition? Is it an argument concerning the dependence of the science
+of geometry on space so understood? Is it an argument concerning something else
+entirely?
+
+### The Argument from Geometry ###
+
+The argument proceeds as follows,
+
+>Geometry is a science that determines the properties of space synthetically
+>and yet *a priori*. What then must the representation of space be for such a
+>cognition of it to be possible? It must originally be intuition; for from a
+>mere concept no propositions can be drawn that go beyond the concept, which,
+>however, happens in geometry (Introduction V). But this intuition must be
+>encountered in us *a priori*, i.e., prior to all perception of an object, thus
+>it must be pure, not empirical intuition. For geometrical propositions are all
+>apodictic, i.e., combined with consciousness of their necessity, e.g., space
+>has only three dimensions; but such propositions cannot be empirical or
+>judgments of experience, nor inferred from them (Introduction II). (B41)
+
+It is not altogether clear what Kant is arguing here. He is commonly
+interpreted along the following lines.[^20657]
+
+[^20657]: @shabel2004, [201](skimmer:///Users/Roambot/Dropbox/PDFLibrary/shabel2004.pdf?page=7). Various proponents of the following interpretation include @russell1903, 456; @strawson1966, 57; @broad1978, 45ff.
+
+1. We have synthetic a priori cognition of Euclidean geometry Or: Euclidean
+   geometry is necessarily true
+2. Such cognition is possible only if space is a pure intuition Or: pure
+   intuition of space is a necessary condition of our synthetic a priori
+   cognition of geometry
+3. Therefore, space is a pure intuition.
+
+One problem with this interpretation of Kant's argument is that it goes against the methodology Kant is supposedly following in the CPR as opposed to the *Prolegomena*. Kant puts the distinction this way in his logic lectures:
+
+>Analytic is opposed to _synthetic_ method. The former begins with the
+>conditioned and grounded and proceeds to principles (_a principiatis ad
+>principia_), while the latter goes from principles to consequences or from the
+>simple to the composite. The former could also be called ‘_regressive_’ and
+>the latter ‘_progressive_’ (JL 9:149)
+
+With the synthetic method one sets out from first principles and derives from
+them what one can. With the analytic method, one starts from some given claim
+and from it proceeds via a regressive analysis to its conditions. The synthetic
+method is constructive while the analytic method is deconstructive. Kant take
+the CPR to be arguing from first principles regarding cognition to the
+existence of particular kinds of synthetic a priori knowledge. In the
+*Prolegomena* Kant is starting from the existence of such synthetic a priori
+knowledge (in natural science and in mathematics) and giving a regressive
+analysis of its conditions (4:263, 274-5).
+
+Unfortunately, Kant's use of these methods in each of the works is not
+altogether clear. To take just two examples, Kant seems to give regressive
+analytic arguments both in the Transcendental Exposition of Space, above, and
+in the Transcendental Deduction of the Categories. It is not clear whether this
+is really compatible with the synthetic method supposedly being followed in the
+*Critique*.[^112551] So appeal to the distinction between methods cannot, of
+itself, ground acceptance or rejection of any particular interpretation of the
+argument in the TE.
+
+[^112551]: See @gava2013 for further discussion.
+
+Lisa Shabel ([shabel2004]()) interprets Kant's argument as *synthetic*, and
+thus as arguing *from* the notion that the representation of space is a pure a
+priori intuition *to* the claim that such a representation of space is the
+foundation for our cognition of geometric objects and relationships. According
+to Shabel the argument from geometry functions as a 'bridge' from the arguments
+of the Metaphysical Exposition, which purport to show that space is an a priori
+intuition, to the arguments concerning the transcendental ideality of space---
+i.e., that it is *nothing other than* a pure a priori intuition.[^114644]
+
+[^114644]: @shabel2004, [207](). 
+
+At least three things work in favor of Shabel's interpretation. First, it
+accords with Kant's claim that the method of argument in the first *Critique*
+proceeds synthetically rather than analytically, though, as was remarked above,
+this cannot be a decisive issue. Second, it makes sense with respect to the
+position of the TE in the Aesthetic as a whole. It would be surprising if Kant
+meant the TE to be an argument for construing the representation of space as a
+priori and a pure intuition, since this seems to be what he intends the
+Metaphysical Exposition to accomplish. Third, as previously noted, the argument
+of the TE was, in the first edition of the CPR, located in the ME. A plausible
+explanation as to why it was moved would be that Kant did not in fact take it
+to be an argument *for* the status of the representation of space as originally
+a pure a priori intuition, and thus decided to give it its own section instead.
+This is perhaps made clearer by Kant's emphasis on the role of the TE in the
+Aestehtic.
+
+>I understand by a transcendental exposition the explanation of a concept as a
+>principle from which insight into the possibility of other synthetic *a
+>priori* cognitions can be gained. For this aim it is required 1) that such
+>cognitions actually flow from the given concept, and 2) that these cognitions
+>are only possible under the presupposition of a given way of ex- plaining the
+>concept. (B40)
+
+So, on Shabel's reading, the TE does not give a new argument for the status of spatial representation as a priori and an intuition, but rather provides reason for construing spatial representation as the only explanation of geometric cognition. On Shabel's reinterpretation the argument proceeds as follows.
+
+1. The representation of space is a pure a priori intuition (from the ME). 
+2. Geometry is a science of synthetic a priori propositions concerning the
+   structure of space
+    - We need an explanation of (a) the a priori representation of space as an object and (b) the status of the propositions of geometry as synthetic rather than anlytic. 
+3. Since (according to the ME) the representation of space is a priori, we know
+   that the geometer's representation of its properties is likewise a priori.
+4. Since (according to the ME) the representation of space is originally an
+   intuition, we know that the status of propositions concerning the nature of
+   space is ultimately synthetic.
+5. $\therefore$ The status of the propositions of geometry as synthetic and a
+   priori is explained by the pure a priori intuitive representation of space
+   --- geometric cognition depends on the representation of space understood in
+   the terms set out in the ME.
+
+
 ## The Ideality of Space
 
 Thus far Kant has made arguments for two of our three topics. He’s
