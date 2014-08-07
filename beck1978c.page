@@ -1,0 +1,201 @@
+---
+title: beck1978c
+categories: Kant, Analysis, Concepts, MFNS, 
+...
+
+~~~~~{.bib}
+@incollection{beck1978c,
+	Author = {Beck, Lewis White},
+	Booktitle = {Essays on Kant and Hume},
+	Chapter = {5},
+	Crossref = {beck1978},
+	Pages = {82--100},
+	Title = {Analytic and Synthetic Judgments before Kant},
+	Year = {1978}}
+~~~~~
+
+# Overview #
+
+Helpful discussion and summary of views of what broadly corresponds to the analytic/synthetic distinction in Kant's German and British predecessors. Beck seems to think that, while Kant's distinction was widely recognized and in some ways anticipated in work by Locke, Hume, Leibniz, Wolff, and (particularly) Crusius, it was Kant's innovation to explain how synthetic a priori judgments might be possible in a way that was not purely psychological (and thus contingent). This is especially clear from Beck's discussion of [Kant's relation to Crusius](skimmer:///Users/Roambot/Dropbox/PDFLibrary/beck1978c.pdf?page=15).
+
+Beck also provides an interesting discussion of Kant and Eberhard's dispute over the analytic/synthetic distinction. Two things are particularly notable from this discussion. First, that the dispute is largely in the scholastic terms (though also present in Wolff) of the essence/attribute distinction and the concomitant ideas of definition and essence. Second, that Beck construes Kant as endorsing a kind of intermediary position between Locke's skepticism concerning essence and the scholastic/rationalist optimism concerning our knowledge of real essence. Beck argues that pure sensible intuition 'reveals the real essence of the thing', and that the '*phenomenal essence*' is 'all the conditions of an object that are necessary if it is possible for us to experience it.' ([p. 99](skimmer:///Users/Roambot/Dropbox/PDFLibrary/beck1978c.pdf?page=20)).
+
+# Annotations: beck1978c.pdf  
+  
+## Important ##  
+
+
+**Important:**    
+"had Kant read the Treatise he would have discovered that perhaps Hume did not mean exactly what he seemed to be saying; and if we, who can read the Treatise, do so, we perhaps can find out why Kant was correct in not taking this to mean that relations of ideas, even if (presumably) testable by contradiction, are equivalent to the relation expressed in an analytical judgment. The relations of ideas in the Enquiry correspond to the "necessary and unalterable" philosophical relations of the Treatise, relations "which depend entirely on the ideas which we compare together."6 But the necessary and unalterable philosophical relations are not analytical in the sense that one of the relata is included in the other, nor in the sense that the denial of such a relation involves a formal contradiction.7
+
+    Note 6 – This correspondence has been established, to my satisfaction, by Donald W. Gotterbarn, "Kant, Hume, and Analyticity," Kant-Studien 65 (1974), 274-83.
+
+    Note 7 – Gotterbam, "Kant, Hurne, and Analyticity"; W. A. Suchting, "Hume and Necessary Truth," Dialogue (1966-67), 47-60; R. F. Atkinson, "Hume on Mathematics," Philosophical Quarterly 10 (1960), 127-37." ([p.83][563w])  
+
+[563w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#4
+
+**Important:**    
+"Not only did Crusius have a clear conception of the difference between analytic and synthetic judgments; he also had a theory as to how synthetic judgments are possible a priori. It was not a theory that Kant could accept, as he accepted the consequences of Crusius's distinction between judgments from logical grounds and judgments from real grounds. After a long period in which he honored Crusius for drawing the right distinction he turned against him for failing to show how synthetic judgments can be known a priori: Crusius, he said, made mere custom and incapacity to think otherwise into an objective necessity, and could get to objective necessity only by accepting a preestablished harmony between innate ideas and their objects. 56. But what Kant did learn from Crusius must not be underestimated; he learned that "the rain never follows the wind because of the law of identity." 57
+
+    Note 56. Letter to Reinhold, May 19,1789 (Ak. XI, 41; Zweig, _Correspondence_, p. 144); _Reflexionen_ 4275 and 4446 (Ak. XVII, 492-554); see also *Vorlesungen über Logik*: (Ak, IX, 21).
+
+    Note 57. _Versuch den Begriff der negativen Grossen in die Weltweisheit einzu führen_, 1763 (Ak. II, 203)." ([p.94][585a])  
+
+[585a]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#15
+
+**Important:**    
+"it follows that while Leibniz had, in his _exoteric_ works, a reasonably clear distinction between analytic and synthetic judgments, he was not able to maintain in his _esoteric_ works that all a priori judgments are analytic." ([p.88][525z])  
+
+[525z]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#9
+
+**Important:**    
+"Kant is now content to call a judgment analytical if it contains an analytical predicate.68
+
+    Note 68. Kant has often been criticized for holding two criteria of analyticity, the phenomenological or introspective ("actually thought" in the concept of the subject) and the logical (testable by the law that the contradiction of an analytical judgment is self-contradictory), Here we have a clear indication that when these criteria give conflicting answers, Kant accepts the latter as prevailing. On the other hand, it is equally clear from their dispute that, when they conflict, Eberhard must use the former in justifying his considering a judgment _per attributum_ to be synthetic." ([p.98][562l])  
+
+[562l]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#19
+
+**Important:**    
+"What follows from the phenomenal essence is a synthetic attribute because it is not contained in, or found by the analysis of, the logical essence. The synthetic attribute follows from the sole condition under which the object can be known, not from its metaphysical (supersensible) real essence. By virtue of the necessity with which the synthetic attribute follows from the phenomenal essence, the judgment containing this attribute is known a priori. Because it does not follow by the law of contradiction from the logical essence, it is [100] synthetic. Hence a judgment whose predicate signifies an attribute of the phenomenal essence is a synthetic a priori judgment." ([p.99][511i])  
+
+[511i]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#20
+
+**Important:**    
+"Kant's answer to Eberhard is that judgments may therefore have attributes as predicates without this fact determining whether the judgment is analytic or synthetic, a priori or a posteriori. But: a. If the predicate signifies an attribute or property of the logical essence, the judgment is analytic and is known a priori. b. If the predicate signifies a property or accident learned by experience of an object, the judgment is synthetic, but is known a posteriori.75 c. If the predicate signifies an attribute or property of the phenomenal essence as the condition of intuitability, the judgment is synthetic (because the predicate does not follow from the logical essence) and known a priori (because it can be known to apply without appeal to actual experience).
+
+    Note 75. _Critique of Pure Reason_, A 728 = B 756." ([p.100][565w])  
+
+[565w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#21
+
+**Important:**    
+"The problem of the Critique of Pure Reason is to see how an attribute can be attached synthetically, yet a priori, to an object whose concept does not logically entail it by containing it implicitly." ([p.98][579u])  
+
+[579u]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#19
+
+**Important:**    
+"If the sensible intuition is empirical, that is, a real perception, the concept of the perceived object is really possible because whatever is actual is possible. A judgment founded on a perception is synthetic, but a posteriori. Sensible intuition, whether pure or empirical, cannot reveal the ontologically real essence of a thing, which is even more hidden from Kant than it was from Locke. But if the sensible intuition is pure, it reveals the real essence74 of the thing since it is an intuition of the condition under which alone a thing can be an object for us. Though Kant calls it the real essence, to avoid confusion between what, for Kant, is known a priori and what, for him and Locke, is not known at all, let us call it the phenomenal essence. It consists of all the conditions of an object that are necessary if it is possible for us to experience it.
+
+ Note 74 – Kant may perhaps have confused Eberhard by calling real essence "die innere Möglichkeit des Begriffes" or "interna possibilitas" and distinguishing it from the "logisches Wesen" (_Über eine Entdeckung_; Ak. VIII, 229). By "innere Möglichkeit des Begriffes" he actually means "lnnere Möglichkeit des Objektes des Begriffes." This is made clear in the manuscripts Kant prepared to help Schulz in Schulz's reply to Eberhard (Ak, XX, 376, first full paragraph); similar usage in *Vorlesungen über Logik* (Ak. IX, 61); *Vorlesungen über Metaphysic* (ed, Politz, 1821), p. 38; _Critique of Pure Reason_, A 676 = B 703; A 816 = B 844. *Einzig möglicher Beweisgrund* (Ak. II, 77-78, 162) distinguishes "innere Möglichkeit" from "das Logische in der Möglichkeit" and identifies the former with the "Wesen der Dinge." I have examined all these passages in "Lovejoy as a Critic of Kant," above, pp, 76-77." ([p.99][534d])  
+
+[534d]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#20
+
+## Highlighted Text ##  
+
+**Interesting:**    
+"It was the thesis of a famous paper by Arthur O. Love- joyl that the table was so incomplete and wrong that it created the fiction that Kant had something original to contribute besides a new terminology, and that if the contribution of one other philosopher (Wolff) is put into the table, it will turn out that Kant was either a mere plagiarist or else unpardonably ignorant of the state of the problem.
+    Note 1. Lovejoy, "Kant's Antithesis of Dogmatism and Criticism," _Mind_, 1906; reprinted in M. S. Gram, ed., _Kant: Disputed Questions_ (Chicago, 1967), pp. 105-30. I have examined Lovejoy's paper in considerable detail in "Lovejoy as a Critic of Kant."" ([p.81][595h])  
+
+[595h]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#2
+
+**Interesting:**    
+"one of the most remarkable things, which ought first to strike the eye, is that Kant _seems to have been ignorant of the information summarized in the table_. For he says, "Perhaps even the distinction between analytic and synthetic judgments has never previously been considered,"2 and, more specifically, "the dogmatic philosophers Wolff and his acute follower Baumgarten altogether neglected this apparently obvious distinction."3
+    Note 2 –  _Critique of Pure Reason_, B19; not in A. 
+    Note 3 – _Prolegomena_, §3." ([p.81][593q])  
+
+[593q]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#2
+
+**Interesting:**    
+"Thus it seems that Locke had not only distinguished between analytic and syn- thetic judgments but that he had held, and that Kant knew that he had held, that some of the latter could be known with certainty, that is, that they were a priori." ([p.82][587v])  
+
+[587v]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#3
+
+**Interesting:**    
+"Since Kant had such insights into Hums's mode of argument, I cannot explain why he did not cite the opening paragraphs of Section IV of the Enquiry, a passage known to every schoolboy. Here Hume draws his famous distinction be- tween relations of ideas and matters of fact. Kant must had read there: "The contrary of every matter of fact is still possible because it can never imply a contradiction and is conceived by the mind with the same facility and distinctness as if ever so conformable to reality." In the Enquiry, therefore, matter of fact judgments meet one of the criteria of syntheticity. Accordingly, relations of ideas "discoverable by the mere operation of thought without dependence on what is anywhere existent in the universe" seem to be judged in what Kant called analytic judgments." ([p.83][599v])  
+
+[599v]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#4
+ 
+**Quote:**    
+"Wherein consists the difference betwixt believing and disbelieving any proposition? The answer is easy with regard to propositions, that are prov'd by intuition or demonstration. In that case, the person, who assents, not only conceives the ideas according to the proposition, but is necessarily determin'd to conceive them in that particular manner, either immediately or by the imposition of other ideas. Whatever is absurd is unintelligible; nor is it possible for the imagination to conceive anything contrary to a demonstration."8
+    Note 8 – Treatise, ed, Selby-Bigge, p. 95" ([p.84][558c])  
+
+[558c]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#5
+
+**Interesting:**    
+"Had Kant read Hume's Treatise, he would have found Hume tacitly admitting a class of intuitively and demonstratively necessary relations of ideas which are not test- able by the logical law of contradiction." ([p.84][515t])  
+
+[515t]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#5
+
+**Quote:**    
+"Leibniz's distinction between truths of reason and truths of fact is another obvious source of Kant's distinction which he does not anywhere mention. Its _locus classicus_ is the _Monadology_ : 
+31. Our reasonings are grounded on two great principles, that of contradiction, in virtue of which we judge false that which involves a contradiction, and true that which is opposed or contradictory to the false. 
+33. There are also two kinds of truths, those of reason and those of fact. Truths of reason are necessary and their opposite is impossible. When a truth is necessary, its reason can be found by analysis, resolving it into more simple ideas and truths, until we come to those that are primary. 
+35. There are simple ideas, of which no definition can be given; there are also axioms and postulates, in a word, primary principles; and these are identical propositions whose opposite involves an express contradiction." ([p.85][589s])  
+
+[589s]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#6
+
+**Quote:**    
+"The _Monadology_ gives a succinct account of how we know a theorem in geometry, without taking these esoteric complications into account: by substituting definientia we come to axioms, and axioms are explicit identities whose "opposites involve an express contradiction." Earlier (1678) in a letter to Coming Leibniz had written: Demonstration is a chain of definitions.. " All truths can be resolved into definitions, identical propositions, and observations–though purely intelligible truths do not need observations. 13
+    13. Philosophical Papers and Letters, p. 286." ([p.86][562e])  
+
+[562e]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#7
+
+**Interesting:**    
+"there are two places where this program breaks down, at least one of which Leibniz himself admitted. 1. There must be _primae veritates_ which are unprovable and therefore not analytic, because explicit identity or contradiction cannot obtain between simple unanalyzable terms." ([p.86][516j])
+
+[516j]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#7
+
+**Interesting:**    
+"2. A like problem is met with not merely at the end of a reduction to identity, but along the course of the reduction from an apparent- ly synthetic judgment to an identity. Definition must be reached by analyzing complex concepts and then demonstrating the identity of the analysantia. In order to give real definitions (merely nominal definitions trivlalize the project!"}, we must be able to show the compossibility and necessary coherence of predicates in a complex concept. If these predicates are simple (conceived per se) it cannot be demonstrated that they must co-inhere in one subject concept by appealing to the law of contradiction, because there is no formal contradiction in the conjunction of two simple predicates.
+    Note 17. For Leibniz's criticisms of the Hobbesian theory which permitted nominal definitions to suffice, see Philosophical Papers and Letters, pp. 199, 355, 371. Against Locke on trifling propositions, see New Essays, II,6, § 27; III, 6, § § 24 and 32; IV, 5, § § 3-8, and Douglas Odegard, "Locke, Leibniz, and Identical Propositions," _Studia Leibnitiana_ 1 (1969),241-53." ([p.87][514t])  
+
+[514t]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#8
+
+**Interesting:**    
+"Because he [Wolff] placed so much more emphasis on the self-contradictoriness of the contradictory than on the intuition of the _consensia_, he was vulnerable to attack from mean like Cruslus, as we shall see." ([p.89][599q])  
+
+[599q]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#10
+
+**Reference:**    
+"Crusius developed an idea which was present in the works of Clauberg, von Tschirnhaus, and Friedrich Adolf Hoffmann (see Beck, Early German Philosophy, pp. 185, 191-92,302-03); later the same way of distinguishing two types of relations was followed by Johann Heinrich Lambert and Johann Heinrich Tetens (ibid., pp. 406-07, 421, 425), but Kant had by then already learned the lesson from Crusius." ([p.92][548w])  
+
+[548w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#13
+
+**Interesting:**    
+"He [Crusius] takes the case of causality. 54 "Every effect has a cause" is clear from the principle of contradiction, but that does not show that the existence of one thing is dependent on that of another. The latter can be denied without contradiction, because the subjects to which existence is attributed are different and exist at different times. Experience, even Wolff saw, must be called upon to discover what _specific_ thing is the cause of another; but, unlike Wolff, Crusius believed that the general principle cannot be established merely by a proof from the law of contradiction. That is to say, in Kantian language, Crusius sought a proof of the principle of causality as, or as derived from, a synthetic a priori principle. Real knowledge must be founded on a different principle from the law of contradiction, which suffices for what Crusius calls "hypothetical knowledge,"
+    Note 54. _Entwurf der nothwendigen Vernunftwahrheiten_, § 31." ([p.93][569j])  
+
+[569j]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#14
+
+**Interesting:**    
+"Crusius, on the contrary, supplements demonstrative knowledge with two _Vernunftwahrheiten_ (truths of reason) which he calls the "principles of inseparability and uncombinability": "Whatever two things cannot be thought apart from one another cannot exist or be possible apart from one another," and "Whatever two things cannot be thought with and beside one another cannot be possible or exist with and beside one another."55 These give the ground why contradictories cannot coexist or be compossible, but they go far beyond the realm of the merely logically impossible. The real ground of a predicate or a relation must be distinguished from the logical ground, and the connection of real ground with the predicate can by known a priori; but the real ground itself can be known only through experience.
+    Note 55. _Entwurf der nothwendigen Vernunftwahrheiten_, §15" ([p.94][575q])
+
+[575q]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#15
+
+**Reference:**    
+"[References on Kant's development of the analytic/synthetic distinction] Note 58. Dieter Henrich, "Kants Denken 1762-63: Uber den Ursprung der Unterscheidung analytlscher und synthetischer Urteile," in _Studien zu Kants philosophischer Entwicklung_; ed. Heimsoeth, Henrich, and Tonelli (Hildesheim, 1967), PP. 9-38; Gottfried Martin, _Kant: Ontologie_, Part III; Beck, _Early German Philosophy_, PP. 441-46, 451-55." ([p.95][558g])  
+
+[558g]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#16
+
+**Interesting:**    
+"In modern terminology (which we owe to C. 1. Lewis)62 "synthetic judgments a priori" are sometimes said to be implicitly analytic judgments–ampliative ("synthetic") by the criterion of "what is actually thought in the subject concept, though not so distinctly and with the same (full) consclousness'"63 but explicative ("analytic") by the criterion of logical deducibility and testability by the law of contradiction.
+    Note 62 – _Analysis of Knowledge and Valuation_, p. 89. S. G. E.
+        Maass,"Ueber den hochsten Grundsatz der synthetischen Urtheile,"
+        writing in Eberhard's _Philosophisches Magazin_ (2 [1790], 186-231 at
+        197) and Eberhard's ally in the battle, distinguishes between immediate
+        and mediate analytic judgments, corresponding exactly to Lewis's
+        distinction. On
+        Maass, see Allison, _The Kant- Eberhard Controversy_, pp, 42-45.
+    Note 63 – *Prolegomena*, §2,a. ([p.96][516z])  
+
+[516z]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#17
+
+**Definition:**    
+"The essence with which Eberhard is concerned consists of those marks (notae) that are the necessary and sufficient conditions for the definition of the concept. The attributes for Eberhard are those marks that logically follow from the concept of the subject ("belong to it") but are not explicitly included in the logical essence or its definiens ("do not lie in it").67 We can be sure that a predicate signifies an attribute if it is a logical consequence of the essence or definition, so that its denial would be self-contradictory. Thus "having more than two sides" is an attribute of a triangle, since "having three sides," the essence of triangle, logically entails "having more than two sides." An attribute which follows analytically from the definition or logical essence by the law of contradiction, as this one does, is called by Kant an "analytical predicate."
+    67. _Critique of Pure Reason_, B 40, A 71 = B 96; _Vorlesungen über Logik_,
+        §8; cf. Vaihinger, _Commentar zu Kants Kritik der reinen Vernunft_ I
+        (1881), 258." ([p.97][519y])
+
+[519y]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#18
+
+**Definition:**    
+"A synthetic attribute, a _Bestimmung_.70 is one which does not follow from the logical essence and yet has a sufficient ground in the real essence.71 Hence it can be necessarily predicated of the subject in a synthetic judgment. Such a judgment is a priori synthetic. (To cite Kant's own example, that space has three dimensions is not known by analysis of the definition of space [its logical essence] and yet can be known a priori to be true of space.)
+    Note 70. _Critique of Pure Reason_, A 598 = B 626. "Praedicatum logicum kan [sic!1 analytisch sein; determinatio est praedicatum syntheticum." Reflexion 5701 (Ak. XVIII, 330).
+    Note 71. _Über eine Entdeckung_, Ak. VIII, 242 (Allison, _The Kant-Eberhard Controversy_, p. 152); letter to Reinhold, May 12, 1789 (Zweig, _Correspondence_, p. 140; Allison, _The Kant-Eberhard Controversy_, pp. 163-64)." ([p.98][558v])  
+
+[558v]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#19
+
+
+
+
+   
