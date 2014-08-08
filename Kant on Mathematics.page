@@ -29,7 +29,7 @@ mathematical knowledge. He argues that,
 
 1. Mathematical knowledge is a priori
 2. Mathematical knowledge is synthetic
-3. Mathematical method is unique
+3. Mathematical method is unique to mathematics
 
 Though (1) was not disputed by any of the major theoreticians of Kant's
 day, it stood in need of explanation, which Kant took his critical
@@ -170,7 +170,7 @@ which would locate `<7+5>` on a conceptual hierarchy above `<12>` according
 to rules of logical division. For example the analysis of '7 + 5 = 12' might
 look something like the following:
 
-![](~/Dropbox/Work/Wiki/wikidata/number.png "Analysis of '7 + 5 = 12'")
+![](/Users/Roambot/Dropbox/Work/Wiki/wikidata/number.png "Analysis of '7 + 5 = 12'")
 
 According to Kant, the problem is that the point of the mathematical
 proposition '7 + 5 = 12' is to assert a specific relation amongst the three
@@ -180,7 +180,7 @@ and `<12>` will result in an overlap of the extensions of `<5>`, `<7>`, `<7+5>`
 in the concept `<7+5>`, and thus a violation of the division rules guaranteeing
 analyticity. Consider this diagram:
 
-![](~/Dropbox/Work/Wiki/wikidata/sum.png)
+![](/Users/Roambot/Dropbox/Work/Wiki/wikidata/sum.png)
 
 `<5>` and `<7>` cannot be contained in `<7+5>` the way that `<12>` is, for then
 `<5>` and `<7>` would also be *sums* of `<7+5>`. But the hierarchy has no other
