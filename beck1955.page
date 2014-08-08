@@ -1,0 +1,179 @@
+	---
+title: beck1955
+categories: Kant, Definition, Analyticity, Concepts
+...
+
+~~~~~{.bib}
+@article{beck1955,
+    Author = {Beck, Lewis White},
+    Journal = {Kant-Studien},
+    Number = {1-4},
+    Pages = {168-181},
+    Title = {{Can} {Kant's} {Synthetic} {Judgments} {Be} {Made} {Analytic?}},
+    Volume = {47},
+    Year = {1955}}
+~~~~~
+
+
+# Overview #
+
+Interesting discussion of Kant's views concerning concepts, judgment, definition, and mathematics. Beck's makes several good points. First, that Kant's notion of analyticity seems ambiguous between a logical and a phenomenological (or psychological) notion. Beck, I think, is correct in arguing that ultimately the logical notion is primary. Certainly this is the position that Kant endorses in reply to Maaß's objections concerning the relativity of analyticity to a speaker's knowledge (see his discussion with Schulz and Schulz's reply (20:376, first full paragraph; cf. [beck1978c](customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#20)). Second, that the important notion of the analytic/synthetic distinction for Kant is not one having to do with logical derivability or demonstration, but rather the deductibility of the proposition from the principle of contradiction *alone*. So, for example, even though much of mathematics might be logically deducible, the original axioms, definitions, etc. are all dependent upon (for Kant) construction in pure intuition, and so are synthetic. Hence, as Beck puts it, the "real dispute" (p. 180) is Interesting discussion of Kant's views concerning concepts, judgment, definition, and mathematics. Beck's makes several good points. First, that Kant's notion of analyticity seems ambiguous between a logical and a phenomenological (or psychological) notion. Beck, I think, is correct in arguing that ultimately the logical notion is primary. Certainly this is the position that Kant endorses in reply to Maaß's objections concerning the relativity of analyticity to a speaker's knowledge (see his discussion with Schulz and Schulz's reply (20:376, first full paragraph; cf. [beck1978c](customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1978c.pdf#20)). Second, that the important notion of the analytic/synthetic distinction for Kant is not one having to do with logical derivability or demonstration, but rather the deductibility of the proposition from the principle of contradiction *alone*. So, for example, even though much of mathematics might be logically deducible, the original axioms, definitions, etc. are all dependent upon (for Kant) construction in pure intuition, and so are synthetic. Hence, as Beck puts it, the "real dispute" (p. [180](skimmer:///Users/Roambot/Dropbox/PDFLibrary/beck1955.pdf?page=13)) is whether there are any primitive propositions which are both synthetic and a priori. There is also an interesting discussion of definition, which supplement Beck's remarks in [beck1956]() (cf. [beck1978c]() and the discussion of [phenomenal essence](skimmer:///Users/Roambot/Dropbox/PDFLibrary/beck1978c.pdf?page=20).  ([p.168][224u])  
+
+
+[224u]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#1
+
+# Annotations: beck1955.pdf  
+
+## Summary Text ##  
+
+
+"In the sixties, when Kant had first drawn his distinction between analytic and synthetic judgments, he made the following note: "If one had the entire concept of which the notions of the subject and predicate are _compars_, synthetic judgments would change into analytic. It is a question of how much arbitrariness there is"1). This question has been asked repeatedly since that time, and the clear and unmistakable trend of the answer's has been that the decision whether a specific judgment is analytic or synthetic is arbitrary or at least is dependent upon variable conditions of how much the judger knows about the subject of the judgment and on his arbitrary decision of the choice and formula of his definitions. In recent discussions of the distinction, analytic judgments are those that follow from explicit definitions by the rules of logic; and definitions are nominal or stipulative, to some degree ,arbitrary. If it is further argued, as is often done, that all a priori judgments are analytic, it follows that the distinction between a priori and a posteriori is likewise a shifting, arbitrary distinction. Kant, who first asked the question, seems to have decided very early that the line of demarcation between these two types of judgment was not variable or arbitrary. The purpose of this essay is to inquire into the reasons for his decision and to indicate some of its implications for his philosophy as a whole." ([p.168][316i])  
+
+[316i]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#1
+
+"Thus, to summarize and make specific: when X is known through two concepts related to each other in a synthetical unity, then a judgment whose form Is given by a category or rule of this synthetical unity is established. If the rule is, for instance, the category of inherence and subsistence, the judgment reads, "There is an X such that X is A and X is B"." ([p.169][333m])  
+
+[333m]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#2
+
+"we see the following: (i) Mathematical theorems may be synthetic even if proved by the law of contradiction, i.e., by strictly logical procedure. Deducibility is not a sufficient condition for analyticity. To be analytic, in Kant's meaning, a proposition would have to be proven by the law of contradiction alone, i. e., its contradictory would have to be self-contradictory; but in mathematical proof by strict logic, the. contradictory of the proposition contradicts some other assumed propositions. (ii) A proposition will be called synthetic if among its premises is a synthetic proposition, such as an axiom, or a mathematical definition, i. e., a synthetical definition which can be exhibited in a construction. (iii) Mathematical axioms (fundamental principles) are synthetic since they are not established by the analysis of a given concept, but only by the intuitive construction of the concept, which will show the necessary presence of attributes not included in a logical definition of the subject 34)
+	Note 34) _Uber die Deutlichkeit_ .. , p. 277 (Beck transl., 263); _Uber eine Entdeckung_ ..., pp.229 ff; _Critique of Pure Reason_, A 730 / B 758." ([p.179][332f])  
+
+[332f]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#12
+
+"The real dispute between Kant and his critics is not whether the theorems are analytic in the sense of being strictly deducible, and not whether they should be called analytic now when it is admitted that they are deducible from definitions, but whether there are any primitive propositions which are synthetic and intuitive. Kant is arguing that the axioms cannot be analytic, both because they must establish a connection between concepts, just as definitions do, and because they must establish a connection that can be exhibited in intuition. And this is what is denied by the modern critic of Kant." ([p.180][376i])  
+
+[376i]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#13
+
+"_The syntheticity of mathematical knowledge in Kant is not a consequence of the inadequacy of his definitions_. It is an essential feature of his entire theory of mathematical knowledge, by which the identity of mathematics and logic was denied. Mathematical knowledge in his view of the world has objective reference, and this is obtained not through definition but through intuition and construction. His mathematical definitions are real; what is deduced from them may be, in modern but not Kantian terminology, analytic propositions. But the propositions admitted as theorems by Kant are not like the analytic propositions of modern mathematics or the relations of ideas of Hume, for they have a necessary relation to experience through the synthetic, intuitive character of the definitions and axioms. Even propositions which Kant admits are analytic belong to mathematics only if they can be exhibited in intuition36).
+	Note 36 – Critique of Pure Reason B 17 = Prolegomena § 2, c 2." ([p.181][342d])  
+
+[342d]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#14
+
+
+## Important ##  
+
+
+**Important:**    
+"Kant is saying [in his reply to Eberhard] that a definition which will change a synthetic into an analytic judgment must be either nominal or real. If nominal, it does not in the least affect the cognitive status of the original judgment; while it may make the original sentence formally analytic, it does not give to the knowledge it expresses any logical or epistemic necessity it previously lacked.23). And if the definition is a real one, we must know the necessary conjunction of independent, coordinate attributes in order to make it; and this conjunction is precisely what was stated in the synthetic judgment whose status is now being disputed. All that is effected by such a procedure, we might say, is that the locus of a priori synthesis is shifted.
+
+Note 23) In this, Lewis is in agreement with Kant. In criticizing these who, identify the a priori and the analytic, and then define the analytic In terms of linguistic rules or procedures, Lewis writes: "If implications of conceptions of this sort should be well worked out, it must appear that they are fatal to the thesis that what is a priori coincides with what is analytic; since the notion that what may be known true without recourse to sense experience, is relative to vocabulary or dependent on conventions of procedure, is not credible" (Op. cit., p. 36)." ([p.176][574w])  
+
+[574w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#9
+
+
+**Important:**    
+"Kant's reply to this kind of criticism, as it appeared in its first crude form, or rather Schultz's reply written under Kant's supervision, makes two responses. (i) Two different propositions, one of which is analytic and one synthetic, may be expressed by the same sentence, for the same word in the sentences may refer to two different concepts, one narrower and one broader. (ii) Closely related to this is the assertion of the "fixity" of a concept. A concept cannot be arbitrarily widened through the accumulation of information. It can be replaced by another called by the same name; but of any given concept it can be decided what is implicit in it to be explicated in analytical judgment and what does not lie in it at all. When one changes a definition, which may change the status of many judgments, the judgments are changed not merely in status but in meaning and validity. Definitions should not, therefore, be arbitrarily changed; a new one must pass the same kind of test of "realness" that the old one originally passed and later failed, if it is not to be merely stipulation without objective reference. We cannot convert empirical knowledge into a priori knowledge simply by refining our language." ([p.175][535z])  
+
+[535z]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#8
+
+**Important:**    
+"in the discussion of "7 +5" Kant is arguing that a theorem does not follow logically even from synthetic axioms, but that intuitive construction enters into the theorem itself and its proof. These two theses - that an intuitive synthetic element is present in the primitive propositions, and that an intuitive synthetic process is present in demonstration – are independent of each other. Because a mathematical judgment is often synthetical by the phenomenological criterion, Kant seems to have supposed that there were good logical reasons for calling it synthetic. Of these two theses, only the first is of any moment in the epistemology (not the methodology) of mathematical knowledge, but it is only the second of the theses that could be corrected by the use of what Lewis calls "genuinely adequate mathematical definitions"." ([p.180][539q])  
+
+[539q]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#13
+
+**Important:**    
+"Kant says that mathematical definitions are *willkürlich*, which is usually translated as 'arbitrary', But the connotation of 'random' present in 'arbitrary' is not present in Kant's word 'arbitrary', for Kant makes the antonym of 'arbitrary' not 'necessary' but 'empirical'. _Vorlesungen über Logik_, § 103 Anm. *Willkürlich* has reference to the volitional character of a synthetic definition, a rule for the synthesis of a concept; but a mathematical concept is synthesized only under given conditions of intuition, and is therefore not arbitrary in the modern sense of this word." ([p.180][577r])  
+
+[577r]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#13
+
+**Important:**    
+"real mathematical definitions are possible, because the definition creates the object. This sounds like stipulation again; but the object is not an arbitrary logical product of subjectively chosen independent properties. To define a mathematical concept is to prescribe rules for its construction in space and time. Such a definition is a synthetical proposition, because the spatial determination of the figure is not a logical consequence of the concept but is a real condition of its application. The real property is joined [with] the logical properties synthetically, not analytically." ([p.181][525l])  
+
+[525l]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#14
+
+
+## Highlighted Text ##  
+
+
+**Interesting:**    
+"Our original consciousness is a congeries of raw materials for concepts, and the business of consciousness is to refine and organize these representations, assigning to some of them the role of subjects and to others that of predicates in judgments which are their objectively valid syntheses3); only as predicates of possible judgments do _Vorstellungen_ serve as concepts, and only as containing representations under them- selves do concepts refer to objects 4).
+	Note 3) Cf. _Reflexionen_ 3920, 4634.
+	Note 4) _Critique of Pure Reason_, A 69/B 94." ([p.169][567o])  
+
+[567o]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#2
+
+**Interesting:**    
+"If B is related to A directly by being included as a part of its con- notation, so that "X is A" implies logically "X is B", the judgment is analytic. In an analytic judgment, reference to X is otiose, and we say simply, "All A is B" where A and B are "partial concepts" of X, and B is a constitutive part of A. But "All A is B" is an elliptical expression, since A is a complex concept containing B. Fully expanded, therefore, the analytic judgment is the tautology, "All A.B is B"." ([p.170][523h])  
+
+[523h]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#3
+
+**Interesting:**    
+"if the decision on analyticity of a specific judgment could be based on a definition of the subject, it would be easy enough to determine whether the judgment is analytic. But Kant rejects this procedure, because he holds that "definability" is a stricter condition than "analyzability", and that we can therefore make analytical judgments with concepts we cannot define. It is, in fact, through organizing analytic judgments that we gradually approach to definition11), which is the end, not the beginning, of knowledge.
+	Note 11) _Prolegomena_, § 2c 3; cf. _Vorlesungen über Logik_, § 109 Anm.; _Über die Deutlichkeit der Grundsatze_, p. 282 (Beck transl., p. 262); _Falsche Spitzfindigkeit_, p. 61. I have studied the relation between Kant's theory of definition and the distinction between the analytic and synthetic in some detail in "Kant's Theory of Definition", to appear shortly in _Philosophical Review_" ([p.170][511d])  
+
+[511d]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#3
+
+**Disagree:**    
+"Since Kant has so restricted the scope and value of definition, these statements about the inclusion of one concept in another are exceedingly obscure. It seems that, without a stated definition, they can be understood in part only psychologically or phenomenologically. Speaking for the phenomenological interpretation is the emphasis upon what is "actually thought" in the subject; speaking for a logical interpretation is the fact that analytic attributes may be uncovered and brought to light only by sustained inquiry, and are not present, in any phenomenological sense in the thought of the concept of the subject." ([p.170][519h])  
+
+[519h]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#3
+
+**Reference:**    
+"[References on containment] Note 12) Vaihinger, _Commentar zu Kants Kritik der reinen Vernunft_, I, p. 258. "Contained in" is contrasted with "contained under" - Retlexion 3043. The latter, used in describing synthetic judgments, seems to mean for Kant what Vaihinger says was commonly meant by "contained in". Cf. also Reflexionen 2896, 2902." ([p.171][519j])  
+
+[519j]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#4
+
+**Interesting:**    
+"we can discern two criteria for analytic judgment. Kant, in apparent disregard of their differences, uses first one and then the other as it suits his purposes, perhaps in the conviction that their answers will in any specific case be the same." ([p.171][569z])  
+
+[569z]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#4
+
+**Definition:**    
+"(i) The logical criterion of analytic judgment is its conformity to the law of contradiction, a necessary condition of any judgment and a necessary and sufficient condition for an analytic judgment. The test is applied as follows: substitute in a judgment synonyms for synonyms, or an analysis or definition of the subject concept for the subject itself. Then the contradictory of this judgment will infringe the law of contradiction if the original judgment is analytic. And as the contradictory of a self-contradictory proposition is necessary, the original judgment is necessary." ([p.171][576s])  
+
+[576s]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#4
+
+**Definition:**    
+"(ii) The phenomenological criterion is the issue of an inspection of what is found introspectively to be really thought in the concept of the subject. Though we have seen that what is "really thought" is said to be a definition, and that the mention of predicates not thought "with the same (full) consciousness" suggests a very wide range of predicates that might pass the logical but fail the phenomenological test, still it is clear that Kant was not free from a psychologizing, introspective tendency in his decisions on what is analytic and what is synthetic. The Port Royal Logic 16) demanded "moderate attention" to see whether the predicate is "truly contained in the idea of the subject", and not a completely articulated logical system as a criterion for this decision; the same kind of "moderate attention" seems to provide a criterion for Kant. He repeatedly asks himself and the reader what he thinks when he thinks a particular concept, and though undoubtedly one may think much, by casual association, which is not "contained in the concept", what he does _not_ think is _not_ included in the content of the concept.
+	Note 16) Part IV, Ch. VI." ([p.172][577q])  
+
+[577q]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#5
+
+**Reference:**    
+"Note 14) A recent paper by Robert S. Hartman, "Analytic and Synthetic as Categories of Inquiry" (Perspectives in Philosophy, Ohio State University, 1953, pp. 55--78), has the special merit of singling out the two kinds of analyticity, one of which it calls definitional and the other expositional, and distinguishing both from "analytic" in the sense of descriptive of what is "contained in" an experience of an empirical object. Hartman's paper presents very clearly the processes by Which analytic judgments lead to definitions, and definitions then establish a new and stricter criterion of analyticity. Another study of the process by which an analytic judgment may become synthetic is K. Sternberg, Uber die Unterscheidung von analytischen und synthetischen Urteilen", Kant-studien XXXI (1926) pp. 171-201." ([p.171][577h])  
+
+[577h]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#4
+
+**Interesting:**    
+"it is clear that the distinction between analytic and synthetic judgment is not one of formal logic, for formal logic abstracts from the meaning of all terms." ([p.173][576s])  
+
+[576s]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#6
+
+**Interesting:**    
+"B may he related to A indirectly by virtue of the fact that both 'are predicate,si ·Of the same X. Then the concept A does not include the con- cept of B .as a part of its logical essence, 1and to relate them to each other in judgment requires reference to the X of which erach is a partial con- cept. There are three kinds of X which serve to mediate between A and B. (i) X may be a schema of an object in general (of a thing, oause, etc.). (ii) X may be .a determinable intuition of sprace or time or both, which A ·and B both refer to ·and make determinate. (iii) X may be a datum or concretum of experience, "•the compl·ete experience of the object which I think through the concept An 19). In the former two caS•eS, the judgment will be valid regrardless of the empirical content of the concepts, and in the first oase there is esrta:blished the kind of judgment which appears in "metaphysics as science". Failure to provide a schema wLthout the conditions of rspace and time and to put the thing in itself in the role of the X makes synthetic judgments impossible except of objects of possible ·experience. The second is the situation wibh respect to mathe- maUoal judgments, where X is a construction. In the third alternative, the judgment is a posteriori. But in each case it is ·a synthetic judgment, since the predicate is not found by ·analysis of the logical subject. If X is (as is. actually the oase) a subjective condition for, the synthesis of A and B, the resulrting synthetic judgment is, in the transcendental sense, only subjectively valid; though we oan say still that the predicate is a part of the real and not of the nominal es•sence. In tlhe same sense, an analytic judgment is objectively and even transcendently valid, not being restricted to the conditions of synthesis placed upon the X 20)." ([p.173][533o])  
+
+[533o]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#6
+
+
+
+
+
+**Interesting:**    
+"there .are in Kant's writings two quite different species of concept. In one case, like that of "water", the word is "more properly to be regarded as merely a designation than as a concept of the thing" 24), and its meaning does vary with experience. In the other, the concept is fixed either by definition, or fixed because it is a pure concept which, while not subject to definition, is not subject to revision by the accumulation of experience.
+	Note 24) _Critique of Pure Reason_, A 728 I B 756." ([p.176][596i])  
+
+[596i]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#9
+
+**Interesting:**    
+"the more important point is that the concepts with which Kant is most concerned, viz., the categories, are not fixed by definition and need. not be fixed in this way. They are fixed because, as pure, they are not susceptible to experiental modification." ([p.177][577f])  
+
+[577f]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#10
+
+**Quote:**    
+"There is something strange and even nonsensical in the notion that there should be a concept which must have a meaning but which cannot be defined. But the categories are in a unique position, for only by virtue of the _general condition of sensibility_ can they have a definite meaning and relation to an object. This condition, however, is omitted in the pure category, for this can contain only the logical function of bringing the manifold under a concept 27),
+	Note 27 – CPR A 244-5; omitted from B. Italics supplied." ([p.178][525w])  
+
+[525w]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#11
+
+**Interesting:**    
+"most competent critics of Kant are in agreement that he was in error in saying that mathematical judgments are synthetic. It is said that what kept him from seeing that they are analytic was the lack of adequate mathematical definitions, definitions not available until much later. Professor Lewis characteristically writes: "It would be ungrateful and unjust to blame Kant for not foreseeing that, from genuinely adequate mathematical definitions, the theorems of mathematics might be deducible" 32). Obviously, deducible from definition and analytic are here regarded as equivalent notions.
+	Note 32) Op. cit. [An Analysis of Knowledge and Valuation], p. 162." ([p.179][564c])  
+
+[564c]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#12
+
+**Quote:**    
+"As it was found that the conclusions of mathematics all proceed according to the law of contradiction . . . men persuaded themselves that the fundamental principles were known by the same Law. This was a great mistake, for a synthetical proposition can indeed be understood [eingesehen] by the law of contradiction, but only by presupposing another synthetical proposition from which it follows, never by that law alone
+	Note 38) Prolegomena, §2 c 1 = Critique of Pure Reason, B 14." ([p.179][561h])  
+
+[561h]: customurl://com.hackademic.AppleScript.URL_Handler?action=1$Dropbox/PDFLibrary/beck1955.pdf#12
+
